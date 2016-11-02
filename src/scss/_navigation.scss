@@ -1,0 +1,71 @@
+.nav {
+  background: #fff;
+  width: 100%;
+  padding: 45px 5% 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  @media (min-width: #{$breakpoint}) {
+    width: 35%;
+  }
+
+  a {
+    color: $swatch-blue;
+    display: block;
+    text-decoration: none;
+    margin: 0 0 0.55em;
+    transition: color 250ms ease-in;
+
+    &:hover {
+      color: $swatch-purple;
+      transition: color 350ms ease-out 30ms;
+    }
+  }
+
+  > div:last-child {
+    align-self: flex-end;
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column-reverse;
+    font-size: 12px;
+
+    @media (max-width: #{$breakpoint}) {
+      margin-top: 30px;
+    }
+  }
+}
+
+
+.logo {
+  color: $swatch-blue;
+  display: block;
+  fill: $swatch-gray;
+  height: auto;
+  margin: 0 auto 0 0;
+  max-width: 280px;
+  transform: translateX( (percentage(50/370)*-1) )
+             translateY( (percentage(56/203)*-1) );
+  width: 70%;
+  transition: color 500ms ease-out,
+              fill 450ms ease-out;
+
+  position: absolute;
+  top: 10px;
+
+  @media (min-width: #{$breakpoint}) {
+    position: static;
+    max-width: 500px;
+  }
+
+  &:hover {
+    color: #9e76ff;
+
+    .power-of-3 {
+      animation: 800ms bounce;
+      transform-origin: center bottom;
+    }
+
+  }
+}

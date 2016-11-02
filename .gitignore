@@ -1,0 +1,11 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+node_modules
+*.sass-cache/
+*.log
+*.log.*
+sftp-config.json
+/uploads
+/css

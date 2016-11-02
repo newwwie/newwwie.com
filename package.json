@@ -1,0 +1,25 @@
+{
+  "name": "newwwie.com",
+  "version": "1.0.0",
+  "description": "website package",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node_modules/.bin/node-sass --output-style compressed src/scss/main.scss > css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newwwie/newwwie.com.git"
+  },
+  "keywords": [
+    "newcastle"
+  ],
+  "author": "@jnowland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newwwie/newwwie.com/issues"
+  },
+  "homepage": "https://github.com/newwwie/newwwie.com#readme",
+  "devDependencies": {
+    "node-sass": "^3.10.1"
+  }
+}

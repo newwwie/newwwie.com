@@ -1,0 +1,23 @@
+// the barebones of resets
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background: $swatch-purple;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  min-height: 100%;
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+
+  @media (min-width: #{$breakpoint}) {
+    flex-wrap: initial;
+  }
+}
