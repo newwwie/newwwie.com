@@ -1,0 +1,49 @@
+// few styles to make forms look ok.
+
+.form {
+  background-color: #fff;
+  padding: 1.5em 1em;
+}
+
+.control-input {
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  border: 2px solid $swatch-blue;
+  padding: 0.5em;
+  transition: border-color 100ms ease-out;
+
+  &:focus {
+    border-color: $swatch-purple;
+    outline: none;
+  }
+
+  & + & {
+    margin-top: 1em;
+  }
+
+  &--textarea {
+    min-height: 6em;
+  }
+
+}
+
+.button {
+  appearance: none;
+  background-color: $swatch-blue;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font-size: 16px;
+  padding: 0.6em 0.9em;
+  text-align: center;
+  margin: 2em 0 0 auto;
+  transition: background-color 200ms ease-out;
+
+  &:hover,
+  &:active {
+    background-color: $swatch-purple;
+  }
+
+}
