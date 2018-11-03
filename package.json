@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "website package",
   "main": "index.js",
+  "browserslist": "cover 99% in AU",
   "scripts": {
-    "build-css": "node_modules/.bin/node-sass --output-style compressed src/scss/main.scss > dist/css/main.css"
+    "build": "webpack",
+    "dev": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,20 @@
   },
   "homepage": "https://github.com/newwwie/newwwie.com#readme",
   "devDependencies": {
-    "node-sass": "^3.10.1"
+    "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "mini-css-extract-plugin": "^0.4.4",
+    "node-sass": "^4.9.4",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "preact": "^8.3.1",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   }
 }

@@ -1,0 +1,147 @@
+.event {
+
+    &Items {
+        padding: 0;
+    }
+
+    &Item {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        list-style-type: none;
+        margin-bottom: 1.25rem;
+        min-height: 140px;
+        padding-top: 1.25rem;
+        position: relative;
+
+        @media (min-width: #{$breakpoint}) {
+            flex-wrap: nowrap;
+
+            &:before {
+                background: $swatch-blue;
+                content: "";
+                height: 100%;
+                left: 0;
+                position: absolute;
+                top: 0;
+                transition: 0.2s linear all;
+                width: 1px;
+                z-index: 0;
+            }
+
+            &:nth-child(even):before {
+                width: 4px;
+            }
+
+            &:hover:before {
+                width: 10px;
+            }
+        }
+
+        &-start {
+
+            align-items: center;
+            display: flex;
+            flex-basis: 20%;
+            flex-grow: 0;
+            flex-shrink: 0;
+            flex-flow: column;
+            text-align: center;
+            z-index: 1;
+
+            &_time {
+                color: #999;
+                font-size: 0.7rem;
+            }
+            
+            &_day {
+                line-height: 1.5;
+            }
+
+            &_year {
+                color: #999;
+                font-size: 0.7rem;
+            }
+        }
+
+        &-details {
+            flex-basis: 80%;
+            flex-grow: 0;
+            flex-shrink: 0;
+            padding: 0 20px;
+
+            @media (min-width: #{$breakpoint}) {
+                flex-basis: 60%;
+            }
+        }
+
+        & &-title {
+            margin: 0;
+        }
+
+        & &-group {
+            font-size: 0.7rem;
+            margin-bottom: 0.75rem;
+        }
+
+        & .button {
+            align-self: flex-end;
+            margin-top: 0;
+            width: 100%;
+
+            @media (min-width: #{$breakpoint}) {
+                align-self: flex-start;
+                flex-basis: 20%;
+                width: auto;
+            }
+        }
+
+        &-stats {
+            
+            display: flex;
+            flex-direction: column;
+            font-size: 0.7rem;
+            list-style-type: none;
+            padding: 0.25rem;
+
+            & li {
+                margin-bottom: 0.5rem;
+            }
+
+            &_icon {
+                display: inline-block;
+                fill: $swatch-purple;
+                height: 1.2rem;
+                margin-right: 0.25rem;
+                vertical-align: middle;
+            }
+
+            @media (min-width: #{$breakpoint}) {
+                background: $swatch-purple;
+                color: #FFFFFF;
+                flex-direction: row;
+
+                & li {
+                    flex-basis: 33.3%;
+                    margin-bottom: 0;
+                    vertical-align: middle;
+                }
+
+                & span {
+                    display: none;
+                }
+
+                &_location {
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap; 
+                }
+
+                &_icon {
+                    fill: #FFFFFF;
+                }
+            }
+
+        }
+    }
+}
