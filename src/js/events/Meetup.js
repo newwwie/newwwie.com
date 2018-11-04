@@ -286,6 +286,7 @@ export class Meetup {
             25838989, // https://www.meetup.com/Blockchain-Incubator-Tank/
             29771518, // https://www.meetup.com/Hunter-Information-and-Analytics-Forum/
             29476889, // https://www.meetup.com/Crypto-Newcastle-Intelligence-Traded/
+            28813687, // https://www.meetup.com/Newcastle-Blockchain/
         ];
 
         return meetupGroupIds.join(',');
