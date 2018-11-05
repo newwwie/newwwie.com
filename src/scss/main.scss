@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import 'https://fonts.googleapis.com/css?family=Roboto:400,500';
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
 
 @import "config";
 @import "animations";
@@ -7,9 +7,10 @@
 @import "cards";
 @import "forms";
 @import "globals";
+@import "events";
 
 .content {
-  background-color: #e0e0e0;
+  background-color: $swatch-lightgray;
   color: $swatch-gray;
   width: 100%;
   padding: 25px 5%;
