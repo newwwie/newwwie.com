@@ -287,6 +287,7 @@ export class Meetup {
             29771518, // https://www.meetup.com/Hunter-Information-and-Analytics-Forum/
             29476889, // https://www.meetup.com/Crypto-Newcastle-Intelligence-Traded/
             28813687, // https://www.meetup.com/Newcastle-Blockchain/
+            13188402, // https://www.meetup.com/Newcastle-Infracoders/
         ];
 
         return meetupGroupIds.join(',');
