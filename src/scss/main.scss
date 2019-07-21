@@ -31,12 +31,13 @@
     &:before,
     &:after{
       content: '';
-      display:block;
       background-color: $swatch-blue;
-      width: 0.6em;
+      display:block;
       position: absolute;
-      top: -0.5em;
       height: 5px;
+      left: 0;
+      top: -0.5em;
+      width: 0.6em;
     }
     &:after {
       top: auto;
@@ -64,7 +65,7 @@
     opacity: 0;
     visibility: hidden;
     transition: opacity 1000ms ease 200ms,
-                visibility 1000ms ease 200ms;
+    visibility 1000ms ease 200ms;
     overflow: hidden;
     height:0;
 
@@ -96,23 +97,21 @@
 #home {
   display: block;
   opacity: 1;
-  visibility: visible;
-  margin-top: 86px;
   height: calc(100% - 86px);
+  visibility: visible;
 
   h1 {
-    color: #fff;
     background-color: mix($swatch-gray, $swatch-blue, 10%);
-    padding: 0.1em;
-    display: inline;
     box-decoration-break: clone;
+    color: #fff;
+    padding: 0.1em;    
   }
 
   div {
-    margin-top: 47px;
     background-color: rgba($swatch-gray, 0.9);
     color: #fff;
     display: inline-block;
+    margin-top: 47px;
     padding: 9px;
   }
 

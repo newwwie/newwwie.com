@@ -1,9 +1,10 @@
 'use strict';
 
 const path                    = require('path');
-const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const autoprefixer            = require("autoprefixer");
 const MiniCssExtractPlugin    = require("mini-css-extract-plugin");
 const MinifyPlugin            = require("babel-minify-webpack-plugin");
+const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 
 
 module.exports = {
@@ -23,7 +24,17 @@ module.exports = {
         rules: [
             {
                 test: /\.scss$/,
-                use: [ MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader' ]
+                use: [ 
+                    MiniCssExtractPlugin.loader, 
+                    'css-loader',
+                    {
+                        loader: 'postcss-loader',
+                        options: {
+                          plugins: () => [autoprefixer()]
+                        }
+                    },
+                    'sass-loader' 
+                ]
             },
             {
                 test: /\.js$/,
