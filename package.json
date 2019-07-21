@@ -4,8 +4,7 @@
   "description": "website package",
   "main": "index.js",
   "browserslist": [
-    "cover 99% in AU",
-    "not ie <= 10"
+    "cover 90% in AU"
   ],
   "scripts": {
     "build": "webpack",
