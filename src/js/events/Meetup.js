@@ -1,4 +1,4 @@
-import { h, render } from 'preact';
+import { h, Component, render } from "preact";
 
 'use strict';
 
@@ -8,7 +8,7 @@ export class Meetup {
      * @name meetupResponse
      * @description Callback function triggered by calling the Meetup script
      * @see https://www.meetup.com/meetup_api/docs/
-     * 
+     *
      * @param {object} response The JSON response from the Meetup API
      */
     constructor() {
@@ -39,7 +39,7 @@ export class Meetup {
     /**
      * @name getGroupIds
      * @description Array of meetup id's that are turned into a comma separated string.
-     * 
+     *
      * @returns {string} All Meetup Group IDs as a comma-separated string
      */
     getGroupIds() {
@@ -74,15 +74,18 @@ export class Meetup {
     /**
      * @name callback
      * @description Handle the response from the Meetup API
-     * 
-     * @param {object} response 
+     *
+     * @param {object} response
      */
     callback(response) {
         // Check if we have a results object.
         if (response.results) {
             // Check to make sure we have at least 1 result
             if (response.results.length > 0) {
-                this.renderList(response.results);
+                render(
+                  this.renderList(response.results),
+                  document.getElementById('meetupEvents')
+                );
             } else {
                 // We have no results, let the user know we have no upcoming events
                 render(
@@ -107,19 +110,19 @@ export class Meetup {
     /**
      * @name renderList
      * @description Render the response from meetup onto the page utilising Preact
-     * 
+     *
      * @see https://www.meetup.com/meetup_api/docs/2/events/ for full documentation of the results object
-     * 
-     * @param {object} results 
+     *
+     * @param {object} results
      */
     renderList(results) {
-        results.map(function (item, i) {
+        return results.map(function (item, i) {
             let startTime = new Date(item.time);
             let prettyDay = this.niceDay(startTime.getDay());
             let prettyMonth = this.niceMonth(startTime.getMonth());
             let prettyTime = this.niceTime(startTime);
 
-            render(
+            return (
                 <li class="eventItem">
                     <div class="eventItem-left">
                         {this.renderImage(item.group, item.photo_url)}
@@ -167,18 +170,18 @@ export class Meetup {
                         </ul>
                     </div>
                     <a class="button" href={item.event_url}>More info</a>
-                </li>,
-                document.getElementById('meetupEvents'))
+                </li>
+            )
         }.bind(this));
     }
 
     /**
      * @name renderImage
      * @description Display the image from the group or meetup, if not supplied, fallback to CSS placeholder.
-     * 
-     * @param {object} group 
-     * @param {string} photo_url 
-     * 
+     *
+     * @param {object} group
+     * @param {string} photo_url
+     *
      * @returns {object} JSX Object for image / placeholder
      */
     renderImage(group, photo_url) {
@@ -199,9 +202,9 @@ export class Meetup {
     /**
      * @name renderLocationLink
      * @description Not all events have location data, we need to conditionally show information based on what's supplied.
-     * 
-     * @param {object} venue 
-     * 
+     *
+     * @param {object} venue
+     *
      * @returns {object} JSX Object for location based on available data
      */
     renderLocationLink(venue) {
@@ -214,15 +217,15 @@ export class Meetup {
         }
 
         return (<em>Not specified</em>);
-        
+
     }
 
     /**
      * @name niceTime
      * @description Create a human-readable time. Has backwards compatability for browsers that don't have full support for toLocaleString
-     * 
-     * @param {object} date 
-     * 
+     *
+     * @param {object} date
+     *
      * @returns {string} The time in a human-readable format
      */
     niceTime(date) {
@@ -237,9 +240,9 @@ export class Meetup {
     /**
      * @name niceHours
      * @description Converts the hour value into 12 hour format
-     * 
-     * @param {number} hour 
-     * 
+     *
+     * @param {number} hour
+     *
      * @returns {number} The hour in human-readable format
      */
     niceHours(hour) {
@@ -249,10 +252,10 @@ export class Meetup {
     /**
      * @name niceDay
      * @description Returns a string of the current day corresponding to the number supplied
-     * 
-     * @param {number} day 
-     * @param {boolean} slice 
-     * 
+     *
+     * @param {number} day
+     * @param {boolean} slice
+     *
      * @returns {string} The day of the week in human-readable form
      */
     niceDay(day, slice = true) {
@@ -276,10 +279,10 @@ export class Meetup {
     /**
      * @name niceMonth
      * @description Return our month in a human-readable format
-     * 
+     *
      * @param {number} month The month to translate
      * @param {boolean} [slice=true] If we want to show the abbreviation or full word, defaults to abbreviation
-     * 
+     *
      * @returns {string} The month in human-readable form
      */
     niceMonth(month, slice = true) {
