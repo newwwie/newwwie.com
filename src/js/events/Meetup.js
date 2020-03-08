@@ -66,6 +66,7 @@ export class Meetup {
             28813687, // https://www.meetup.com/Newcastle-Blockchain/
             13188402, // https://www.meetup.com/Newcastle-Infracoders/
             32395711, // https://www.meetup.com/Newcastle-Cyber-Security-Group/
+            33364934, // https://www.meetup.com/qa-newcastle/
         ];
 
         return meetupGroupIds.join(',');
