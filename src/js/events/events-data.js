@@ -1,4 +1,4 @@
-// Auto Generated on 2022-03-16T05:27:30.652Z
+// Auto Generated on 2022-03-16T11:17:59.447Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "PRESENTER: Jack McKew\n\nEvery day, billions of people around the world use a map to get information about their surroundings. The data behind these maps also changes very frequently, but how do we keep these interactive maps up to date for the user?\n\nThis talk goes into how Deckee addresses the problem of frequently updated data behind maps, and how it's served to users around the globe at scale.\n\nDeckee is the free boating app for local information, trip logging, weather, navigation aids and official alerts and notices.\n\nSPEAKER BIO:\nJack is a Senior Full Stack Engineer at Deckee, focused on data science and engineering. Jack has a published paper in The Geography of Covid-19 Spread in Italy Using Social Media and Geospatial Data Analytics and has a degree in Electrical Engineering from the University of Newcastle.\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-03-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283703891",
-      "going": 31,
+      "going": 30,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
