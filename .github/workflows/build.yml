@@ -27,6 +27,10 @@ jobs:
         run: yarn install
       - run: yarn fetchEvents
       - run: yarn build
-      - run: git add src/js/events/events.json
-      - run: git commit -m "Auto update events.json"
-      - run: git push origin master
+      - name: Commit events.json
+        run: |
+          git config --global user.name 'Newwwie Bot'
+          git config --global user.email 'buildbot@newwwie.com'
+          git add src/js/events/events.json
+          git commit -m "Get latest set of Meetup events"
+          git push
