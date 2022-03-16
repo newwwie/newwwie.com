@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'Newwwie Bot'
           git config --global user.email 'buildbot@newwwie.com'
-          git add src/js/events/events.json
+          git add src/js/events/events-data.js
           git commit -m "Get latest set of Meetup events"
           git push
