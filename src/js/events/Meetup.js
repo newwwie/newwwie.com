@@ -1,5 +1,5 @@
 import { h, Component, render } from "preact";
-import events from "./events";
+import events from "./events-data";
 
 'use strict';
 
