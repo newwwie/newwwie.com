@@ -1,4 +1,5 @@
-[
+// Auto Generated on 2022-03-16T05:22:09.892Z
+ module.exports = [
   {
     "event": {
       "title": "data.MARCH <= Jack McKew: Dynamic Map Tile Generation at Scale",
