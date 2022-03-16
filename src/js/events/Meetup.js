@@ -1,4 +1,5 @@
 import { h, Component, render } from "preact";
+import events from "./events.json";
 
 'use strict';
 
@@ -12,79 +13,20 @@ export class Meetup {
      * @param {object} response The JSON response from the Meetup API
      */
     constructor() {
-        this.injectScript();
+        this.render(events);
     }
 
     /**
-     * @name injectScript
-     * @description Creates a script tag and injects into the document body that will then callback our assigned function upon completion
-     */
-    injectScript() {
-        // Declare our variables
-        const url    = `https://api.meetup.com/2/events.json?&sign=true&callback=meetupCallback&photo-host=public&page=20&text_format=html&fields=group_photo&group_id=${this.getGroupIds()}`;
-        const script = document.createElement('script');
-
-        // Add attrbutes to our newly created script tag
-        script.src  = url;
-        script.type = 'text/javascript';
-        script.id   = 'meetupCallback';
-
-        // Bind callback to class function
-        window.meetupCallback = this.callback.bind(this);
-
-        // Inject script tag into page
-        document.getElementsByTagName("head")[0].appendChild(script);
-    }
-
-    /**
-     * @name getGroupIds
-     * @description Array of meetup id's that are turned into a comma separated string.
-     *
-     * @returns {string} All Meetup Group IDs as a comma-separated string
-     */
-    getGroupIds() {
-        const meetupGroupIds = [
-            20204121, // https://www.meetup.com/NewcastleJS-JavaScript-Meetup/
-            6833072,  // https://www.meetup.com/Agile-Newcastle/
-            17088032, // https://www.meetup.com/Newcastle-Coders-Group/
-            27032348, // https://www.meetup.com/Newcastle-Software-Development-Meetup/
-            28984950, // https://www.meetup.com/Blast-Furnace/
-            20194706, // https://www.meetup.com/Newcastle-IoT-Pioneers/
-            30354190, // https://www.meetup.com/The-Things-Network-Meetup-Newcastle-Lake-Macquarie/
-            30239615, // https://www.meetup.com/Newcastle-Data-Analytics-Meetup/
-            24451638, // https://www.meetup.com/Newcastle-Futurists/
-            23506569, // https://www.meetup.com/IxDA-Newcastle/
-            21785246, // https://www.meetup.com/Core-Electronics-Workshops/
-            30396067, // https://www.meetup.com/TOOOL-au-Newcastle-Locksport-Security-Enthusiast-Meetup/
-            27359342, // https://www.meetup.com/Newcastle-Virtual-Reality-Meetup/
-            29978790, // https://www.meetup.com/Diversity-in-Technology-Newcastle/
-            24324429, // https://www.meetup.com/Newcastle-SEO/
-            25811467, // https://www.meetup.com/meetup-group-xveezgem/
-            25838989, // https://www.meetup.com/Blockchain-Incubator-Tank/
-            29771518, // https://www.meetup.com/Hunter-Information-and-Analytics-Forum/
-            29476889, // https://www.meetup.com/Crypto-Newcastle-Intelligence-Traded/
-            28813687, // https://www.meetup.com/Newcastle-Blockchain/
-            13188402, // https://www.meetup.com/Newcastle-Infracoders/
-            32395711, // https://www.meetup.com/Newcastle-Cyber-Security-Group/
-            33364934, // https://www.meetup.com/qa-newcastle/
-        ];
-
-        return meetupGroupIds.join(',');
-    }
-
-    /**
-     * @name callback
+     * @name render
      * @description Handle the response from the Meetup API
      *
-     * @param {object} response
+     * @param {events} events array
      */
-    callback(response) {
-        // Check if we have a results object.
-        if (response.results) {
+    render(events) {
             // Check to make sure we have at least 1 result
-            if (response.results.length > 0) {
+            if (events.length > 0) {
                 render(
-                  this.renderList(response.results),
+                  this.renderList(events),
                   document.getElementById('meetupEvents')
                 );
             } else {
@@ -96,17 +38,7 @@ export class Meetup {
                     document.getElementById('meetupEvents')
                 );
             }
-        } else {
-            // No results object, we've run into a problem, display it to the user.
-            render(
-                <li>
-                    <p>{response.problem}</p>
-                    <p>{response.details}</p>
-                </li>,
-                document.getElementById('meetupEvents')
-            );
         }
-    }
 
     /**
      * @name renderList
@@ -117,16 +49,17 @@ export class Meetup {
      * @param {object} results
      */
     renderList(results) {
-        return results.map(function (item, i) {
-            let startTime = new Date(item.time);
-            let prettyDay = this.niceDay(startTime.getDay());
-            let prettyMonth = this.niceMonth(startTime.getMonth());
-            let prettyTime = this.niceTime(startTime);
+        return results.map((item, i) => {
+            const { event, group } = item;
+            const startTime = new Date(event.dateTime);
+            const prettyDay = this.niceDay(startTime.getDay());
+            const prettyMonth = this.niceMonth(startTime.getMonth());
+            const prettyTime = this.niceTime(startTime);
 
             return (
                 <li class="eventItem">
                     <div class="eventItem-left">
-                        {this.renderImage(item.group, item.photo_url)}
+                        {this.renderImage(group, event.photoUrl)}
                         <div class="eventItem-start">
                             <span class="eventItem-start_day">{prettyDay}</span>
                             <span class="eventItem-start_time">{prettyTime}</span>
@@ -135,8 +68,8 @@ export class Meetup {
                         </div>
                     </div>
                     <div class="eventItem-right">
-                        <p class="eventItem-title">{item.name}</p>
-                        <p class="eventItem-group">Hosted by: <a href={`https://meetup.com/${item.group.urlname}`}>{item.group.name}</a></p>
+                        <p class="eventItem-title">{event.name}</p>
+                        <p class="eventItem-group">Hosted by: <a href={`https://meetup.com/${group.urlname}`}>{group.name}</a></p>
                         <ul class="eventItem-stats">
                             <li class="eventItem-stats_rsvp" title="Number of people who have RSVP'd vs. the total number of spots">
                                 <svg version="1.1" class="eventItem-stats_icon" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"viewBox="0 0 482.9 482.9" style="enable-background:new 0 0 482.9 482.9;">
@@ -147,7 +80,7 @@ export class Meetup {
                                         </g>
                                     </g>
                                 </svg>
-                                {item.yes_rsvp_count} / {item.rsvp_limit ? item.rsvp_limit : "\u221E"} <span>spots available</span>
+                                {event.going} / {event.maxTickets ? event.maxTickets : "\u221E"} <span>spots available</span>
                             </li>
                             <li class="eventItem-stats_duration" title="Duration of the event">
                                 <svg version="1.1" class="eventItem-stats_icon" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;">
@@ -157,7 +90,7 @@ export class Meetup {
                                         <path d="M30,6c-0.552,0-1,0.447-1,1v23H14c-0.552,0-1,0.447-1,1s0.448,1,1,1h16c0.552,0,1-0.447,1-1V7C31,6.447,30.552,6,30,6z"/>
                                     </g>
                                 </svg>
-                                {item.duration / 60000} minutes
+                                {this.parseIsoDuration(event.duration)}
                             </li>
                             <li class="eventItem-stats_location" title="Location of the event">
                                 <svg version="1.1" class="eventItem-stats_icon" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 54.757 54.757" style="enable-background:new 0 0 54.757 54.757;">
@@ -166,14 +99,14 @@ export class Meetup {
                                         <path d="M40.94,5.617C37.318,1.995,32.502,0,27.38,0c-5.123,0-9.938,1.995-13.56,5.617c-6.703,6.702-7.536,19.312-1.804,26.952L27.38,54.757L42.721,32.6C48.476,24.929,47.643,12.319,40.94,5.617z M41.099,31.431L27.38,51.243L13.639,31.4C8.44,24.468,9.185,13.08,15.235,7.031C18.479,3.787,22.792,2,27.38,2s8.901,1.787,12.146,5.031C45.576,13.08,46.321,24.468,41.099,31.431z"/>
                                     </g>
                                 </svg>
-                                {this.renderLocationLink(item.venue)}
+                                {this.renderLocationLink(event.venue)}
                             </li>
                         </ul>
                     </div>
-                    <a class="button" href={item.event_url}>More info</a>
+                    <a class="button" href={event.eventUrl}>More info</a>
                 </li>
             )
-        }.bind(this));
+        });
     }
 
     /**
@@ -185,12 +118,12 @@ export class Meetup {
      *
      * @returns {object} JSX Object for image / placeholder
      */
-    renderImage(group, photo_url) {
+     renderImage(group, photo_url) {
         let contents = '';
         let containerClass = 'eventItem-image';
 
-        if (group.group_photo) {
-            contents = (<img src={group.group_photo.thumb_link} alt={group.name} class="eventItem-groupPhoto" />);
+        if (group.groupPhoto) {
+            contents = (<img src={this.renderImageLink(group.groupPhoto)} alt={group.name} class="eventItem-groupPhoto" />);
         } else if (photo_url) {
             contents = (<img src={photo_url} alt={group.name} class="eventItem-image_photo" />);
         } else {
@@ -210,16 +143,20 @@ export class Meetup {
      */
     renderLocationLink(venue) {
         if (venue) {
-            if (venue.hasOwnProperty('lat') && venue.hasOwnProperty('lon')) {
-                return (<a href={`https://www.google.com/maps/search/${encodeURIComponent(venue.name)}/@${venue.lat},${venue.lon},16z`} target="_blank"><span>{venue.address_1}, {venue.city} - </span>View on Google</a>);
+            if (venue.hasOwnProperty('lat') && venue.hasOwnProperty('lng')) {
+                return (<a href={`https://www.google.com/maps/search/${encodeURIComponent(venue.name)}/@${venue.lat},${venue.lng},16z`} target="_blank"><span>{venue.address}, {venue.city} - </span>View on Google</a>);
             } else {
-                return (<em><span>{venue.address_1},</span> {venue.city}</em>);
+                return (<em><span>{venue.address},</span> {venue.city}</em>);
             }
         }
 
         return (<em>Not specified</em>);
 
     }
+
+    renderImageLink(photo, size = "676x380") {
+        return `${photo.baseUrl}${photo.id}/${size}.webp`;
+      }
 
     /**
      * @name niceTime
@@ -308,5 +245,15 @@ export class Meetup {
 
         return months[month];
     }
+
+    parseIsoDuration(isoDuration) {
+        const DURATION_REGEX =
+            /P((?<years>\d+)Y)?((?<months>\d+)M)?((?<days>\d+)D)?T((?<hours>\d+)H)?((?<minutes>\d+)M)?((?<seconds>\d+)S)?/;
+        const { groups } = isoDuration.match(DURATION_REGEX);
+        return Object.keys(groups).reduce(
+          (p, n) => (groups[n] ? p + `${groups[n]} ${n}` : p),
+          ""
+        );
+      }
 
 }
