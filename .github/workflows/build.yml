@@ -1,0 +1,34 @@
+name: Build
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '00 13 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies
+        run: yarn install
+      - run: yarn fetchEvents
+      - run: yarn build
+      - name: Commit events.json
+        run: |
+          git config --global user.name 'Newwwie Bot'
+          git config --global user.email 'buildbot@newwwie.com'
+          git add src/js/events/events-data.js
+          git commit -m "Get latest set of Meetup events"
+          git push
