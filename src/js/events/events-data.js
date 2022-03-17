@@ -1,45 +1,12 @@
-// Auto Generated on 2022-03-16T11:17:59.447Z
+// Auto Generated on 2022-03-17T11:17:55.863Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.MARCH <= Jack McKew: Dynamic Map Tile Generation at Scale",
-      "description": "PRESENTER: Jack McKew\n\nEvery day, billions of people around the world use a map to get information about their surroundings. The data behind these maps also changes very frequently, but how do we keep these interactive maps up to date for the user?\n\nThis talk goes into how Deckee addresses the problem of frequently updated data behind maps, and how it's served to users around the globe at scale.\n\nDeckee is the free boating app for local information, trip logging, weather, navigation aids and official alerts and notices.\n\nSPEAKER BIO:\nJack is a Senior Full Stack Engineer at Deckee, focused on data science and engineering. Jack has a published paper in The Geography of Covid-19 Spread in Italy Using Social Media and Geospatial Data Analytics and has a degree in Electrical Engineering from the University of Newcastle.\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
-      "dateTime": "2022-03-17T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283703891",
-      "going": 30,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "Hunter-Data-Analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG, March 2022 | Andrew Newnham, Introspectus",
       "description": "Let's try this again! Andrew was our originally scheduled speaker for February, but had to pull out due to unforeseen circumstances. Lightning doesn't strike twice in the same place, so we'll be fine 🤞\n\n**Talk synopsis:**\n\n*Since June 2017, the Australian Signals Directorate have published the ASD Essential Eight Maturity Model. The Essential Eight Maturity Model provides minimum security standards which private enterprise is recommended to follow, and which Government Departments must follow.*\n\n*These standards cover security enforcement at a technical level, as well as non-technical policy and procedures which must be followed to be compliant.*\n\n*Andrew will discuss the challenges that Introspectus’ customers have had implementing the Essential Eight and what things Introspectus looks for when determining what Maturity Level an organisation is.*\n*This talk is ideal for those who have been told that they need to start complying with ASD’s Essential 8 but don’t know where to start.*\n\n**About Andrew:**\n\n*Andrew has been in the IT industry for more than 20 years. He has seen corporate networks transform from small little offices with a server under a desk in the backroom to massive global corporate networks.*\n\n*He has worked in Infrastructure and Software Development and has skills in securing large systems, and working with very large data sets.*\n*He started building the first prototypes of Introspectus back in 2014. Since then, he has built up a software development team to expand the project into the Introspectus Product.*\n\n*Outside of computers, he is a massive aviation geek and will happily talk about airplanes for hours. He also loves boats and car racing, albeit as a spectator not a driver. Chances are if it has an engine Andrew will like it.*\n\n**Event details:**\n\nDate: 24th March, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - seminar space on Level 2\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month... except for this one) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-03-24T18:00+11:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Cyber-Security-Group/events/284545801",
-      "going": 12,
+      "going": 15,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/502592922/676x380.webp",
@@ -105,7 +72,7 @@
       "description": "This April, hear from fellow Novocastrian, Director & Founder of Safe Gauge Luke Dawson.\n\nLuke grew up in the Hunter Valley and went to Maitland Grossmann High finishing in 2010. As a field service technician specialising in Caterpillar equipment, some of the machines Luke was responsible for maintaining were large dump trucks, bulldozers, excavators and wheel loaders. Throughout the 8 years working in the mining industry, Luke had a few ideas on completing common high-risk jobs much safer and more efficiently.\n\n[Safe Gauge ](https://safegauge.com.au/)has gone from strength to strength over the past few years, securing investment and scaling rapidly.\n\nJoin us on April 7th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP via the link in the comments, as seats are limited to 50\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-04-07T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/284499010",
-      "going": 12,
+      "going": 13,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/502556750/676x380.webp",
