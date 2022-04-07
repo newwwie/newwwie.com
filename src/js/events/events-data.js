@@ -1,38 +1,5 @@
-// Auto Generated on 2022-04-06T13:33:38.984Z
+// Auto Generated on 2022-04-07T13:32:34.933Z
  module.exports = [
-  {
-    "event": {
-      "title": "IoT for Worksite Safety",
-      "description": "This April, hear from fellow Novocastrian, Director & Founder of Safe Gauge Luke Dawson.\n\nLuke grew up in the Hunter Valley and went to Maitland Grossmann High finishing in 2010. As a field service technician specialising in Caterpillar equipment, some of the machines Luke was responsible for maintaining were large dump trucks, bulldozers, excavators and wheel loaders. Throughout the 8 years working in the mining industry, Luke had a few ideas on completing common high-risk jobs much safer and more efficiently.\n\n[Safe Gauge ](https://safegauge.com.au/)has gone from strength to strength over the past few years, securing investment and scaling rapidly.\n\nJoin us on April 7th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP via the link in the comments, as seats are limited to 50\n\n#meetup #networking #engineering #startup #IoT",
-      "dateTime": "2022-04-07T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/284499010",
-      "going": 20,
-      "maxTickets": 50,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/502556750/676x380.webp",
-      "venue": {
-        "name": "The Stag and Hunter hotel ",
-        "lat": -32.897346,
-        "lng": 151.73651,
-        "address": "cnr hanbury and maitland rd  mayfield",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Coding Comp!",
@@ -72,7 +39,7 @@
       "description": "CALL FOR SPEAKERS:\n\nDo you have an interesting data story to tell?\n\nWould you like to give this month's presentation?\n\nFollow the link below to our Google form to express your interest and we'll contact you soon!\n\nhttps://forms.gle/y57b2seehSgvtGgn7\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n- Wood fired pizza, sponsored by Newy Tech People\n- Please advise dietary requirements in RSVP\n- Soft drinks\n\nSCHEDULE:\n- 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n- 6:15pm: Presentation\n- 7:15pm: Packing up + Bonus questions\n- 7:30pm: Close",
       "dateTime": "2022-04-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283702240",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -94,6 +61,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Industrial IoT as a tipping point - Hear from Telstra's IIoT Domain Lead",
+      "description": "IoT Pioneers in May, hear from Telstra's Domain Lead for Industrial IoT Mark Atkinson as he walks us through industrial IoT as a tipping point.\n\nWith the explosion of connected devices, the value proposition is no longer about connecting and monitoring. Industrial IoT now moves to a world of analysis, building insights for timely actionable outcomes.\n\nAs an experienced innovator with a proven record of bringing new technology outcomes to market, Mark helps businesses span the gap between ‘need’ and technology. Mark is also an active participant at the IoT Alliance Australia (IOTAA) - a founding member, current Lead of the Energy/Mining Work Stream and a member of the awards judging panel. Within Telstra Mark focuses on Industrial IoT - the capability to monitor behaviour at scale, provide analysis and draw insights for quick action.\n\nJoin us on May 5th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
+      "dateTime": "2022-05-05T18:30+10:00",
+      "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285071516",
+      "going": 2,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503178697/676x380.webp",
+      "venue": {
+        "name": "The Stag and Hunter hotel ",
+        "lat": -32.897346,
+        "lng": 151.73651,
+        "address": "cnr hanbury and maitland rd  mayfield",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
