@@ -1,4 +1,4 @@
-// Auto Generated on 2022-04-08T02:24:10.955Z
+// Auto Generated on 2022-04-08T13:35:12.571Z
  module.exports = [
   {
     "event": {
@@ -61,6 +61,33 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "May Meeting",
+      "description": "We are sorting out details",
+      "dateTime": "2022-05-04T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/Newcastle-Coders-Group/events/285145356",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "469014591",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "469014591",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
