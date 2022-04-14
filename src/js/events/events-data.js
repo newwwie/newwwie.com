@@ -1,38 +1,5 @@
-// Auto Generated on 2022-04-13T13:32:24.794Z
+// Auto Generated on 2022-04-14T13:34:57.137Z
  module.exports = [
-  {
-    "event": {
-      "title": "Coding Comp!",
-      "description": "Hey everyone, Blast Furnace in April- fire up for another opportunity to show off your skills!\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\nWhat you need to know about this event:\n\n1. Laid back, no pressure and collaboration is encouraged\n2. Anyone can participate! (It doesn't matter what country you're in!)\n3. Use CodinGame to run the comps\n4. Each challenge is no longer than 10min (often faster)\n5. You can program in your choice of 24 different languages\n6. Have a practice on CodinGame beforehand if you want to get a feel\n\nHow it works:\nWe use CodinGame (https://www.codingame.com/start) to run code clashes. These are time restricted (10-15min) programming problems that you can solve using 1 of 27 different programming languages including Bash, JavaScript, Python3, C, C++ Dart, Swift, Ruby and many more...\n\nSee here for full list https://www.codingame.com/playgrounds/40701/help-center/languages-versions\n\nThere are 3 types of problems we solve:\n\n* **Fastest:** You win if you come up with the correct solution in the fastest amount of time\n* **Shortest:** The person who uses the least amount of characters to solve the problem wins\n* **Reverse:** you get given the inputs and outputs and must write the code to produce the given outputs based on the given inputs.\n\nYou get points for attempting each challenge and rewarded for coming in 1st, 2nd, or 3rd. We will complete around 6 - 8 challenges over the duration of the event and the final winner is the person with the most points at the end.\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\nJoin us online for a few laughs and some healthy competition!",
-      "dateTime": "2022-04-14T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/Blast-Furnace/events/284893515",
-      "going": 4,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501791387/676x380.webp",
-      "venue": {
-        "name": "The Melt",
-        "lat": -32.96363,
-        "lng": 151.65958,
-        "address": "1/323 Hillsborough Road",
-        "city": "Warners Bay"
-      }
-    },
-    "group": {
-      "name": "Blast Furnace",
-      "urlname": "Blast-Furnace",
-      "groupPhoto": {
-        "id": "483748559",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483748559",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.APR <- Analysing wind data: here be dragons!",
@@ -99,7 +66,7 @@
       "description": "IoT Pioneers in May, hear from Telstra's Domain Lead for Industrial IoT Mark Atkinson as he walks us through industrial IoT as a tipping point.\n\nWith the explosion of connected devices, the value proposition is no longer about connecting and monitoring. Industrial IoT now moves to a world of analysis, building insights for timely actionable outcomes.\n\nAs an experienced innovator with a proven record of bringing new technology outcomes to market, Mark helps businesses span the gap between ‘need’ and technology. Mark is also an active participant at the IoT Alliance Australia (IOTAA) - a founding member, current Lead of the Energy/Mining Work Stream and a member of the awards judging panel. Within Telstra Mark focuses on Industrial IoT - the capability to monitor behaviour at scale, provide analysis and draw insights for quick action.\n\nJoin us on May 5th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-05-05T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285071516",
-      "going": 3,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503178697/676x380.webp",
