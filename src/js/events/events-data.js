@@ -1,4 +1,4 @@
-// Auto Generated on 2022-04-17T13:27:58.736Z
+// Auto Generated on 2022-04-18T13:34:05.535Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In this talk we will try to answer a seemingly simple question: how often does the wind speed exceed a given threshold at a specific location.\n\nThis will lead us down the rabbit hole of searching for weather data, the minefield of interpreting wind behaviour from anemometers, structural wind engineering best practice and wind tunnels, distinct weather events and extreme value statistics.\n\nAlex Diamond is a mechanical come software/data engineer with experience working in many sectors including manufacturing, construction, health, nuclear physics, computation physics, wind engineering, renewable energy and retail. Much of this talk will be driven from his time working as a Wind Engineer (think bridges, not wind turbines) at Arup. He now works across backend, cloud based applications and data driven services. He also has a kind of unhealthy obsession with programming language design and implementation - expect to see some FP in this talk.\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-04-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283702240",
-      "going": 26,
+      "going": 27,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -43,7 +43,13 @@
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lng": 151.77159,
+        "address": "432 Hunter St",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
@@ -88,6 +94,39 @@
       },
       "logo": {
         "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "data.MAY <- Provisional: MLens and Cubist",
+      "description": "CALL FOR SPEAKERS:\n\nDo you have an interesting data story to tell?\n\nWould you like to give this month's presentation?\n\nFollow the link below to our Google form to express your interest and we'll contact you soon!\n\nhttps://forms.gle/y57b2seehSgvtGgn7\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n- Wood fired pizza, sponsored by Newy Tech People\n- Please advise dietary requirements in RSVP\n- Soft drinks\n\nSCHEDULE:\n- 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n- 6:15pm: Presentation\n- 7:15pm: Packing up + Bonus questions\n- 7:30pm: Close",
+      "dateTime": "2022-05-19T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283702245",
+      "going": 7,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Hunter Data Analytics",
+      "urlname": "Hunter-Data-Analytics",
+      "groupPhoto": {
+        "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483576656",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
