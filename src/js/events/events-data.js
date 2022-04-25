@@ -1,4 +1,4 @@
-// Auto Generated on 2022-04-24T13:29:54.861Z
+// Auto Generated on 2022-04-25T13:36:47.643Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "We are sorting out details",
       "dateTime": "2022-05-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Coders-Group/events/285145356",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "IoT Pioneers in May, hear from Telstra's Domain Lead for Industrial IoT Mark Atkinson as he walks us through industrial IoT as a tipping point.\n\nWith the explosion of connected devices, the value proposition is no longer about connecting and monitoring. Industrial IoT now moves to a world of analysis, building insights for timely actionable outcomes.\n\nAs an experienced innovator with a proven record of bringing new technology outcomes to market, Mark helps businesses span the gap between ‘need’ and technology. Mark is also an active participant at the IoT Alliance Australia (IOTAA) - a founding member, current Lead of the Energy/Mining Work Stream and a member of the awards judging panel. Within Telstra Mark focuses on Industrial IoT - the capability to monitor behaviour at scale, provide analysis and draw insights for quick action.\n\nJoin us on May 5th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-05-05T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285071516",
-      "going": 13,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503178697/676x380.webp",
