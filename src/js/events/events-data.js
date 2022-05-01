@@ -1,4 +1,4 @@
-// Auto Generated on 2022-04-30T13:29:46.597Z
+// Auto Generated on 2022-05-01T13:31:17.903Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "May meeting at the SSW Newcastle office\n\n**The talk - [Adam Cogan](https://www.ssw.com.au/people/adam-cogan):**\nLearn what you need to know to become a NASA rocket scientist…. Sorry Azure Architect.\nIt is easy to sign into the Azure portal, click around and create a bunch of services. That's not good, it's called ClickOps.\nA good developer needs solid best practices to build enterprise software. Learn how to be more cost efficient, more scalable utilizing strong Azure skills. Adam Cogan will walk you through the 10 things you need to know to start singing with Azure... enjoy your journey from Kitty Hawk to Mars.\n\n**Getting there:**\nPublic Transport: The closest public transport is the civic tram stop.\nParking: There is some on street parking available in Civic Lane and a car park at the Wright Lane carpark.\n\n**Agenda:**\n6:00 News\n6:20 Adam's talk\n7:20 Pizza\n7:40 the rest of Adam's talk.\n\n**Stream:**\nSSW will be streaming the event. Keep an eye on https://twitter.com/ncgau for the link.",
       "dateTime": "2022-05-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Coders-Group/events/285145356",
-      "going": 15,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "It's been a while... time for a beer (or drink of choice) and a chat, whether you work in the design space, are studying design or just interested in design.\n\nPlease stay at home if you're unwell, you know the drill by now!\n\nLooking forward to catching up in person.",
       "dateTime": "2022-05-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/IxDA-Newcastle/events/285605518",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/468275527/676x380.webp",
