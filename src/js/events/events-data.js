@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-02T13:42:46.358Z
+// Auto Generated on 2022-05-03T13:43:15.884Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "May meeting at the SSW Newcastle office\n\n**The talk - [Adam Cogan](https://www.ssw.com.au/people/adam-cogan):**\nLearn what you need to know to become a NASA rocket scientist…. Sorry Azure Architect.\nIt is easy to sign into the Azure portal, click around and create a bunch of services. That's not good, it's called ClickOps.\nA good developer needs solid best practices to build enterprise software. Learn how to be more cost efficient, more scalable utilizing strong Azure skills. Adam Cogan will walk you through the 10 things you need to know to start singing with Azure... enjoy your journey from Kitty Hawk to Mars.\n\n**Getting there:**\nPublic Transport: The closest public transport is the civic tram stop.\nParking: There is some on street parking available in Civic Lane and a car park at the Wright Lane carpark.\n\n**Agenda:**\n6:00 News\n6:20 Adam's talk\n7:20 Pizza\n7:40 the rest of Adam's talk.\n\n**Stream:**\nSSW will be streaming the event. Keep an eye on https://twitter.com/ncgau for the link.",
       "dateTime": "2022-05-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Coders-Group/events/285145356",
-      "going": 20,
+      "going": 23,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "IoT Pioneers in May, hear from Telstra's Domain Lead for Industrial IoT Mark Atkinson as he walks us through industrial IoT as a tipping point.\n\nWith the explosion of connected devices, the value proposition is no longer about connecting and monitoring. Industrial IoT now moves to a world of analysis, building insights for timely actionable outcomes.\n\nAs an experienced innovator with a proven record of bringing new technology outcomes to market, Mark helps businesses span the gap between ‘need’ and technology. Mark is also an active participant at the IoT Alliance Australia (IOTAA) - a founding member, current Lead of the Energy/Mining Work Stream and a member of the awards judging panel. Within Telstra Mark focuses on Industrial IoT - the capability to monitor behaviour at scale, provide analysis and draw insights for quick action.\n\nJoin us on May 5th from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-05-05T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285071516",
-      "going": 20,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503178697/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "It's been a while... time for a beer (or drink of choice) and a chat, whether you work in the design space, are studying design or just interested in design.\n\nPlease stay at home if you're unwell, you know the drill by now!\n\nLooking forward to catching up in person.",
       "dateTime": "2022-05-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/IxDA-Newcastle/events/285605518",
-      "going": 8,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/468275527/676x380.webp",
