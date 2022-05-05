@@ -8,3 +8,4 @@ node_modules
 *.log.*
 sftp-config.json
 /uploads
+yarn.lock
