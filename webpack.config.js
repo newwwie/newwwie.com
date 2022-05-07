@@ -4,7 +4,7 @@ const path                    = require('path');
 const autoprefixer            = require("autoprefixer");
 const MiniCssExtractPlugin    = require("mini-css-extract-plugin");
 const MinifyPlugin            = require("babel-minify-webpack-plugin");
-const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const CssMinimizerPlugin      = require("css-minimizer-webpack-plugin");
 
 
 module.exports = {
@@ -12,7 +12,7 @@ module.exports = {
     entry: ['./src/js/main.js', './src/scss/main.scss'],
     optimization: {
         minimizer: [
-          new OptimizeCSSAssetsPlugin({})
+          new CssMinimizerPlugin(),
         ]
       },
     output: {
@@ -27,12 +27,7 @@ module.exports = {
                 use: [ 
                     MiniCssExtractPlugin.loader, 
                     'css-loader',
-                    {
-                        loader: 'postcss-loader',
-                        options: {
-                          plugins: () => [autoprefixer()]
-                        }
-                    },
+                    'postcss-loader',
                     'sass-loader' 
                 ]
             },
@@ -51,7 +46,9 @@ module.exports = {
     ],
     // @see https://webpack.js.org/configuration/dev-server/ 
     devServer: {
-        contentBase: __dirname,
+        static: {
+            directory: __dirname
+        },
         compress: true,
         host: '0.0.0.0',
         port: 9000
