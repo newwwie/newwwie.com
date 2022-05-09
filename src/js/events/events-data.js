@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-08T13:31:10.375Z
+// Auto Generated on 2022-05-09T10:24:05.141Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "CALL FOR SPEAKERS:\n\nDo you have an interesting data story to tell?\n\nWould you like to give this month's presentation?\n\nFollow the link below to our Google form to express your interest and we'll contact you soon!\n\nhttps://forms.gle/y57b2seehSgvtGgn7\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n- Wood fired pizza, sponsored by Newy Tech People\n- Please advise dietary requirements in RSVP\n- Soft drinks\n\nSCHEDULE:\n- 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n- 6:15pm: Presentation\n- 7:15pm: Packing up + Bonus questions\n- 7:30pm: Close",
       "dateTime": "2022-05-19T17:30+10:00",
       "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283702245",
-      "going": 12,
+      "going": 13,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
