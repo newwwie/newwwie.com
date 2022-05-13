@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-12T13:49:53.795Z
+// Auto Generated on 2022-05-13T13:52:26.827Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**Ranjit Rees-Sidhu (Sid) -** ***Twenty Years of Mistakes, Mishaps and the Occasional Success whilst working with Universities and Other Sectors.***\n\nIn this presentation, Sid will be looking back at the lessons learnt from running a company and consulting on data analytics over two decades.\n\n* Examples of the detailed student services evaluation protocol pioneered at universities and how getting dirty was the key to success, and how predictive modelling organically came from this.\n* Why he sees flexibility and constant learning loops as being essential to predictive modelling. (Subscription models only!)\n* How gaming algorithms may be the all-conquering USP of soft-body machines.\n* Why he sees explaining our AI decisions as essential to success.\n* His bets on the next few years, considering the scars of the past.\n\n##-------------------------------------------------------------------##\n\n**Ranjit Rees-Sidhu (Sid)** has worked in the industry for over twenty years, running successive data analytics companies in the UK and Australia. Clients have included The Prime Minister's Office, 10 Downing Street, to Toyota and BMW. Universities are a speciality, having worked with over thirty universities in the UK and Australia.\n\nHe currently runs SiD Data Pty and has a new startup called CODA ( Clear Open Data Analytics) that he is very excited about!\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-05-19T17:30+10:00",
       "eventUrl": "https://www.meetup.com/Hunter-Data-Analytics/events/283702245",
-      "going": 15,
+      "going": 17,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "It's been a while... time for a beer (or drink of choice) and a chat, whether you work in the design space, are studying design or just interested in design.\n\nPlease stay at home if you're unwell, you know the drill by now!\n\nLooking forward to catching up in person.",
       "dateTime": "2022-05-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/IxDA-Newcastle/events/285605518",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/468275527/676x380.webp",
