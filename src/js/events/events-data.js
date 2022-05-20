@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-19T13:44:49.067Z
+// Auto Generated on 2022-05-20T13:41:34.946Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "It's been a while... time for a beer (or drink of choice) and a chat, whether you work in the design space, are studying design or just interested in design.\n\nPlease stay at home if you're unwell, you know the drill by now!\n\nLooking forward to catching up in person.",
       "dateTime": "2022-05-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/IxDA-Newcastle/events/285605518",
-      "going": 14,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/468275527/676x380.webp",
