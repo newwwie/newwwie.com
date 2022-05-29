@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-28T13:32:46.739Z
+// Auto Generated on 2022-05-29T13:33:37.053Z
  module.exports = [
   {
     "event": {
@@ -72,7 +72,7 @@
       "description": "IoT Pioneers in June, hear from Sydney Water's IoT Manager Christoph Prackwieser as he walks us through innovation in the water Industry.\n\nWith a PHD in business informatics and a degree in IT from Vienna, Christoph has had more than 20 years of experience in Aligning information technology with business needs to create solutions that drive change.\n\nAs always, after the presentation, there will be opportunities to network with other attendees and enjoy some of the fine food on offer.\n\nJoin us on June 2nd from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-06-02T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285707120",
-      "going": 13,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503884007/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "Lean Platform Engineering w/ Terraform & AWS Serverless, presented by Mark Tranter.\n\n**The Talk**\nPlatform engineering is the new buzzword in the DevOps world. In this informal but technical chat, we'll look at what it is, why it's becoming more popular, and how to use basic software engineering principles to evolve digital platforms to high levels of operational readiness.\n\n**The speaker**\n**Mark** has been writing code for around 20 years. He currently works as a Principal Consultant at Equal Experts helping scale-up companies scale up, and traditional enterprises with their digital transformations. He enjoys functional programming, everything-as-code, funk music and pushing to main.\n\n**The venue**\nNewcastle Uni's [I2N Hub Honeysuckle](https://www.newcastle.edu.au/engage/business-and-industry/integrated-innovation-network-i2n/incubator/i2n-hub-honeysuckle), you can get there by Tram either Civic or Honeysuckle stops, bus (check the timetable) & at 6pm there should be plenty of parking on street on a Wednesday (though ymmv).\n\n**The vibe**\nCome along for an informal chat around Mark's presentation, feel free to ask questions before, during, & after, and networking at I2N, Newcastle Uni's Integrated Innovation Network.\nAll skills welcome, whether you're simply curious or you've got decades of experience!\nPizza & Soft drinks to be provided, an optional wander to one of Newcastle's local pubs afterwards if anybody wants to continue the conversation!",
       "dateTime": "2022-06-08T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Cloud-DevOps/events/285979838",
-      "going": 20,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/344787042/676x380.webp",
