@@ -1,4 +1,4 @@
-// Auto Generated on 2022-05-30T13:46:42.921Z
+// Auto Generated on 2022-05-31T13:45:35.006Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We'll have Ben Dechrai from Auth0 coming up from Melbourne to talk about how to build applications using cloud services and **No Database.**\n\n**Using Open Source Tools and Cloud Services to Deploy Databaseless Web Applications**\nIn this coding-led presentation, we will see how quickly we can launch an e-commerce application, from creating the product catalogue and public facing listings, to managing users and their orders.And to top it off, we won't deploy any custom databases.A decade ago, this would have taken weeks, but using open-source tools and cloud services means we can push a viable product into production before the end of this session.Join this session if you want to discover ways of thinking outside the box during prototyping and the progressive development of production systems.\n\n**Ben Dechrai** is a software developer with a wealth of experience ranging from small MVP projects to large scale enterprise deployments. Passionate about working closely with developer and open source communities, he has been coding since the age of 7 and enjoys helping developers find the joy of experimentation.\n\nAgenda (work in progress):\n6:00 - Tech news\n6:30 - Ben Dechrai\n7:30 - Pizza and networking\n\nGetting there:\nWe'll be at the Mudbath offices. They are accessible on Hunter street\nThere is some on street parking available\nPublic transport: The best location for public transport is the Newcastle Interchange which is a short walk from the venue.",
       "dateTime": "2022-06-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Coders-Group/events/285828274",
-      "going": 21,
+      "going": 22,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "IoT Pioneers in June, hear from Sydney Water's IoT Manager Christoph Prackwieser as he walks us through innovation in the water Industry.\n\nWith a PHD in business informatics and a degree in IT from Vienna, Christoph has had more than 20 years of experience in Aligning information technology with business needs to create solutions that drive change.\n\nAs always, after the presentation, there will be opportunities to network with other attendees and enjoy some of the fine food on offer.\n\nJoin us on June 2nd from 6:30 pm - 8:30 pm at The Stag & Hunter Hotel. Feel free to grab a drink at the bar and come on up; dinner will be provided.\n\nPlease make sure to RSVP\n\n#meetup #networking #engineering #startup #IoT",
       "dateTime": "2022-06-02T18:30+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-IoT-Pioneers/events/285707120",
-      "going": 17,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/503884007/676x380.webp",
