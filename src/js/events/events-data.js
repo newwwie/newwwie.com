@@ -1,4 +1,4 @@
-// Auto Generated on 2022-06-04T13:26:30.511Z
+// Auto Generated on 2022-06-05T13:27:18.972Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Lean Platform Engineering w/ Terraform & AWS Serverless, presented by Mark Tranter.\n\n**The Talk**\nPlatform engineering is the new buzzword in the DevOps world. In this informal but technical chat, we'll look at what it is, why it's becoming more popular, and how to use basic software engineering principles to evolve digital platforms to high levels of operational readiness.\n\n**The speaker**\n**Mark** has been writing code for around 20 years. He currently works as a Principal Consultant at Equal Experts helping scale-up companies scale up, and traditional enterprises with their digital transformations. He enjoys functional programming, everything-as-code, funk music and pushing to main.\n\n**The venue**\nNewcastle Uni's [I2N Hub Honeysuckle](https://www.newcastle.edu.au/engage/business-and-industry/integrated-innovation-network-i2n/incubator/i2n-hub-honeysuckle), you can get there by Tram either Civic or Honeysuckle stops, bus (check the timetable) & at 6pm there should be plenty of parking on street on a Wednesday (though ymmv).\n\n**The vibe**\nCome along for an informal chat around Mark's presentation, feel free to ask questions before, during, & after, and networking at I2N, Newcastle Uni's Integrated Innovation Network.\nAll skills welcome, whether you're simply curious or you've got decades of experience!\nPizza & Soft drinks to be provided, an optional wander to one of Newcastle's local pubs afterwards if anybody wants to continue the conversation!",
       "dateTime": "2022-06-08T18:00+10:00",
       "eventUrl": "https://www.meetup.com/Newcastle-Cloud-DevOps/events/285979838",
-      "going": 24,
+      "going": 26,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/344787042/676x380.webp",
