@@ -1,4 +1,4 @@
-// Auto Generated on 2022-06-21T13:47:08.190Z
+// Auto Generated on 2022-06-22T13:44:08.012Z
  module.exports = [
   {
     "event": {
