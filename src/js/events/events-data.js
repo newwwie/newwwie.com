@@ -1,4 +1,4 @@
-// Auto Generated on 2022-06-25T13:28:35.773Z
+// Auto Generated on 2022-06-26T13:29:11.928Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "NewcastleJS is back for 2022!\n\nWe are kicking off again with our monthly meetup.\nStarting with a talk from James Diacono from Equimaps.\n\nJames presents a short history of the feedback loops experienced by programmers, beginning with those measured in hours and ending with the instantaneous. He laments that we seem to have lost sight of the holy grail, but then demonstrates how JavaScripters can get it back through better use of the REPL.\n\nDate: Tuesday 28th of June\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\nThanks to the Newy Tech People for sponsoring pizza.\n---",
       "dateTime": "2022-06-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/286606284",
-      "going": 17,
+      "going": 18,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504877626/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis month, we're lucky to have Geoffrey Campey, one of the long-standing supporters of NCSG (for which we are very grateful). Geoff is a rehabilitated lawyer (13 years clean!) and computer scientist, and his unique intersection of legal and technical skills have manifested themselves into his consultancy, Social Media Evidence Experts (SMEE). Outside of SMEE, Geoff enjoys long walks on the beach, sunsets, red wine, and bacon and egg rolls from the Edwards.\n\nGeoff will be talking about insider threats, which I'm sure will make you feel very safe and comfortable with your colleagues.\n\n**Event details:**\n\nDate: June 30th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-06-30T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/286763646",
-      "going": 16,
+      "going": 17,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505064414/676x380.webp",
