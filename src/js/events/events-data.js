@@ -1,4 +1,4 @@
-// Auto Generated on 2022-06-28T13:44:38.002Z
+// Auto Generated on 2022-06-29T06:26:04.745Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis month, we're lucky to have Geoffrey Campey, one of the long-standing supporters of NCSG (for which we are very grateful). Geoff is a rehabilitated lawyer (13 years clean!) and computer scientist, and his unique intersection of legal and technical skills have manifested themselves into his consultancy, Social Media Evidence Experts (SMEE). Outside of SMEE, Geoff enjoys long walks on the beach, sunsets, red wine, and bacon and egg rolls from the Edwards.\n\nGeoff will be talking about insider threats, which I'm sure will make you feel very safe and comfortable with your colleagues.\n\n**Event details:**\n\nDate: June 30th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-06-30T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/286763646",
-      "going": 19,
+      "going": 20,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505064414/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "We're back in the first week of July at the Mudbath office with Klee Thomas teaching us about deploying apps to the Cloudflare network.\n\n**Agenda**\n5:45 - Doors open\n6:00 - News\n6:30 - Talk\n7:10 - Pizza and chats\n\n**Straight outa nowhere - Use Cloudflare pages to build an app with no origin server**\nIn this demo heavy talk Klee will go over how you can leverage the Cloudflare Pages platform to have an application up and running with a fully featured backend, cached globally in minutes. He’ll even go through adding dev ops goodness with Continuous Integration, Continuous Deployment and branch deploys.\n\nAll in less than 30 minutes or your pizza is free.\n\nN.B. Pizza is free no matter how long Klee talks for.",
       "dateTime": "2022-07-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286825971",
-      "going": 7,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
