@@ -1,45 +1,12 @@
-// Auto Generated on 2022-06-29T13:43:47.729Z
+// Auto Generated on 2022-06-30T13:41:38.558Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG, June 2022 | Geoffrey Campey",
-      "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis month, we're lucky to have Geoffrey Campey, one of the long-standing supporters of NCSG (for which we are very grateful). Geoff is a rehabilitated lawyer (13 years clean!) and computer scientist, and his unique intersection of legal and technical skills have manifested themselves into his consultancy, Social Media Evidence Experts (SMEE). Outside of SMEE, Geoff enjoys long walks on the beach, sunsets, red wine, and bacon and egg rolls from the Edwards.\n\nGeoff will be talking about insider threats, which I'm sure will make you feel very safe and comfortable with your colleagues.\n\n**Event details:**\n\nDate: June 30th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
-      "dateTime": "2022-06-30T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/286763646",
-      "going": 20,
-      "maxTickets": 50,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505064414/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "July: Straight outa nowhere - Klee Thomas",
       "description": "We're back in the first week of July at the Mudbath office with Klee Thomas teaching us about deploying apps to the Cloudflare network.\n\n**Agenda**\n5:45 - Doors open\n6:00 - News\n6:30 - Talk\n7:10 - Pizza and chats\n\n**Straight outa nowhere - Use Cloudflare pages to build an app with no origin server**\nIn this demo heavy talk Klee will go over how you can leverage the Cloudflare Pages platform to have an application up and running with a fully featured backend, cached globally in minutes. He’ll even go through adding dev ops goodness with Continuous Integration, Continuous Deployment and branch deploys.\n\nAll in less than 30 minutes or your pizza is free.\n\nN.B. Pizza is free no matter how long Klee talks for.",
       "dateTime": "2022-07-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286825971",
-      "going": 9,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -61,6 +28,39 @@
       },
       "logo": {
         "id": "469014591",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Monthly Meet-up | Hear from Annabelle Scott",
+      "description": "The Women and Gender Diverse People in Tech meeting is on again in July! This month we'll be hearing from the wonderful Annabelle Scott, who is currently an Operations Program Manager at Atlassian.\n\nIn this causal presentation we'll hear how Annabelle got to where she is today, and the insights she's learnt along the way.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nThere's been a venue change, now we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let either Sarah or Arden know of any dietaries you have beforehand.",
+      "dateTime": "2022-07-14T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/286884260",
+      "going": 5,
+      "maxTickets": 30,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505206846/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.921635,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Newcastle Women and Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "504544595",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "504544595",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
