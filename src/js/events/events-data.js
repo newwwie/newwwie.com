@@ -1,39 +1,12 @@
-// Auto Generated on 2022-07-01T13:43:52.432Z
+// Auto Generated on 2022-07-02T13:28:57.243Z
  module.exports = [
-  {
-    "event": {
-      "title": "Protein Folding at Home",
-      "description": "This month, join us and hear from Heath as he leads an interactive walk-through of The Fold for Covid project. The Fold for Covid project aims to make it easy to donate spare compute capacity to support COVID-19 research with a few simple steps.\n\nThis effort contributes to the Rosetta@Home project, led by the Baker Laboratory at the University of Washington, which uses distributed computing to help scientists and doctors find potential treatments for COVID-19.\n\nYour contributions help researchers look for proteins that bind to the famous \"spike\" protein on COVID-19. By finding these binding proteins, doctors hope to develop medicines that prevent the virus from entering healthy cells.\n\n**About the speaker:** Heath has more than 15 years of experience in product development, embedded electronics, research and technical analysis, with specialities in hardware design for manufacturability, artificial intelligence, data communications and signal processing. Heath's experience covers the journey from idea to market entry, including scoping, manufacturing and validation.",
-      "dateTime": "2022-07-02T19:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/286914457",
-      "going": 2,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505233678/676x380.webp",
-      "venue": null
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "July: Straight outa nowhere - Klee Thomas",
       "description": "We're back in the first week of July at the Mudbath office with Klee Thomas teaching us about deploying apps to the Cloudflare network.\n\n**Agenda**\n5:45 - Doors open\n6:00 - News\n6:30 - Talk\n7:10 - Pizza and chats\n\n**Straight outa nowhere - Use Cloudflare pages to build an app with no origin server**\nIn this demo heavy talk Klee will go over how you can leverage the Cloudflare Pages platform to have an application up and running with a fully featured backend, cached globally in minutes. He’ll even go through adding dev ops goodness with Continuous Integration, Continuous Deployment and branch deploys.\n\nAll in less than 30 minutes or your pizza is free.\n\nN.B. Pizza is free no matter how long Klee talks for.",
       "dateTime": "2022-07-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286825971",
-      "going": 17,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
