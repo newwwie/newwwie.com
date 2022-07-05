@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-04T13:46:46.861Z
+// Auto Generated on 2022-07-05T13:47:29.910Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back in the first week of July at the Mudbath office with Klee Thomas teaching us about deploying apps to the Cloudflare network.\n\n**Agenda**\n5:45 - Doors open\n6:00 - News\n6:30 - Talk\n7:10 - Pizza and chats\n\n**Straight outa nowhere - Use Cloudflare pages to build an app with no origin server**\nIn this demo heavy talk Klee will go over how you can leverage the Cloudflare Pages platform to have an application up and running with a fully featured backend, cached globally in minutes. He’ll even go through adding dev ops goodness with Continuous Integration, Continuous Deployment and branch deploys.\n\nAll in less than 30 minutes or your pizza is free.\n\nN.B. Pizza is free no matter how long Klee talks for.",
       "dateTime": "2022-07-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286825971",
-      "going": 19,
+      "going": 26,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Automating and scaling data ingestion for boating - presented by Jack McKew\n\n**The Talk**\nEvery day, billions of people around the world use a map to get information about their surroundings. The data behind these maps also changes very frequently, but how do we keep these interactive maps up to date for the user? This talk goes into how Deckee addresses the problem of frequently updated data behind maps, and how it’s served to users around the globe at scale. Deckee is the free boating app for local information, trip logging, weather, navigation aids and official alerts and notices.\n\n**The Speaker**\nJack is a Senior Full Stack Engineer at Deckee, focused on data science and engineering. Jack has a published paper in The Geography of Covid-19 Spread in Italy Using Social Media and Geospatial Data Analytics and has a degree in Electrical Engineering from the University of Newcastle.\n\n**The venue**\nNewcastle Uni's [I2N Hub Honeysuckle](https://www.newcastle.edu.au/engage/business-and-industry/integrated-innovation-network-i2n/incubator/i2n-hub-honeysuckle), you can get there by Tram either Civic or Honeysuckle stops, bus (check the timetable) & at 6pm there should be plenty of parking on street on a Wednesday (though ymmv).\n\n**The vibe**\nCome along for an informal chat around Mark's presentation, feel free to ask questions before, during, & after, and networking at I2N, Newcastle Uni's Integrated Innovation Network.\nAll skills welcome, whether you're simply curious or you've got decades of experience!\nPizza & Soft drinks to be provided, an optional wander to one of Newcastle's local pubs afterwards if anybody wants to continue the conversation!",
       "dateTime": "2022-07-13T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cloud-devops/events/286914032",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/344787042/676x380.webp",
@@ -127,6 +127,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG, July 2022 | Andrew Stace",
+      "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis month, we're lucky to have Andrew Stace, the fearless leader and founder of our lovely group. He currently works as a cybersecurity professional for an ASX-listed company, and the grand finale of his presentation will be him 100%ing a variety of songs on Beat Saber.\n\nSynopsis of Andrew's talk:\n\nCybersecurity scams are increasing in frequency & impact. Meaning that more people than ever before are coming to be impacted by some form of cyber crime.\n\nBut often our attention is focused on the impact being described in financial or technical framings. Instead, in this talk, Andrew will explore some of the emotional impact of cybercrime &/or the emotional context(s) in which it can prosper.\n\n**Event details:**\n\nDate: July 28th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
+      "dateTime": "2022-07-28T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/286991107",
+      "going": 3,
+      "maxTickets": 50,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505335833/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
