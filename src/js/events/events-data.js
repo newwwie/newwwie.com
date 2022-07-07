@@ -1,39 +1,12 @@
-// Auto Generated on 2022-07-06T13:47:35.566Z
+// Auto Generated on 2022-07-07T13:48:11.559Z
  module.exports = [
-  {
-    "event": {
-      "title": "Protein Folding at Home",
-      "description": "This month, join us and hear from Heath as he leads an interactive walk-through of The Fold for Covid project. The Fold for Covid project aims to make it easy to donate spare compute capacity to support COVID-19 research with a few simple steps.\n\nThis effort contributes to the Rosetta@Home project, led by the Baker Laboratory at the University of Washington, which uses distributed computing to help scientists and doctors find potential treatments for COVID-19.\n\nYour contributions help researchers look for proteins that bind to the famous \"spike\" protein on COVID-19. By finding these binding proteins, doctors hope to develop medicines that prevent the virus from entering healthy cells.\n\n**About the speaker:** Heath has more than 15 years of experience in product development, embedded electronics, research and technical analysis, with specialities in hardware design for manufacturability, artificial intelligence, data communications and signal processing. Heath's experience covers the journey from idea to market entry, including scoping, manufacturing and validation.",
-      "dateTime": "2022-07-07T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/287008068",
-      "going": 6,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505233678/676x380.webp",
-      "venue": null
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Automating and scaling data ingestion for boating",
       "description": "Automating and scaling data ingestion for boating - presented by Jack McKew\n\n**The Talk**\nEvery day, billions of people around the world use a map to get information about their surroundings. The data behind these maps also changes very frequently, but how do we keep these interactive maps up to date for the user? This talk goes into how Deckee addresses the problem of frequently updated data behind maps, and how it’s served to users around the globe at scale. Deckee is the free boating app for local information, trip logging, weather, navigation aids and official alerts and notices.\n\n**The Speaker**\nJack is a Senior Full Stack Engineer at Deckee, focused on data science and engineering. Jack has a published paper in The Geography of Covid-19 Spread in Italy Using Social Media and Geospatial Data Analytics and has a degree in Electrical Engineering from the University of Newcastle.\n\n**The venue**\nNewcastle Uni's [I2N Hub Honeysuckle](https://www.newcastle.edu.au/engage/business-and-industry/integrated-innovation-network-i2n/incubator/i2n-hub-honeysuckle), you can get there by Tram either Civic or Honeysuckle stops, bus (check the timetable) & at 6pm there should be plenty of parking on street on a Wednesday (though ymmv).\n\n**The vibe**\nCome along for an informal chat around Mark's presentation, feel free to ask questions before, during, & after, and networking at I2N, Newcastle Uni's Integrated Innovation Network.\nAll skills welcome, whether you're simply curious or you've got decades of experience!\nPizza & Soft drinks to be provided, an optional wander to one of Newcastle's local pubs afterwards if anybody wants to continue the conversation!",
       "dateTime": "2022-07-13T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cloud-devops/events/286914032",
-      "going": 7,
+      "going": 8,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/344787042/676x380.webp",
@@ -95,8 +68,8 @@
   },
   {
     "event": {
-      "title": "data.JULY <- ???????????",
-      "description": "CALL FOR SPEAKERS:\n\nDo you have an interesting data story to tell?\n\nWould you like to give this month's presentation?\n\nFollow the link below to our Google form to express your interest and we'll contact you soon!\n\nhttps://forms.gle/y57b2seehSgvtGgn7\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n- Wood fired pizza, sponsored by Newy Tech People\n- Please advise dietary requirements in RSVP\n- Soft drinks\n\nSCHEDULE:\n- 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n- 6:15pm: Presentation\n- 7:15pm: Packing up + Bonus questions\n- 7:30pm: Close",
+      "title": "data.JULY <- How data-science can help break your favourite games",
+      "description": "The Talk\n\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\n\nThe Speaker\n\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-07-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702258",
       "going": 7,
