@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-08T13:40:43.559Z
+// Auto Generated on 2022-07-09T13:31:32.921Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in July! This month we'll be hearing from the wonderful Annabelle Scott, who is currently an Operations Program Manager at Atlassian.\n\nIn this causal presentation we'll hear how Annabelle got to where she is today, and the insights she's learnt along the way.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nThere's been a venue change, now we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let either Sarah or Arden know of any dietaries you have beforehand.",
       "dateTime": "2022-07-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/286884260",
-      "going": 8,
+      "going": 9,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505206846/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "The Talk\n\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\n\nThe Speaker\n\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-07-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702258",
-      "going": 7,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -141,19 +141,19 @@
       "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/469014591/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
       "venue": null
     },
     "group": {
       "name": "Newcastle Coders Group",
       "urlname": "Newcastle-Coders-Group",
       "groupPhoto": {
-        "id": "469014591",
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       },
       "logo": {
-        "id": "469014591",
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
