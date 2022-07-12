@@ -3,8 +3,8 @@
 const path                    = require('path');
 const autoprefixer            = require("autoprefixer");
 const MiniCssExtractPlugin    = require("mini-css-extract-plugin");
-const MinifyPlugin            = require("babel-minify-webpack-plugin");
 const CssMinimizerPlugin      = require("css-minimizer-webpack-plugin");
+const TerserPlugin            = require('terser-webpack-plugin');
 
 
 module.exports = {
@@ -42,7 +42,13 @@ module.exports = {
         new MiniCssExtractPlugin({
             filename: 'css/[name].css',
         }),
-        new MinifyPlugin({})
+        (compiler) => {
+            new TerserPlugin({
+                terserOptions: {
+                    compress: {},
+                }
+            }).apply(compiler);
+        },
     ],
     // @see https://webpack.js.org/configuration/dev-server/ 
     devServer: {
