@@ -1,38 +1,5 @@
-// Auto Generated on 2022-07-12T11:25:35.950Z
+// Auto Generated on 2022-07-13T13:53:07.992Z
  module.exports = [
-  {
-    "event": {
-      "title": "Automating and scaling data ingestion for boating",
-      "description": "Automating and scaling data ingestion for boating - presented by Jack McKew\n\n**The Talk**\nEvery day, billions of people around the world use a map to get information about their surroundings. The data behind these maps also changes very frequently, but how do we keep these interactive maps up to date for the user? This talk goes into how Deckee addresses the problem of frequently updated data behind maps, and how it’s served to users around the globe at scale. Deckee is the free boating app for local information, trip logging, weather, navigation aids and official alerts and notices.\n\n**The Speaker**\nJack is a Senior Full Stack Engineer at Deckee, focused on data science and engineering. Jack has a published paper in The Geography of Covid-19 Spread in Italy Using Social Media and Geospatial Data Analytics and has a degree in Electrical Engineering from the University of Newcastle.\n\n**The venue**\nNewcastle Uni's [I2N Hub Honeysuckle](https://www.newcastle.edu.au/engage/business-and-industry/integrated-innovation-network-i2n/incubator/i2n-hub-honeysuckle), you can get there by Tram either Civic or Honeysuckle stops, bus (check the timetable) & at 6pm there should be plenty of parking on street on a Wednesday (though ymmv).\n\n**The vibe**\nCome along for an informal chat around Mark's presentation, feel free to ask questions before, during, & after, and networking at I2N, Newcastle Uni's Integrated Innovation Network.\nAll skills welcome, whether you're simply curious or you've got decades of experience!\nPizza & Soft drinks to be provided, an optional wander to one of Newcastle's local pubs afterwards if anybody wants to continue the conversation!",
-      "dateTime": "2022-07-13T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cloud-devops/events/286914032",
-      "going": 14,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/344787042/676x380.webp",
-      "venue": {
-        "name": "I2N Hub Honeysuckle",
-        "lat": -32.92627,
-        "lng": 151.76831,
-        "address": "16 Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cloud & DevOps",
-      "urlname": "Newcastle-Cloud-DevOps",
-      "groupPhoto": {
-        "id": "344787042",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "344787042",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up | Hear from Annabelle Scott",
