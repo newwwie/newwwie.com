@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-13T13:53:07.992Z
+// Auto Generated on 2022-07-14T01:14:20.438Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in July! This month we'll be hearing from the wonderful Annabelle Scott, who is currently an Operations Program Manager at Atlassian.\n\nIn this causal presentation we'll hear how Annabelle got to where she is today, and the insights she's learnt along the way.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nThere's been a venue change, now we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let either Sarah or Arden know of any dietaries you have beforehand.",
       "dateTime": "2022-07-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/286884260",
-      "going": 12,
+      "going": 11,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505206846/676x380.webp",
