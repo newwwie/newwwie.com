@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-18T13:50:25.359Z
+// Auto Generated on 2022-07-19T13:46:30.058Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Talk\n\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\n\nThe Speaker\n\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-07-21T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702258",
-      "going": 20,
+      "going": 23,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
