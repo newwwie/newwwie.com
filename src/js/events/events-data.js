@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-21T12:39:28.414Z
+// Auto Generated on 2022-07-21T13:46:12.385Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we are fortunate enough to have **Cole Cornford** speaking to us about **JavaScript security**. Don't be insecure, come along!\n\nThe talk synopsis will be posted shortly.\n\nDate: Wednesday 27th of July\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\nThanks to the Newy Tech People for sponsoring pizza.\n---",
       "dateTime": "2022-07-27T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/287320127",
-      "going": 7,
+      "going": 8,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/473023676/676x380.webp",
