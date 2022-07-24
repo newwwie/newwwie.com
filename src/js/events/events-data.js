@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-23T13:33:09.407Z
+// Auto Generated on 2022-07-24T13:34:16.094Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we are most fortunate to have **Cole Cornford** speaking to us about JavaScript security.\n\n**Security concerns for the Web's favourite language!**\n\nJavaScript is now the most popular client and server-side language in use in 2022. It's a big target for adversaries, and there are a tremendous amount of ways that they work to get code execution happening in your app.\n\nJoin Cole to learn about the techniques adversaries use to gain script injection, what you can do about those, and what you can do to build safer web applications.\n\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\n\nDate: Wednesday 27th of July\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\nThanks to the Newy Tech People for sponsoring pizza.\n---\n\nDon't be insecure, come along!",
       "dateTime": "2022-07-27T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/287320127",
-      "going": 10,
+      "going": 12,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/473023676/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis month, we're lucky to have Andrew Stace, the fearless leader and founder of our lovely group. He currently works as a cybersecurity professional for an ASX-listed company, and the grand finale of his presentation will be him 100%ing a variety of songs on Beat Saber.\n\nSynopsis of Andrew's talk:\n\nCybersecurity scams are increasing in frequency & impact. Meaning that more people than ever before are coming to be impacted by some form of cyber crime.\n\nBut often our attention is focused on the impact being described in financial or technical framings. Instead, in this talk, Andrew will explore some of the emotional impact of cybercrime &/or the emotional context(s) in which it can prosper.\n\n**Event details:**\n\nDate: July 28th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-07-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/286991107",
-      "going": 22,
+      "going": 23,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505335833/676x380.webp",
