@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-28T13:48:23.864Z
+// Auto Generated on 2022-07-29T13:46:52.219Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "For our August meeting we'll be talking about containers and orchestrating them with Kuberneties.\n\nWe'll be hosted by MudBath with sponsorship from Saphi.\n\n**The Talk:** Containers are confusing and there are a few misconceptions about what containers are. In this presentation Alister will demonstrate what containers are, what they aren't and how to reason about them. Once you understand what containers are, you'll have a better time building and running them. Bring along your laptop with docker and Kubernetes installed and you can try out the commands yourself on the night!\n\n**About Alistair:** I'm a senior software developer working at the Greater Bank where I primarily work on backend services, using Kotlin, deployed on Kubernetes. I've been doing software for over 25 years, so these days i'm \"old man who yells at clouds\"\n\n**Getting to the event:**\nMubath is located in 710 Hunter street in the 2nd floor of the building.\nThere is some on street parking available.\nThe closest public transport is trains from the Newcastle Interchange, there is a bus stop at the venue.",
       "dateTime": "2022-08-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934350",
-      "going": 17,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel\n\nWe hope to see you there :)",
       "dateTime": "2022-08-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287438490",
-      "going": 4,
+      "going": 6,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
