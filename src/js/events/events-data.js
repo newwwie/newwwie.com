@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-28T23:54:50.914Z
+// Auto Generated on 2022-07-28T13:48:23.864Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "For our August meeting we'll be talking about containers and orchestrating them with Kuberneties.\n\nWe'll be hosted by MudBath with sponsorship from Saphi.\n\n**The Talk:** Containers are confusing and there are a few misconceptions about what containers are. In this presentation Alister will demonstrate what containers are, what they aren't and how to reason about them. Once you understand what containers are, you'll have a better time building and running them. Bring along your laptop with docker and Kubernetes installed and you can try out the commands yourself on the night!\n\n**About Alistair:** I'm a senior software developer working at the Greater Bank where I primarily work on backend services, using Kotlin, deployed on Kubernetes. I've been doing software for over 25 years, so these days i'm \"old man who yells at clouds\"\n\n**Getting to the event:**\nMubath is located in 710 Hunter street in the 2nd floor of the building.\nThere is some on street parking available.\nThe closest public transport is trains from the Newcastle Interchange, there is a bus stop at the venue.",
       "dateTime": "2022-08-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934350",
-      "going": 18,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
