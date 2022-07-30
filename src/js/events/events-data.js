@@ -1,4 +1,4 @@
-// Auto Generated on 2022-07-29T13:46:52.219Z
+// Auto Generated on 2022-07-30T13:30:32.520Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "This month, hear from fellow Novocastrian Tim Snell, Director at IMC and Founder at PitCrew AI, as he leads us through his journey in business and developing remote computer vision applications using thermal and non-visible light imaging cameras for some of the biggest names in industry.\n\n**About the speaker:** Tim Snell is the Managing Director of Industrial Monitoring & Control Pty Ltd, including the Pitcrew AI business unit. Based in Newcastle, Australia, Tim has a bachelor’s degree in engineering (computer), an MBA and extensive technical and business management experience. Tim has a track record of developing and commercialising innovative computer vision technologies.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
       "dateTime": "2022-08-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/287415669",
-      "going": 12,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505818221/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel\n\nWe hope to see you there :)",
       "dateTime": "2022-08-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287438490",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
