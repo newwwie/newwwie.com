@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-01T13:49:18.536Z
+// Auto Generated on 2022-08-02T13:45:57.124Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "For our August meeting we'll be talking about containers and orchestrating them with Kuberneties.\n\nWe'll be hosted by MudBath with sponsorship from Saphi.\n\n**The Talk:** Containers are confusing and there are a few misconceptions about what containers are. In this presentation Alister will demonstrate what containers are, what they aren't and how to reason about them. Once you understand what containers are, you'll have a better time building and running them. Bring along your laptop with docker and Kubernetes installed and you can try out the commands yourself on the night!\n\n**About Alistair:** I'm a senior software developer working at the Greater Bank where I primarily work on backend services, using Kotlin, deployed on Kubernetes. I've been doing software for over 25 years, so these days i'm \"old man who yells at clouds\"\n\n**Getting to the event:**\nMubath is located in 710 Hunter street in the 2nd floor of the building.\nThere is some on street parking available.\nThe closest public transport is trains from the Newcastle Interchange, there is a bus stop at the venue.",
       "dateTime": "2022-08-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934350",
-      "going": 19,
+      "going": 31,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "This month, hear from fellow Novocastrian Tim Snell, Director at IMC and Founder at PitCrew AI, as he leads us through his journey in business and developing remote computer vision applications using thermal and non-visible light imaging cameras for some of the biggest names in industry.\n\n**About the speaker:** Tim Snell is the Managing Director of Industrial Monitoring & Control Pty Ltd, including the Pitcrew AI business unit. Based in Newcastle, Australia, Tim has a bachelor’s degree in engineering (computer), an MBA and extensive technical and business management experience. Tim has a track record of developing and commercialising innovative computer vision technologies.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
       "dateTime": "2022-08-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/287415669",
-      "going": 13,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505818221/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel\n\nWe hope to see you there :)",
       "dateTime": "2022-08-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287438490",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "This month, there's something for everyone with our Trio of Analytics Dips 😋, courtesy of Team Honeysuckle Health:\n\n* **Stats**: Imagine you organised a great big initiative, and it just concluded yesterday. That initiative could be your marketing campaign, staff training course, health intervention, etc.\nYou feel like things went well, but you wish you'd thought about *proving* the success of your initiative with *hard numbers*. But it's all too late, now that the intervention is complete... right?\nFear not! We'll talk about observational studies and look at how they can quantify the success of your intervention, even *after the fact*. ⚖\n* **Machine Learning**: Sometimes you need to compare things that you can't quite measure directly 📏.\nTake, for instance, the cost of the *same* surgery. Though the same procedure was delivered, the price will still depend on the patient's age, where they live, their medical history and risks. How can we tell if a surgery was overpriced... when no two are different? Answer in this talk: it involves ML 🧠\n* **Ops**: ⚙ You have built your machine learning model and your results were great in the first month. Now suddenly accuracy of your model is wearing off. Further, you tried some new models with different parameters, and one of them showed promising results, but when trying the same model again, results are not the same. You tried different features, different parameters, longer history of data, but unsure which combination gives the best result. Managing this workflow month after month sounds tedious, and model management and maintenance has become cumbersome. Your feature engineering code was working, and a recent change in code, break your model in production and you cannot run inference jobs for the rest of the day. If these problems sound familiar, we got you covered, and will cover techniques of model management, model monitoring, detecting drift and automating model promotion with systematic release.\n\nVENUE:\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-08-18T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702285",
-      "going": 14,
+      "going": 20,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -127,6 +127,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG, July 2022 | Save the date",
+      "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis is a save-the-date - the real juice will be edited in soon!\n\n**Event details:**\n\nDate: Thursday Aug 25th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
+      "dateTime": "2022-08-25T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/287565288",
+      "going": 3,
+      "maxTickets": 50,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
