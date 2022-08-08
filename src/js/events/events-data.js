@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-07T13:31:27.151Z
+// Auto Generated on 2022-08-08T13:47:35.039Z
  module.exports = [
   {
     "event": {
@@ -105,7 +105,7 @@
       "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 3 awesome talks from 3 internationally acclaimed speakers.\n\nWe're not ready to tell you what they'll be talking about but we can tell you who they are.\n\nAaron Powell ([@Slace](https://twitter.com/slace)) : Hello 👋, I'm a Cloud Developer Advocate for Microsoft based in Sydney. My area of specialty is front-end web development, focusing on architecture around SPA and other UI-heavy web applications.\n\nDave Glover ([@dglover](https://twitter.com/dglover)) Regional Cloud Developer Advocate for Microsoft based in Sydney. Dream in .NET/C#, Python, and dabble with C++. Covers Azure, App Dev, and IoT\n\nAnthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw)) I'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).",
       "dateTime": "2022-09-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -127,6 +127,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Monthly Meet-up | Speaker TBA",
+      "description": "The Women and Gender Diverse People in Tech meeting is on again in September! We'll be hearing from a wonderful person from our community, speaker to be announced.\n\nAll WaGD Members and Supporters are welcome at this event.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden know of any dietaries you have beforehand.",
+      "dateTime": "2022-09-08T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287440166",
+      "going": 5,
+      "maxTickets": 30,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.921635,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Newcastle Women and Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "504544595",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "504544595",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
