@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-09T13:53:15.706Z
+// Auto Generated on 2022-08-10T13:38:40.477Z
  module.exports = [
   {
     "event": {
@@ -105,7 +105,7 @@
       "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 3 awesome talks from 3 internationally acclaimed speakers.\n\nWe're not ready to tell you what they'll be talking about but we can tell you who they are.\n\nAaron Powell ([@Slace](https://twitter.com/slace)) : Hello 👋, I'm a Cloud Developer Advocate for Microsoft based in Sydney. My area of specialty is front-end web development, focusing on architecture around SPA and other UI-heavy web applications.\n\nDave Glover ([@dglover](https://twitter.com/dglover)) Regional Cloud Developer Advocate for Microsoft based in Sydney. Dream in .NET/C#, Python, and dabble with C++. Covers Azure, App Dev, and IoT\n\nAnthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw)) I'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).",
       "dateTime": "2022-09-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 13,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
