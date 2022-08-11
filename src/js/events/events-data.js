@@ -1,38 +1,5 @@
-// Auto Generated on 2022-08-10T13:38:40.477Z
+// Auto Generated on 2022-08-11T13:44:08.018Z
  module.exports = [
-  {
-    "event": {
-      "title": "Newy WGDPTech Casual Catch-up",
-      "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel\n\nWe hope to see you there :)",
-      "dateTime": "2022-08-11T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287438490",
-      "going": 16,
-      "maxTickets": 0,
-      "duration": "PT1H30M",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
-      "venue": {
-        "name": "Honeysuckle Hotel",
-        "lat": -32.92507,
-        "lng": 151.76918,
-        "address": "",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Women and Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "504544595",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "504544595",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.AUG <- Stats, ML and ops: presented by Team HH",
@@ -61,6 +28,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "August Meeting: Ashley Davis on Rapid Fullstack Development",
+      "description": "This month, from Brisbane we have **Ashley Davis** joining us virtually on the big screen to speak about **Rapid Fullstack Development**. Ashley is the author of several books on JavaScript and is a prolific open source contributor.\n\nIn this talk you'll learn some tricks of the trade for being a fast developer working across the stack.\n\nWe'll discuss:\n\\- Using JavaScript to switch between mobile\\, web and backend development with ease\\.\n\\- Creating a fast\\, efficient and effective development cycle\\.\n\\- Keeping our code working through many iterations\\.\n\\- Making the most of our development toolkit to support us in our efforts to quickly and continuously create reliable and stable code\\.\n\nJoin software craftsman and author Ashley Davis and learn techniques for high velocity development that he has spent many years practising and refining.\n\nDate: Wednesday 24th of July\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
+      "dateTime": "2022-08-24T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/287708073",
+      "going": 2,
+      "maxTickets": 50,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506178699/676x380.webp",
+      "venue": {
+        "name": "710 Hunter St",
+        "lat": -32.926094,
+        "lng": 151.76259,
+        "address": "710 Hunter St",
+        "city": "Newcastle West"
+      }
+    },
+    "group": {
+      "name": "NewcastleJS - JavaScript Meetup",
+      "urlname": "newcastlejs-javascript-meetup",
+      "groupPhoto": {
+        "id": "473023676",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "473023676",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -105,7 +105,7 @@
       "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 3 awesome talks from 3 internationally acclaimed speakers.\n\nWe're not ready to tell you what they'll be talking about but we can tell you who they are.\n\nAaron Powell ([@Slace](https://twitter.com/slace)) : Hello 👋, I'm a Cloud Developer Advocate for Microsoft based in Sydney. My area of specialty is front-end web development, focusing on architecture around SPA and other UI-heavy web applications.\n\nDave Glover ([@dglover](https://twitter.com/dglover)) Regional Cloud Developer Advocate for Microsoft based in Sydney. Dream in .NET/C#, Python, and dabble with C++. Covers Azure, App Dev, and IoT\n\nAnthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw)) I'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).",
       "dateTime": "2022-09-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 15,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
