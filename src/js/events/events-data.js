@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-13T13:31:56.370Z
+// Auto Generated on 2022-08-14T13:34:13.942Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "This month, from Brisbane we have **Ashley Davis** joining us virtually on the big screen to speak about **Rapid Fullstack Development**. Ashley is the author of several books on JavaScript and is a prolific open source contributor.\n\nIn this talk you'll learn some tricks of the trade for being a fast developer working across the stack.\n\nWe'll discuss:\n\\- Using JavaScript to switch between mobile\\, web and backend development with ease\\.\n\\- Creating a fast\\, efficient and effective development cycle\\.\n\\- Keeping our code working through many iterations\\.\n\\- Making the most of our development toolkit to support us in our efforts to quickly and continuously create reliable and stable code\\.\n\nJoin software craftsman and author Ashley Davis and learn techniques for high velocity development that he has spent many years practising and refining.\n\nDate: Wednesday 24th of July\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-08-24T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/287708073",
-      "going": 4,
+      "going": 5,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506178699/676x380.webp",
@@ -138,7 +138,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in September! We'll be hearing from a wonderful person from our community, speaker to be announced.\n\nAll WaGD Members and Supporters are welcome at this event.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden know of any dietaries you have beforehand.",
       "dateTime": "2022-09-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287440166",
-      "going": 5,
+      "going": 6,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
