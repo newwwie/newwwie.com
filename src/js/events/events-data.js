@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-15T13:46:49.794Z
+// Auto Generated on 2022-08-16T13:34:34.858Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "This month, from Brisbane we have **Ashley Davis** joining us virtually on the big screen to speak about **Rapid Fullstack Development**. Ashley is the author of several books on JavaScript and is a prolific open source contributor.\n\nIn this talk you'll learn some tricks of the trade for being a fast developer working across the stack.\n\nWe'll discuss:\n\\- Using JavaScript to switch between mobile\\, web and backend development with ease\\.\n\\- Creating a fast\\, efficient and effective development cycle\\.\n\\- Keeping our code working through many iterations\\.\n\\- Making the most of our development toolkit to support us in our efforts to quickly and continuously create reliable and stable code\\.\n\nJoin software craftsman and author Ashley Davis and learn techniques for high velocity development that he has spent many years practising and refining.\n\nDate: Wednesday 24th of July\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-08-24T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/287708073",
-      "going": 8,
+      "going": 10,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506178699/676x380.webp",
@@ -68,14 +68,14 @@
   },
   {
     "event": {
-      "title": "NCSG, July 2022 | Save the date",
-      "description": "Hello friends! Welcome back to another instalment of NCSG.\n\nThis is a save-the-date - the real juice will be edited in soon!\n\n**Event details:**\n\nDate: Thursday Aug 25th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
+      "title": "NCSG, July 2022 | Cris White",
+      "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we're fortunate to have Cris White!\n\nHaving served 15+ years as a Warfare Officer in the Royal Australian Navy, Cris is bringing his operational experience to the cyber security industry. Now a Cyber Security Analyst, Cris has shifted from chasing pirates, drug runners and illegal fishing to defending networks, chasing cyber threats and combating phishing.\n\nWith experience planning, conducting and teaching wargaming, Cris aims to explain the benefits of wargaming, the various methods available, and to bridge the gap between the wargaming concept in military terms to the cyber risks being tackled by organisations around the world.\n\n**Event details:**\n\nDate: Thursday Aug 25th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-08-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/287565288",
-      "going": 4,
+      "going": 19,
       "maxTickets": 50,
       "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506327334/676x380.webp",
       "venue": {
         "name": "Q Building, The University of Newcastle",
         "lat": -32.926277,
@@ -105,7 +105,7 @@
       "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 3 awesome talks from 3 internationally acclaimed speakers.\n\nWe're not ready to tell you what they'll be talking about but we can tell you who they are.\n\nAaron Powell ([@Slace](https://twitter.com/slace)) : Hello 👋, I'm a Cloud Developer Advocate for Microsoft based in Sydney. My area of specialty is front-end web development, focusing on architecture around SPA and other UI-heavy web applications.\n\nDave Glover ([@dglover](https://twitter.com/dglover)) Regional Cloud Developer Advocate for Microsoft based in Sydney. Dream in .NET/C#, Python, and dabble with C++. Covers Azure, App Dev, and IoT\n\nAnthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw)) I'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).",
       "dateTime": "2022-09-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 17,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
