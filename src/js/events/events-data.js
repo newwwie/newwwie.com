@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-20T13:32:36.640Z
+// Auto Generated on 2022-08-21T13:32:59.571Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we're fortunate to have Cris White!\n\nHaving served 15+ years as a Warfare Officer in the Royal Australian Navy, Cris is bringing his operational experience to the cyber security industry. Now a Cyber Security Analyst, Cris has shifted from chasing pirates, drug runners and illegal fishing to defending networks, chasing cyber threats and combating phishing.\n\nWith experience planning, conducting and teaching wargaming, Cris aims to explain the benefits of wargaming, the various methods available, and to bridge the gap between the wargaming concept in military terms to the cyber risks being tackled by organisations around the world.\n\n**Event details:**\n\nDate: Thursday Aug 25th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-08-25T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/287565288",
-      "going": 25,
+      "going": 26,
       "maxTickets": 50,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506327334/676x380.webp",
