@@ -39,7 +39,7 @@ Promise.all(
     return getGroupEvents(event).then(transformEvents);
   })
 ).then((events) => {
-  const sortedEvents = _.sortBy(events.flat().filter(filterEventsNext30Days), (e) => e.event.dateTime);
+  const sortedEvents = _.sortBy(events.flat().filter(filterEventsNext90Days), (e) => e.event.dateTime);
   fs.writeFileSync(
     path.join(__dirname, "..", "src", "js", "events", "events-data.js"),
     `// Auto Generated on ${new Date().toISOString()}\n module.exports = ${JSON.stringify(sortedEvents, null, 2)}`
