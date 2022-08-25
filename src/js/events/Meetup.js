@@ -68,8 +68,10 @@ export class Meetup {
                         </div>
                     </div>
                     <div class="eventItem-right">
-                        <p class="eventItem-title">{event.name}</p>
+                        <p class="eventItem-title">{event.title}</p>
                         <p class="eventItem-group">Hosted by: <a href={`https://meetup.com/${group.urlname}`}>{group.name}</a></p>
+
+                        <p class="eventItem-description">{event.description.substring(0,240)}...</p>
                         <ul class="eventItem-stats">
                             <li class="eventItem-stats_rsvp" title="Number of people who have RSVP'd vs. the total number of spots">
                                 <svg version="1.1" class="eventItem-stats_icon" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"viewBox="0 0 482.9 482.9" style="enable-background:new 0 0 482.9 482.9;">
