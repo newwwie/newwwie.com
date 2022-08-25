@@ -68,7 +68,7 @@ export class Meetup {
                         </div>
                     </div>
                     <div class="eventItem-right">
-                        <p class="eventItem-title">{event.name}</p>
+                        <p class="eventItem-title">{event.title}</p>
                         <p class="eventItem-group">Hosted by: <a href={`https://meetup.com/${group.urlname}`}>{group.name}</a></p>
                         <ul class="eventItem-stats">
                             <li class="eventItem-stats_rsvp" title="Number of people who have RSVP'd vs. the total number of spots">
@@ -104,6 +104,7 @@ export class Meetup {
                         </ul>
                     </div>
                     <a class="button" href={event.eventUrl}>More info</a>
+                    <p class="eventItem-description">{event.description}</p>
                 </li>
             )
         });
