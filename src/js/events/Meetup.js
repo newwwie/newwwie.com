@@ -80,7 +80,7 @@ export class Meetup {
                                         </g>
                                     </g>
                                 </svg>
-                                {event.going} / {event.maxTickets ? event.maxTickets : "\u221E"} <span>spots available</span>
+                                {event.going} / {event.maxTickets ? event.maxTickets : "\u221E"}
                             </li>
                             <li class="eventItem-stats_duration" title="Duration of the event">
                                 <svg version="1.1" class="eventItem-stats_icon" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;">
