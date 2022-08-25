@@ -26,12 +26,12 @@ const transformEvents = (graphqlResponse) => {
   });
 };
 
-const filterEventsNext30Days = (e) => {
+const filterEventsNext90Days = (e) => {
   const eventDate = new Date(e.event.dateTime);
   const now = new Date();
   const difference = eventDate.getTime() - now.getTime();
   const days = Math.ceil(difference / (1000 * 3600 * 24));
-  return days <= 31;
+  return days <= 90;
 };
 
 Promise.all(
