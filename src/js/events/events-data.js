@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-27T13:33:43.390Z
+// Auto Generated on 2022-08-28T13:33:51.613Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in September! We'll be hearing from a wonderful person from our community, speaker to be announced.\n\nAll WaGD Members and Supporters are welcome at this event.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden know of any dietaries you have beforehand.",
       "dateTime": "2022-09-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287440166",
-      "going": 13,
+      "going": 15,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
