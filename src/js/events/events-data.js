@@ -1,4 +1,4 @@
-// Auto Generated on 2022-08-29T13:44:50.094Z
+// Auto Generated on 2022-08-30T13:52:45.854Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 3 awesome talks from 3 internationally acclaimed speakers who have traveled to Newcastle just to speak at this event.\n\nAaron will be talking about GraphQL, Anthony will be talking about writing better Python and Dave will be talking about AI Anomaly detection.\n\nWe'll be hosted by SSW Newcastle 432 Hunter Street.\nThere is parking available near the museum.\n\nWe'll have free food and drinks. This promises to be a great night RSVP to make sure you reserve your spot.\n\n**Agenda (aproximate)**\n5:50 Doors open\n6:15 News\n6:30 1st talk\n7:00 2nd talk\n7:30 Dinner\n8:00 3rd talk\n8:30 Finish up\n\n**Aaron Powell ([@Slace](https://twitter.com/slace))**:\nHello 👋, I'm a Cloud Developer Advocate for Microsoft based in Sydney. My area of specialty is front-end web development, focusing on architecture around SPA and other UI-heavy web applications.\n**Title**\nGraphQL – is it an API for hipsters?\n**Abstract**\nGraphQL has grown in popularity since Facebook first launched it, but just because it’s new and shiny doesn’t mean that it’s the right thing to use does it?\nSo, let’s have a look at what GraphQL is, the problems it solves, and how to get started with it.\n\n**Dave Glover ([@dglover](https://twitter.com/dglover))**\n**Title**\nAI Powered Anomaly Detection for Predictive Maintenance\n**Abstract**\nLearn about Edge Impulse movement classification models running on the IoT Edge complemented with Azure Anomaly Detector services to build a comprehensive predictive maintenance solution.\nDave Glover is a passionate software developer, with considerable experience and interest in low powered embedded platforms, communications, cloud systems and AI\n\n**Anthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw))**\nI'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).\n**Title:**\nWrite faster Python! Common performance anti-patterns\n**Abstract**\nThis talk will show small, specific examples of Python code that can be refactored to be faster without compromising on readability. At the start of the talk, I'll explain how to set up a profiler to measure application performance and how to track improvements and regressions.",
       "dateTime": "2022-09-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 29,
+      "going": 30,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in September! We'll be hearing from a wonderful person from our community, Tricia Martin!\n\nAll WaGD Members and Supporters are welcome at this event.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden know of any dietaries you have beforehand.",
       "dateTime": "2022-09-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287440166",
-      "going": 17,
+      "going": 20,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
