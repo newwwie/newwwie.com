@@ -1,38 +1,5 @@
-// Auto Generated on 2022-09-06T13:49:37.044Z
+// Auto Generated on 2022-09-07T13:57:22.878Z
  module.exports = [
-  {
-    "event": {
-      "title": "September: 3 Talks - GraphQL | Python | AI Anomaly Detection - MS Take Over ",
-      "description": "For one night only Microsoft are coming and brining their best and brightest. We'll have 2 awesome talks from 2 internationally acclaimed speakers who have traveled to Newcastle just to speak at this event.\n\nAnthony will be talking about writing better Python and Dave will be talking about AI Anomaly detection.\n\nWe'll be hosted by SSW Newcastle 432 Hunter Street.\nThere is parking available near the museum.\n\nWe'll have free food and drinks. This promises to be a great night RSVP to make sure you reserve your spot.\n\n**Agenda (aproximate)**\n5:50 Doors open\n6:15 News\n6:30 1st talk\n7:15 Dinner\n7:45 2nd Talk\n8:30 Finish up\n\nAaron Powell's talk unfortunately has had to be scratched.\n\n**Dave Glover ([@dglover](https://twitter.com/dglover))**\n**Title**\nAI Powered Anomaly Detection for Predictive Maintenance\n**Abstract**\nLearn about Edge Impulse movement classification models running on the IoT Edge complemented with Azure Anomaly Detector services to build a comprehensive predictive maintenance solution.\nDave Glover is a passionate software developer, with considerable experience and interest in low powered embedded platforms, communications, cloud systems and AI\n\n**Anthony Shaw ([@anthonypjshaw](https://twitter.com/anthonypjshaw))**\nI'm an English expat living in [Avoca Beach](https://www.traveller.com.au/guide-at-a-glance-avoca-beach-2h8o5), Australia. I'm a proud father of 3 girls and strive to be an **active, engaged and responsible** member of both my local community and the broader open-source tech community.\nI work for Microsoft, focused on Python and Open-Sources technologies.\nI [Tweet](https://twitter.com/anthonypjshaw) often, [blog frequently](https://tonybaloney.github.io/#blog) and [speak seldomly](https://tonybaloney.github.io/#talks). All of my research and tinkering is Open-Source, I'm an active member of some [large open-source projects](https://tonybaloney.github.io/#contributions) as well as [maintaining my own](https://tonybaloney.github.io/#projects).\n**Title:**\nWrite faster Python! Common performance anti-patterns\n**Abstract**\nThis talk will show small, specific examples of Python code that can be refactored to be faster without compromising on readability. At the start of the talk, I'll explain how to set up a profiler to measure application performance and how to track improvements and regressions.",
-      "dateTime": "2022-09-07T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/286934355",
-      "going": 48,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "SSW Newcastle - Enterprise Software Development",
-        "lat": -32.926857,
-        "lng": 151.77159,
-        "address": "432 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "Newcastle-Coders-Group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up | Hear from Tricia Martin",
