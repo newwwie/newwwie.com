@@ -1,45 +1,12 @@
-// Auto Generated on 2022-09-07T13:57:22.878Z
+// Auto Generated on 2022-09-08T13:38:47.664Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDPTech Monthly Meet-up | Hear from Tricia Martin",
-      "description": "The Women and Gender Diverse People in Tech meeting is on again in September! We'll be hearing from a wonderful person from our community, Tricia Martin!\n\nTricia Martin is a behaviour change program designer and founder of the Virtual Intern, an online platform that nudges the next generation towards meaningful employment through irresistible and digital learning experiences. As a FYA Young Social Pioneer and Aus Women Leading Tech Finalist, Tricia is constantly exploring ways to harness and design technology to better meet human needs and also provide strategic, people-centred solutions to talent attraction and unemployment. In her spare time you will find her reading a sci-fi novel, scouring op shops as if on a mission or re-watching Buffy for the 15th time.\n\nAll WaGD Members and Supporters are welcome at this event.\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden know of any dietaries you have beforehand.",
-      "dateTime": "2022-09-08T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/287440166",
-      "going": 30,
-      "maxTickets": 30,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.921635,
-        "lng": 151.75789,
-        "address": "24 Lindus St",
-        "city": "Wickham"
-      }
-    },
-    "group": {
-      "name": "Newcastle Women and Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "504544595",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "504544595",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.SEPT <- Preventing Credit Card Fraud with Kafka Streams",
       "description": "**This month's topic:**\nFraud is expensive. We should stop fraud.\nJoin Mark as he talks about that time that he and his team of fintech-startup-wannabes tried to build a real time fraud prevention engine with Kafka Streams, Cassandra and some ML.\nDid they succeed? Was any fraud actually prevented? Just what is a Kafka Stream and where can I get one?\nTune in to find out.\n\n**About the Speaker**:\nMark has been writing code for around 20 years. He currently works as a Principal Consultant at Equal Experts helping scale-up companies scale up, and helping traditional enterprises with their digital transformations. He is not really a data engineer but occasionally plays one at work.\n\n**CALL FOR SPEAKERS:**\nDo you have an interesting data story to tell?\nWould you like to give this month's presentation?\nFollow the link below to our Google form to express your interest and we'll contact you soon!\nhttps://forms.gle/fnWkDmzmdPvs7z7WA\n\n**VENUE:**\n\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\n⚠ IMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\n**FOOD**: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\n**SCHEDULE**:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-09-15T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702421",
-      "going": 17,
+      "going": 19,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -105,7 +72,7 @@
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** TBC (Probably Honeysuckle Hotel but we're happy to take suggestions!)\n\nWe hope to see you there :)",
       "dateTime": "2022-10-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/288125270",
-      "going": 7,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
