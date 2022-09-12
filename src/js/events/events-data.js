@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-11T13:38:06.675Z
+// Auto Generated on 2022-09-12T13:52:47.706Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**This month's topic:**\nFraud is expensive. We should stop fraud.\nJoin Mark as he talks about that time that he and his team of fintech-startup-wannabes tried to build a real time fraud prevention engine with Kafka Streams, Cassandra and some ML.\nDid they succeed? Was any fraud actually prevented? Just what is a Kafka Stream and where can I get one?\nTune in to find out.\n\n**About the Speaker**:\nMark has been writing code for around 20 years. He currently works as a Principal Consultant at Equal Experts helping scale-up companies scale up, and helping traditional enterprises with their digital transformations. He is not really a data engineer but occasionally plays one at work.\n\n**CALL FOR SPEAKERS:**\nDo you have an interesting data story to tell?\nWould you like to give this month's presentation?\nFollow the link below to our Google form to express your interest and we'll contact you soon!\nhttps://forms.gle/fnWkDmzmdPvs7z7WA\n\n**VENUE:**\n\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\n⚠ IMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\n**FOOD**: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\n**SCHEDULE**:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-09-15T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702421",
-      "going": 21,
+      "going": 27,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "This month, we have Newcastle local **Klee Thomas** telling us all we need to know about JWT (JSON Web Tokens).\n\nJWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services. That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?\n\nJoin Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.\n\nDate: Wednesday 28th of September\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-09-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/288370241",
-      "going": 1,
+      "going": 2,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506908242/676x380.webp",
