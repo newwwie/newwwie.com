@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-15T13:55:20.395Z
+// Auto Generated on 2022-09-16T13:55:50.467Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we have Newcastle local **Klee Thomas** telling us all we need to know about JWT (JSON Web Tokens).\n\nJWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services. That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?\n\nJoin Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.\n\nDate: Wednesday 28th of September\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-09-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/288370241",
-      "going": 7,
+      "going": 9,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506908242/676x380.webp",
@@ -68,11 +68,44 @@
   },
   {
     "event": {
+      "title": "October: 2 Talks - Ken Thompson Hack + The history of text encoding",
+      "description": "In October we have two great speakers on two interesting topics. We'll have Vijay Purush speaking about the Ken Thompson Hack and Tony Brown talking about the history of text encoding.\n\nWe'll be at the Mudbath office this time around. There is on street parking available and the closest public transport is the Newcastle Interchange.",
+      "dateTime": "2022-10-05T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511114",
+      "going": 2,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": {
+        "name": "Mudbath Digital ",
+        "lat": -32.92607,
+        "lng": 151.7626,
+        "address": "8/710 Hunter st",
+        "city": "Newcastle "
+      }
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "Newy WGDPTech Casual Catch-up",
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** TBC (Probably Honeysuckle Hotel but we're happy to take suggestions!)\n\nWe hope to see you there :)",
       "dateTime": "2022-10-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/288125270",
-      "going": 11,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
@@ -128,6 +161,33 @@
   },
   {
     "event": {
+      "title": "November @ SSW",
+      "description": "We're working out the details of this meeting currently. We'll have someone from SSW speaking. Maybe it'll be Adam Cogan, maybe Matt Whicks, maybe something else. Who ever it is you know that they'll be a polished speaker.\n\nWe'll update the details as they come to light.",
+      "dateTime": "2022-11-02T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511141",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "data.NOV <- Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles",
       "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\nTalk Description:\nTBC\n\nSpeaker Description:\nTBC\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-11-17T17:30+11:00",
@@ -154,6 +214,33 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "December Newwwie Tech Trivia ",
+      "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nWe're still sorting out the details. If you're interested in helping out reach out to Klee on Newwwie Slack or on twitter ([@kleeut](https://twitter.com/kleeut) DMs open).\nWe need:\n\\* Sponsors\n\\* Venue\n\\* Help on the night.\n\\* Question ideas",
+      "dateTime": "2022-12-07T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
+      "going": 3,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
