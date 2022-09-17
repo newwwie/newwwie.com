@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-16T13:55:50.467Z
+// Auto Generated on 2022-09-17T13:38:22.729Z
  module.exports = [
   {
     "event": {
@@ -225,7 +225,7 @@
       "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nWe're still sorting out the details. If you're interested in helping out reach out to Klee on Newwwie Slack or on twitter ([@kleeut](https://twitter.com/kleeut) DMs open).\nWe need:\n\\* Sponsors\n\\* Venue\n\\* Help on the night.\n\\* Question ideas",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
