@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-17T13:38:22.729Z
+// Auto Generated on 2022-09-18T13:40:10.970Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we have Newcastle local **Klee Thomas** telling us all we need to know about JWT (JSON Web Tokens).\n\nJWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services. That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?\n\nJoin Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.\n\nDate: Wednesday 28th of September\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-09-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/288370241",
-      "going": 9,
+      "going": 11,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506908242/676x380.webp",
