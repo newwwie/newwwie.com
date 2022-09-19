@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-18T13:40:10.970Z
+// Auto Generated on 2022-09-19T13:56:41.473Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we have Newcastle local **Klee Thomas** telling us all we need to know about JWT (JSON Web Tokens).\n\nJWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services. That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?\n\nJoin Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.\n\nDate: Wednesday 28th of September\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-09-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/288370241",
-      "going": 11,
+      "going": 13,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506908242/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "In October we have two great speakers on two interesting topics. We'll have Vijay Purush speaking about the Ken Thompson Hack and Tony Brown talking about the history of text encoding.\n\nWe'll be at the Mudbath office this time around. There is on street parking available and the closest public transport is the Newcastle Interchange.",
       "dateTime": "2022-10-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511114",
-      "going": 2,
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -132,7 +132,7 @@
       "description": "**Note**: this is a reschedule of July's talk, which had to be cancelled due to Covid!\n\n**The Talk**\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\nThe Speaker\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-10-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702572",
-      "going": 7,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -165,7 +165,7 @@
       "description": "We're working out the details of this meeting currently. We'll have someone from SSW speaking. Maybe it'll be Adam Cogan, maybe Matt Whicks, maybe something else. Who ever it is you know that they'll be a polished speaker.\n\nWe'll update the details as they come to light.",
       "dateTime": "2022-11-02T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511141",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -225,7 +225,7 @@
       "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nWe're still sorting out the details. If you're interested in helping out reach out to Klee on Newwwie Slack or on twitter ([@kleeut](https://twitter.com/kleeut) DMs open).\nWe need:\n\\* Sponsors\n\\* Venue\n\\* Help on the night.\n\\* Question ideas",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 4,
+      "going": 8,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
