@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-20T13:58:11.536Z
+// Auto Generated on 2022-09-21T13:58:41.421Z
  module.exports = [
   {
     "event": {
@@ -101,11 +101,44 @@
   },
   {
     "event": {
+      "title": "Tomago Aluminium - IoT ecosystem for wide-spread optimisations",
+      "description": "**About the Topic:** This month, hear from fellow Novocastrian Brodie Fairhall, Automation Engineer at Tomago Aluminium, as he guides us through his journey in developing an IoT ecosystem for plant health, process flow and mobile equipment tracking.\n\n**About the speaker:** Brodie Fairhall is an Automation Engineer with over 15 years of experience in heavy industry. Best described as a tech generalist, Brodie has made a career finding and filling skills gaps between typical industry specialities.\n\nBrodie's current role at Tomago Aluminium is centred around creating an in-house designed and built IoT ecosystem. Outside of work, Brodie is a very active member of the maker community, is writing a FreeCAD reference book, has an educational YouTube channel and is the design lead for Modos, a start-up creating E-Paper devices.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
+      "dateTime": "2022-10-06T18:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/288615454",
+      "going": 8,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507204315/676x380.webp",
+      "venue": {
+        "name": "Stag & Hunter Hotel",
+        "lat": -32.897324,
+        "lng": 151.73674,
+        "address": "187 Maitland Rd",
+        "city": "Mayfield"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "Newy WGDPTech Casual Catch-up",
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** TBC (Probably Honeysuckle Hotel but we're happy to take suggestions!)\n\nWe hope to see you there :)",
       "dateTime": "2022-10-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/288125270",
-      "going": 14,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
