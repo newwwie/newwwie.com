@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-26T13:58:52.179Z
+// Auto Generated on 2022-09-27T14:00:37.714Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we have Newcastle local **Klee Thomas** telling us all we need to know about JWT (JSON Web Tokens).\n\nJWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services. That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?\n\nJoin Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.\n\nDate: Wednesday 28th of September\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-09-28T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/288370241",
-      "going": 20,
+      "going": 22,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/506908242/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we've got Elena Scifleet, Principal Consultant at CyberCX and Newcastle Chapter Lead of the Australian Women in Security Network.\n\n**Event details:**\n\nDate: Thursday Sep 29th, 2022\nTime: 18:00-20:00ish (or until we go to the pub)\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\nWant to learn more? Be sure to follow us on LinkedIn: linkedin.com/company/newcastlecybersecuritygroup/ or visit newwwie.com, join the community and come and chat in the #security channel.",
       "dateTime": "2022-09-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/288281973",
-      "going": 18,
+      "going": 19,
       "maxTickets": 45,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507345393/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "**About the Topic:** This month, hear from fellow Novocastrian Brodie Fairhall, Automation Engineer at Tomago Aluminium, as he guides us through his journey in developing an IoT ecosystem for plant health, process flow and mobile equipment tracking.\n\n**About the speaker:** Brodie Fairhall is an Automation Engineer with over 15 years of experience in heavy industry. Best described as a tech generalist, Brodie has made a career finding and filling skills gaps between typical industry specialities.\n\nBrodie's current role at Tomago Aluminium is centred around creating an in-house designed and built IoT ecosystem. Outside of work, Brodie is a very active member of the maker community, is writing a FreeCAD reference book, has an educational YouTube channel and is the design lead for Modos, a start-up creating E-Paper devices.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
       "dateTime": "2022-10-06T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/288615454",
-      "going": 15,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507204315/676x380.webp",
