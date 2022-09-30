@@ -1,4 +1,4 @@
-// Auto Generated on 2022-09-29T13:57:43.742Z
+// Auto Generated on 2022-09-30T14:00:10.114Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In October we have two great speakers on two interesting topics. We'll have Vijay Purush speaking about the Ken Thompson Hack and Tony Brown talking about the history of text encoding.\n\nWe'll be at the Mudbath office this time around. There is on street parking available and the closest public transport is the Newcastle Interchange.\n\n**Do you trust your compiler?**\nIn 1984, Ken Thompson, the inventor of B programming language and the co-developer of Go programming language, presented an idea to inject malicious code into the binaries through a compromised compiler whilst keeping the source of the compiler, free of any malicious code. I have taken it upon myself to determine if this is possible in an interpreted language, such as JavaScript. During the talk, I will show you that it is in-fact possible and if you think this is as serious an issue as I think it is, I urge you to be vigilant of the risk it poses and possibly find a solution.\n**About Vijay Purush**\nAs a developer, I have been predominantly spending my time in recent years on JavaScript and related frameworks. But, I stared my career several years ago on WinForms using VB.NET for a large corporation in a project that had been in development for 3 years and in production for less than a year when I joined it. Needless to say, most of my initial years was spent debugging/understanding/fixing code rather than writing code. Consequently, more than the languages/frameworks that I have learnt in my career, it is the debugging skills that I value the most.\n\n**What is a text file? ... what are character encodings? ... and why should I care?**\nHow do machines that fundamentally work with numbers, work with text?\nWe take a look at how text is represented in computing, how things got this way, and the sliding doors moments where things could have taken a different turn.\n**About Tony Brown**\nTony Brown is a technical architect with nib Health Funds.\nHe has been interested in computers for quite some time now, starting out on a 8-kilobyte machine plugged into the family TV set.\nHe has an interest in old computing machinery and considers California's Computer History Museum to be the *real* happiest place on earth.",
       "dateTime": "2022-10-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511114",
-      "going": 17,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**About the Topic:** This month, hear from fellow Novocastrian Brodie Fairhall, Automation Engineer at Tomago Aluminium, as he guides us through his journey in developing an IoT ecosystem for plant health, process flow and mobile equipment tracking.\n\n**About the speaker:** Brodie Fairhall is an Automation Engineer with over 15 years of experience in heavy industry. Best described as a tech generalist, Brodie has made a career finding and filling skills gaps between typical industry specialities.\n\nBrodie's current role at Tomago Aluminium is centred around creating an in-house designed and built IoT ecosystem. Outside of work, Brodie is a very active member of the maker community, is writing a FreeCAD reference book, has an educational YouTube channel and is the design lead for Modos, a start-up creating E-Paper devices.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
       "dateTime": "2022-10-06T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/288615454",
-      "going": 17,
+      "going": 28,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507204315/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "**Note**: this is a reschedule of July's talk, which had to be cancelled due to Covid!\n\n**The Talk**\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\nThe Speaker\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-10-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702572",
-      "going": 13,
+      "going": 14,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
