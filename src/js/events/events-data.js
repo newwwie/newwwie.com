@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-01T13:47:54.321Z
+// Auto Generated on 2022-10-02T13:43:41.444Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "**About the Topic:** This month, hear from fellow Novocastrian Brodie Fairhall, Automation Engineer at Tomago Aluminium, as he guides us through his journey in developing an IoT ecosystem for plant health, process flow and mobile equipment tracking.\n\n**About the speaker:** Brodie Fairhall is an Automation Engineer with over 15 years of experience in heavy industry. Best described as a tech generalist, Brodie has made a career finding and filling skills gaps between typical industry specialities.\n\nBrodie's current role at Tomago Aluminium is centred around creating an in-house designed and built IoT ecosystem. Outside of work, Brodie is a very active member of the maker community, is writing a FreeCAD reference book, has an educational YouTube channel and is the design lead for Modos, a start-up creating E-Paper devices.\n\n**Networking**: As always, there will be plenty of time for questions and networking!",
       "dateTime": "2022-10-06T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/288615454",
-      "going": 28,
+      "going": 30,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507204315/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "**Note**: this is a reschedule of July's talk, which had to be cancelled due to Covid!\n\n**The Talk**\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\nThe Speaker\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-10-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702572",
-      "going": 14,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -165,7 +165,7 @@
       "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\nTalk Description:\nTBC\n\nSpeaker Description:\nTBC\n\n##-------------------------------------------------------------------##\n\nVENUE:\n\nNEW LOCATION!\n\nThe university's brand new Q building in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nIMPORTANT this is NOT the NewSpace building where we met last year.\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-11-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702783",
-      "going": 6,
+      "going": 7,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
