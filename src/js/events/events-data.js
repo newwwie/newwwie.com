@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-02T13:43:41.444Z
+// Auto Generated on 2022-10-03T14:03:56.680Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In October we have two great speakers on two interesting topics. We'll have Vijay Purush speaking about the Ken Thompson Hack and Tony Brown talking about the history of text encoding.\n\nWe'll be at the Mudbath office this time around. There is on street parking available and the closest public transport is the Newcastle Interchange.\n\n**Do you trust your compiler?**\nIn 1984, Ken Thompson, the inventor of B programming language and the co-developer of Go programming language, presented an idea to inject malicious code into the binaries through a compromised compiler whilst keeping the source of the compiler, free of any malicious code. I have taken it upon myself to determine if this is possible in an interpreted language, such as JavaScript. During the talk, I will show you that it is in-fact possible and if you think this is as serious an issue as I think it is, I urge you to be vigilant of the risk it poses and possibly find a solution.\n**About Vijay Purush**\nAs a developer, I have been predominantly spending my time in recent years on JavaScript and related frameworks. But, I stared my career several years ago on WinForms using VB.NET for a large corporation in a project that had been in development for 3 years and in production for less than a year when I joined it. Needless to say, most of my initial years was spent debugging/understanding/fixing code rather than writing code. Consequently, more than the languages/frameworks that I have learnt in my career, it is the debugging skills that I value the most.\n\n**What is a text file? ... what are character encodings? ... and why should I care?**\nHow do machines that fundamentally work with numbers, work with text?\nWe take a look at how text is represented in computing, how things got this way, and the sliding doors moments where things could have taken a different turn.\n**About Tony Brown**\nTony Brown is a technical architect with nib Health Funds.\nHe has been interested in computers for quite some time now, starting out on a 8-kilobyte machine plugged into the family TV set.\nHe has an interest in old computing machinery and considers California's Computer History Museum to be the *real* happiest place on earth.",
       "dateTime": "2022-10-05T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511114",
-      "going": 19,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -195,7 +195,7 @@
   {
     "event": {
       "title": "December Newwwie Tech Trivia ",
-      "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nWe're still sorting out the details. If you're interested in helping out reach out to Klee on Newwwie Slack or on twitter ([@kleeut](https://twitter.com/kleeut) DMs open).\nWe need:\n\\* Sponsors\n\\* Venue\n\\* Help on the night.\n\\* Question ideas",
+      "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nHelp us with the Family Feud style questions by answering this two minute survey https://forms.gle/nQ1ytc2giHDnT5hM8\n\nWe're still sorting out the details. If you're interested in helping out reach out to Klee on Newwwie Slack or on twitter ([@kleeut](https://twitter.com/kleeut) DMs open).\nWe need:\n\\* Sponsors\n\\* Venue\n\\* Help on the night.\n\\* Question ideas",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
       "going": 10,
