@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-06T14:00:38.683Z
+// Auto Generated on 2022-10-07T13:58:50.718Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello there!\n\nWe're hosting another event for the Newcastle Women and Gender People in Tech meeting, and we'd love for you to join us!\n\nThis event will take the form of a casual networking and meetup. It's a fantastic opportunity to meet others in the space and build a community, as well as provide input in next months speaker event.\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 13th October from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel, usually on the back deck.\n\nWe hope to see you there :)",
       "dateTime": "2022-10-13T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/288125270",
-      "going": 18,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT1H30M",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/504541880/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**Note**: this is a reschedule of July's talk, which had to be cancelled due to Covid!\n\n**The Talk**\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\nThe Speaker\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2022-10-20T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702572",
-      "going": 18,
+      "going": 17,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
