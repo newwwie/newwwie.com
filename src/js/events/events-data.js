@@ -1,38 +1,5 @@
-// Auto Generated on 2022-10-19T14:02:01.659Z
+// Auto Generated on 2022-10-20T14:04:32.599Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.OCT <- How data-science can help break your favourite games",
-      "description": "**Note**: this is a reschedule of July's talk, which had to be cancelled due to Covid!\n\n**The Talk**\nAs kids we loved playing computer games. Today, many people pickup speedrunning to continue to enjoy and relive that experience, while entertaining millions of people globally. Finishing games quickly is an intensely competitive field, and while initially a lot of focus was on optimising movement and routing, we are seeing novel data-analysis techniques applied to optimise speedruns. This talk will cover how we use aggregation, data-science, entropic analysis, and more to speed up games like The Legend of Zelda: The Wind Waker, Final Fantasy 6, and more!\nThe Speaker\nCole Cornford is the Director of Galah Cyber, an Australian Cybersecurity consultancy with a focus on Application, Cloud, and Product Security. Cole has worked in the security space for 8 years across a variety of industries and cybersecurity fields. Cole helps organise a few other Newcastle communities, as well as being a regular presenter at AISA, BSides, and OWASP Conferences.\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by Newy Tech People\n* Please advise dietary requirements in RSVP\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
-      "dateTime": "2022-10-20T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702572",
-      "going": 40,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG, October 2022 | Klee Thomas",
@@ -72,7 +39,7 @@
       "description": "We're working out the details of this meeting currently. We'll have someone from SSW speaking. Maybe it'll be Adam Cogan, maybe Matt Whicks, maybe something else. Who ever it is you know that they'll be a polished speaker.\n\nWe'll update the details as they come to light.",
       "dateTime": "2022-11-02T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511141",
-      "going": 9,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -165,7 +132,7 @@
       "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\n**Talk Description**:\nIn this talk, we’ll be exploring the packet-mix variety of ensemble learners. Just like a packet mix cake, there are some components we’ll need to put together, but most of the ingredients come out of the box. We’ll use it as a tip-toe into the wider world of ensemble learners.We’ll be baking a machine learning model exploring how we can predict health outcomes for patients with heart disease and how we can use pack ensemble learners to improve our ML results with less time and effort.\n\n**Speaker Description:**\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around data nerd. Sarah has a Graduate Certificates in Data Science and Analytics and is passionate about getting the community excited about what technology can do. Sarah is one of the founders of the Women and Gender Diverse People in Technology group and has a focus on supporting and uplifting women in the technology industry.\n\n##-------------------------------------------------------------------##\n\n**VENUE:**\n\nJoin us at the University of Newcastle's **Q Building** in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* We make sure there are vegetarian and vegan options but please contact us if you have any other dietary requirements\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close (and to the pub)",
       "dateTime": "2022-11-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702783",
-      "going": 13,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
