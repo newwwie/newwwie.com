@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-25T14:06:41.739Z
+// Auto Generated on 2022-10-26T13:56:03.231Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we've got Klee Thomas, organiser of the Newcastle Coders Group and Software Engineer at Atlassian.\n\nKlee will be deep-diving into JSON Web Tokens:\n*JWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services.*\n\n*That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?*\n\n*Join Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.*\n\n**Event details:**\n\nDate: Thursday Oct 27th, 2022\nTime: 18:00-20:00\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising?** Express your interest [here](https://notionforms.io/forms/ncsg-speaker-eoi)!",
       "dateTime": "2022-10-27T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/289017326",
-      "going": 30,
+      "going": 31,
       "maxTickets": 45,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507683381/676x380.webp",
@@ -43,7 +43,13 @@
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507960971/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lng": 151.77159,
+        "address": "432 Hunter St",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
@@ -99,7 +105,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in September! Speaker TBA.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2022-11-10T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/289015677",
-      "going": 7,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
