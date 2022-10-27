@@ -1,45 +1,12 @@
-// Auto Generated on 2022-10-26T13:56:03.231Z
+// Auto Generated on 2022-10-27T13:53:27.202Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG, October 2022 | Klee Thomas",
-      "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we've got Klee Thomas, organiser of the Newcastle Coders Group and Software Engineer at Atlassian.\n\nKlee will be deep-diving into JSON Web Tokens:\n*JWT have become ubiquitous and are a part of every web developers life. We use them everyday to authenticate ourselves, to authenticate our users and to authenticate services.*\n\n*That said how much do you know about JWT? Are they different from a JWE, JWS, JOSE? Are they encrypted or just encoded? Can you actually trust them? What are the risks we take on when using them?*\n\n*Join Klee as he sheds light on the internals of JWT and helps you make sure that you’re building systems that are secure for your users.*\n\n**Event details:**\n\nDate: Thursday Oct 27th, 2022\nTime: 18:00-20:00\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising?** Express your interest [here](https://notionforms.io/forms/ncsg-speaker-eoi)!",
-      "dateTime": "2022-10-27T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/289017326",
-      "going": 31,
-      "maxTickets": 45,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507683381/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "November - Matt Wicks - Azure DevOps to GitHub: 10 Missing Bits",
       "description": "We're back in November. We'll have Matt Wicks SSW Solution Architect, trainer, and Certified Scrum Master talking to us about the missing bits between Azure DevOps and GitHub\n\nWe'll be hosting this event at SSW and they'll helping us out by providing sandwiches from Chiefly East for dinner on the night.\nWe'd also like to than our other sponsor Saphi.\n\nSSW is located at 432 Hunter Street. Car parking is available in the Wright Lane carpark. The closest public transport is the Civic Tram Stop.\n\n**Azure DevOps to GitHub - the missing bits**\nGitHub is the best engineering platform for developers 🔥, but too many times developers will say \"I can't believe that I can't do this on GitHub, it's easy on Azure DevOps\". In this talk, Matt will give you the top 10 things you need to know to turn those frowns upside down and make development great again.\n\n**About Matt**\nMatt is an SSW Solution Architect, trainer, and Certified Scrum Master. He has been developing solutions using the full Microsoft stack since .NET 2 (the old one) was in beta.\nMatt loves DevOps, DevOps and DevOps. These days he prefers GitHub Actions and Azure DevOps Build Pipelines over other tools. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, running solutions on Azure, and now he never has to reminisce about Webforms.",
       "dateTime": "2022-11-02T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511141",
-      "going": 16,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507960971/676x380.webp",
@@ -101,11 +68,11 @@
   },
   {
     "event": {
-      "title": "WGDPTech Monthly Meet-up | Speaker TBA",
-      "description": "The Women and Gender Diverse People in Tech meeting is on again in September! Speaker TBA.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
+      "title": "WGDPTech Monthly Meet-up | Mika Koelm",
+      "description": "The Women and Gender Diverse People in Tech meeting is on again in November! This month we'll be hearing from Mika Koelma.\n\nMika Koelma is the co-founder of Hey Zomi, Australia’s first reusable menstrual disc. The Hey Zomi disc is the latest innovation in FemTech that makes periods easier, more affordable and better for the planet. In this session, Mika will share her journey from school art teacher to company founder. Mika will explore what FemTech is, how she designed the Hey Zomi Disc, and how we can all better understand menstrual health. With the imminent launch of the Hey Zomi disc to the market, Mika is excited to share how you can be involved in the journey to 'embrace the flow’.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2022-11-10T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/289015677",
-      "going": 8,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
@@ -171,7 +138,7 @@
       "description": "Hello friends! Welcome back to another instalment of NCSG. This month, we've got James Diacono, organiser of NewcastleJS and Software Engineer at CrossCountry.\n\nTalk synopsis:\n*Most of our communication over the Web is secured by HTTPS. But how does HTTPS actually work? James explores the underlying cryptography of HTTPS, as well as its strengths and weaknesses. He briefly describes an experimental alternative to HTTPS, just to show that we have options.*\n\n*James Diacono is an application programmer with an amateur interest in cryptography.*\n\n**Event details:**\n\nDate: Thursday Nov 24th, 2022\nTime: 18:00-20:00\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\nFood: Provided, please inform us of dietary requirements when RSVPing\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising?** Express your interest [here](https://notionforms.io/forms/ncsg-speaker-eoi)!",
       "dateTime": "2022-11-24T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/289017404",
-      "going": 5,
+      "going": 9,
       "maxTickets": 43,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507706254/676x380.webp",
@@ -237,7 +204,7 @@
       "description": "We'll be taking a month off and joining the other meetups in the annual Newwwie Christmas Trivia Extravaganza! Take a look [here](https://www.meetup.com/newcastle-coders-group/events/288511184/).",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/289017682",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
