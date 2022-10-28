@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-27T13:53:27.202Z
+// Auto Generated on 2022-10-28T13:54:58.830Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back in November. We'll have Matt Wicks SSW Solution Architect, trainer, and Certified Scrum Master talking to us about the missing bits between Azure DevOps and GitHub\n\nWe'll be hosting this event at SSW and they'll helping us out by providing sandwiches from Chiefly East for dinner on the night.\nWe'd also like to than our other sponsor Saphi.\n\nSSW is located at 432 Hunter Street. Car parking is available in the Wright Lane carpark. The closest public transport is the Civic Tram Stop.\n\n**Azure DevOps to GitHub - the missing bits**\nGitHub is the best engineering platform for developers 🔥, but too many times developers will say \"I can't believe that I can't do this on GitHub, it's easy on Azure DevOps\". In this talk, Matt will give you the top 10 things you need to know to turn those frowns upside down and make development great again.\n\n**About Matt**\nMatt is an SSW Solution Architect, trainer, and Certified Scrum Master. He has been developing solutions using the full Microsoft stack since .NET 2 (the old one) was in beta.\nMatt loves DevOps, DevOps and DevOps. These days he prefers GitHub Actions and Azure DevOps Build Pipelines over other tools. Matt likes clean architecture, using the right tool for the job, seeing developers push changes to production with confidence, automated tests, running solutions on Azure, and now he never has to reminisce about Webforms.",
       "dateTime": "2022-11-02T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511141",
-      "going": 18,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507960971/676x380.webp",
@@ -171,7 +171,7 @@
       "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nHelp us with the Family Feud style questions by answering this two minute survey [https://forms.gle/nQ1ytc2giHDnT5hM8](https://forms.gle/nQ1ytc2giHDnT5hM8)\n\nWe'll be running trivia at the Happy Wombat this year there will be a bar tab and food provided thanks to our sponsors.\n\nSpeaking of sponsors if you'd like to get involved if you'd like to get involved we need more:\n\\* Sponsors\n\\* Help on the night.\n\\* Question ideas",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 13,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
