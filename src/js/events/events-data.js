@@ -1,4 +1,4 @@
-// Auto Generated on 2022-10-28T13:54:58.830Z
+// Auto Generated on 2022-10-29T13:35:58.591Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "**About the Topic:** This month, hear from fellow Novocastrian Luke Sassé, Product Manager at 2022 Business of the Year Hi-Vis group, as he takes us behind the scenes look at how the Hi-Vis LED group manage project execution business whilst continuing to push ahead with product innovation. Sprinkled with the tech that Hi-Vis use to produce IoT-connected signage.\n\n**About the speaker:** Luke Sassé is LED Product Manager at Hi-Vis group. In this role, he is responsible for the digital signage offerings covering concept engineering, project execution, production, strategy and team leadership. He has applied his engineering and business knowledge around the world in various capacities, but now firmly calls Newcastle home and is keen to help the region's success in IoT.\n\nIt is an event you won't want to miss!\n\n**PS**: As always, there will be plenty of time for questions and networking! We will also supply catering so get in quick!",
       "dateTime": "2022-11-03T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/288940147",
-      "going": 7,
+      "going": 9,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/507578895/676x380.webp",
