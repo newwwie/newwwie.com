@@ -1,4 +1,4 @@
-// Auto Generated on 2022-11-04T13:44:42.303Z
+// Auto Generated on 2022-11-05T13:32:49.211Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in November! This month we'll be hearing from Mika Koelma.\n\nMika Koelma is the co-founder of Hey Zomi, Australia’s first reusable menstrual disc. The Hey Zomi disc is the latest innovation in FemTech that makes periods easier, more affordable and better for the planet. In this session, Mika will share her journey from school art teacher to company founder. Mika will explore what FemTech is, how she designed the Hey Zomi Disc, and how we can all better understand menstrual health. With the imminent launch of the Hey Zomi disc to the market, Mika is excited to share how you can be involved in the journey to 'embrace the flow’.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2022-11-10T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/289015677",
-      "going": 17,
+      "going": 20,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
