@@ -1,4 +1,4 @@
-// Auto Generated on 2022-11-07T13:51:51.085Z
+// Auto Generated on 2022-11-08T13:49:06.706Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Women and Gender Diverse People in Tech meeting is on again in November! This month we'll be hearing from Mika Koelma.\n\nMika Koelma is the co-founder of Hey Zomi, Australia’s first reusable menstrual disc. The Hey Zomi disc is the latest innovation in FemTech that makes periods easier, more affordable and better for the planet. In this session, Mika will share her journey from school art teacher to company founder. Mika will explore what FemTech is, how she designed the Hey Zomi Disc, and how we can all better understand menstrual health. With the imminent launch of the Hey Zomi disc to the market, Mika is excited to share how you can be involved in the journey to 'embrace the flow’.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2022-11-10T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/289015677",
-      "going": 21,
+      "going": 22,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\n**Talk Description**:\nIn this talk, we’ll be exploring the packet-mix variety of ensemble learners. Just like a packet mix cake, there are some components we’ll need to put together, but most of the ingredients come out of the box. We’ll use it as a tip-toe into the wider world of ensemble learners.We’ll be baking a machine learning model exploring how we can predict health outcomes for patients with heart disease and how we can use pack ensemble learners to improve our ML results with less time and effort.\n\n**Speaker Description:**\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around data nerd. Sarah has a Graduate Certificates in Data Science and Analytics and is passionate about getting the community excited about what technology can do. Sarah is one of the founders of the Women and Gender Diverse People in Technology group and has a focus on supporting and uplifting women in the technology industry.\n\n##-------------------------------------------------------------------##\n\n**VENUE:**\n\nJoin us at the University of Newcastle's **Q Building** in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* We make sure there are vegetarian and vegan options but please contact us if you have any other dietary requirements\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close (and to the pub)",
       "dateTime": "2022-11-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702783",
-      "going": 30,
+      "going": 31,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
