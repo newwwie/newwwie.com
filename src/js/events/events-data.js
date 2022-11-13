@@ -1,4 +1,4 @@
-// Auto Generated on 2022-11-12T13:33:31.128Z
+// Auto Generated on 2022-11-13T13:34:08.833Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\n**Talk Description**:\nIn this talk, we’ll be exploring the packet-mix variety of ensemble learners. Just like a packet mix cake, there are some components we’ll need to put together, but most of the ingredients come out of the box. We’ll use it as a tip-toe into the wider world of ensemble learners.We’ll be baking a machine learning model exploring how we can predict health outcomes for patients with heart disease and how we can use pack ensemble learners to improve our ML results with less time and effort.\n\n**Speaker Description:**\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around data nerd. Sarah has a Graduate Certificates in Data Science and Analytics and is passionate about getting the community excited about what technology can do. Sarah is one of the founders of the Women and Gender Diverse People in Technology group and has a focus on supporting and uplifting women in the technology industry.\n\n##-------------------------------------------------------------------##\n\n**VENUE:**\n\nJoin us at the University of Newcastle's **Q Building** in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* We make sure there are vegetarian and vegan options but please contact us if you have any other dietary requirements\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close (and to the pub)",
       "dateTime": "2022-11-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702783",
-      "going": 36,
+      "going": 37,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
@@ -69,13 +69,13 @@
   {
     "event": {
       "title": "December Newwwie Tech Trivia ",
-      "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night.\n\nHelp us with the Family Feud style questions by answering this two minute survey [https://forms.gle/nQ1ytc2giHDnT5hM8](https://forms.gle/nQ1ytc2giHDnT5hM8)\n\nWe'll be running trivia at the Happy Wombat this year there will be a bar tab and food provided thanks to our sponsors.\n\nSpeaking of sponsors if you'd like to get involved if you'd like to get involved we need more:\n\\* Sponsors\n\\* Help on the night.\n\\* Question ideas",
+      "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night. (There is even going to be bonus points for the team made up of the most companies)\n\nHelp us with the Family Feud style questions by answering this two minute survey [https://forms.gle/nQ1ytc2giHDnT5hM8](https://forms.gle/nQ1ytc2giHDnT5hM8)\n\nWe'll be running trivia at the Happy Wombat this year there will be a bar tab and food provided thanks to our sponsors. No risk of a Null Slice affair this year.\n\nWe'd like to thank our sponsors without companies like them supporting the community none of this happens.\n\n* Newy Tech People\n* Galah Cyber\n* Arrowtail",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 36,
+      "going": 39,
       "maxTickets": 0,
       "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/508541987/676x380.webp",
       "venue": {
         "name": "The Happy Wombat",
         "lat": -32.92728,
