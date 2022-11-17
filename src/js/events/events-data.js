@@ -1,38 +1,5 @@
-// Auto Generated on 2022-11-16T13:41:56.003Z
+// Auto Generated on 2022-11-17T13:39:18.095Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.NOV <- Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles",
-      "description": "Sarah Frazer - Heart Smart in the ML Kitchen: Cooking with Ensembles\n\n**Talk Description**:\nIn this talk, we’ll be exploring the packet-mix variety of ensemble learners. Just like a packet mix cake, there are some components we’ll need to put together, but most of the ingredients come out of the box. We’ll use it as a tip-toe into the wider world of ensemble learners.We’ll be baking a machine learning model exploring how we can predict health outcomes for patients with heart disease and how we can use pack ensemble learners to improve our ML results with less time and effort.\n\n**Speaker Description:**\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around data nerd. Sarah has a Graduate Certificates in Data Science and Analytics and is passionate about getting the community excited about what technology can do. Sarah is one of the founders of the Women and Gender Diverse People in Technology group and has a focus on supporting and uplifting women in the technology industry.\n\n##-------------------------------------------------------------------##\n\n**VENUE:**\n\nJoin us at the University of Newcastle's **Q Building** in Honeysuckle!\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\nTIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* We make sure there are vegetarian and vegan options but please contact us if you have any other dietary requirements\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n(Don't stress if you are held up in traffic)\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close (and to the pub)",
-      "dateTime": "2022-11-17T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/283702783",
-      "going": 44,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/501789003/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Andrew Goodwin - Interactive Data Visualisations using p5.js",
