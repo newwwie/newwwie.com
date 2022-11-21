@@ -1,4 +1,4 @@
-// Auto Generated on 2022-11-20T13:30:48.039Z
+// Auto Generated on 2022-11-21T13:45:02.289Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month, we have **Andrew Goodwin** showing us how he used the p5.js library to make interactive, client-side visualisations of medical data.\n\nAndrew Goodwin is an experienced data engineer with a track record of developing innovative and novel spatial and temporal analysis systems, including the software that formed the foundation for local spatial analytics company Anditi.\n\nAndrew was based in Toronto, Canada from 2011 to 2016. During this time he was engaged to build a bespoke data collection and storage system for the Intensive Care Unit (ICU) at a large Children's Hospital. This system has since been used to collect over 1.5 million patient-hours of high frequency physiological signals from over 9000 critically ill children. These datasets are used by numerous researchers from around the world to develop novel machine learning approaches for use in intensive care medicine. The timeseries database technology Andrew developed is now being trialed at several other hospitals in Canada, and more recently at the Children's Hospital at Westmead in NSW.\n\nAndrew is currently nearing completion of a PhD through the University of Sydney where his research focuses on modelling data flow through clinical systems. His research publications are often accompanied by interactive data visualisations that have been developed using P5.js. In this talk Andrew will give a \"behind the scenes\" tour of some of these applications, and will discuss the design tradeoffs he had to consider while building them.\n\nDate: Tuesday 22nd of November\nLocation: Mudbath\nUnit 8 (Upstairs) 710 Hunter Street. Entry via the left side of the building.\nLivestream: https://livestream.mudbath.com.au/\n\nDoors open at 6pm for socialising and pizza. The talk kicks off at 7pm.\n\nOff-street parking is available directly behind the offices, entry is via the ibis hotel driveway.\n\n*Thanks to the Newy Tech People for sponsoring pizza.*",
       "dateTime": "2022-11-22T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastlejs-javascript-meetup/events/289762533",
-      "going": 10,
+      "going": 12,
       "maxTickets": 50,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/508612287/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night. (There is even going to be bonus points for the team made up of the most companies)\n\nHelp us with the Family Feud style questions by answering this two minute survey [https://forms.gle/nQ1ytc2giHDnT5hM8](https://forms.gle/nQ1ytc2giHDnT5hM8)\n\nWe'll be running trivia at the Happy Wombat this year there will be a bar tab and food provided thanks to our sponsors. No risk of a Null Slice affair this year.\n\nWe'd like to thank our sponsors without companies like them supporting the community none of this happens.\n\n* Newy Tech People\n* Galah Cyber\n* Arrowtail",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 41,
+      "going": 42,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/508541987/676x380.webp",
