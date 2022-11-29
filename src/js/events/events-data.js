@@ -1,4 +1,4 @@
-// Auto Generated on 2022-11-28T22:37:45.607Z
+// Auto Generated on 2022-11-29T13:31:59.767Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "It's that time again. We'll be running Newwwie tech trivia in December. We'll be bringing together all the meetups to have a fun night to finish out the year.\nGet your team together... or don't. Every year the most successful teams seemed to have met up on the night. (There is even going to be bonus points for the team made up of the most companies)\n\nHelp us with the Family Feud style questions by answering this two minute survey [https://forms.gle/nQ1ytc2giHDnT5hM8](https://forms.gle/nQ1ytc2giHDnT5hM8)\n\nWe'll be running trivia at the Happy Wombat this year there will be a bar tab and food provided thanks to our sponsors. No risk of a Null Slice affair this year.\n\nWe'd like to thank our sponsors without companies like them supporting the community none of this happens.\n\n* Newy Tech People\n* Galah Cyber\n* Arrowtail",
       "dateTime": "2022-12-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/288511184",
-      "going": 48,
+      "going": 50,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/508541987/676x380.webp",
