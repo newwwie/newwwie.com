@@ -1,5 +1,32 @@
-// Auto Generated on 2023-01-06T13:25:07.933Z
+// Auto Generated on 2023-01-07T13:21:41.996Z
  module.exports = [
+  {
+    "event": {
+      "title": "Looking for speakers",
+      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "dateTime": "2023-02-01T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up | Speaker TBA",
@@ -28,6 +55,60 @@
       },
       "logo": {
         "id": "504544595",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Looking for speakers",
+      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "dateTime": "2023-03-01T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Looking for speakers",
+      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "dateTime": "2023-04-05T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "Newcastle-Coders-Group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
