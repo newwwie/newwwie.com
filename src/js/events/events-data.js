@@ -1,4 +1,4 @@
-// Auto Generated on 2023-01-08T13:22:10.630Z
+// Auto Generated on 2023-01-09T13:27:11.865Z
  module.exports = [
   {
     "event": {
@@ -62,15 +62,21 @@
   },
   {
     "event": {
-      "title": "Looking for speakers",
-      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "title": "Calum Simpson - ChatGPT: Practical applications for AI ",
+      "description": "In March we'll have Calumn Simpson from SSW speaking about practical applications of AI and Chat GPT",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
       "going": 1,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lng": 151.77159,
+        "address": "432 Hunter St",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
