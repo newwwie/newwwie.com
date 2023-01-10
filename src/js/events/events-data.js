@@ -1,9 +1,9 @@
-// Auto Generated on 2023-01-09T13:27:11.865Z
+// Auto Generated on 2023-01-10T13:27:24.853Z
  module.exports = [
   {
     "event": {
-      "title": "Looking for speakers",
-      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "title": "Tom Howard - Fire Teams",
+      "description": "We're back for 2023!\nTo start out the year we'll have Tom Howard from Digizoo speaking about working in fire teams.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
       "dateTime": "2023-02-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
       "going": 1,
