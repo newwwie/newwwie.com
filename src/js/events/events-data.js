@@ -1,4 +1,4 @@
-// Auto Generated on 2023-01-11T13:29:45.714Z
+// Auto Generated on 2023-01-12T13:34:16.569Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back for 2023!\nTo start out the year we'll have Tom Howard from Digizoo speaking about working in fire teams.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
       "dateTime": "2023-02-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -66,7 +66,7 @@
       "description": "In March we'll have Calumn Simpson from SSW speaking about practical applications of AI and Chat GPT",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -95,7 +95,7 @@
   },
   {
     "event": {
-      "title": "Looking for speakers",
+      "title": " Silvanus Matiku",
       "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
       "dateTime": "2023-04-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
