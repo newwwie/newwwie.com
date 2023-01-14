@@ -1,4 +1,4 @@
-// Auto Generated on 2023-01-13T13:26:07.355Z
+// Auto Generated on 2023-01-14T13:21:47.810Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back for 2023!\nTo start out the year we'll have Tom Howard from Digizoo speaking about working in fire teams.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
       "dateTime": "2023-02-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
