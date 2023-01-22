@@ -1,6 +1,7 @@
 'use strict';
 
 import {Meetup} from './events/Meetup';
-
-// Initialise our event listing
+import {Communities} from './communities/Communities'
+// Initialise our event listings
 new Meetup();
+new Communities();
