@@ -1,4 +1,4 @@
-// Auto Generated on 2023-01-22T13:22:20.514Z
+// Auto Generated on 2023-01-23T13:26:25.202Z
  module.exports = [
   {
     "event": {
@@ -35,11 +35,11 @@
   },
   {
     "event": {
-      "title": "WGDPTech Monthly Meet-up | Speaker TBA",
-      "description": "The Women and Gender Diverse People in Tech meeting starts back for 2023 in February! We're super excited about all the amazing speakers this year. February's speaker will be announced closer to the event.\n\nEveryone is welcome for this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
+      "title": "WGDPTech Monthly Meet-up |  Justine Ulph",
+      "description": "The Women and Gender Diverse People in Tech meeting starts back for 2023 in February! We're super excited about all the amazing speakers this year. February's speaker is Justine Ulph!\n\nJustine Ulph is the Clean Energy Manager at Port of Newcastle. Justine is passionate about work that is grounded in regional development. Justine has worked across health and medicine, energy, resources, and agriculture sectors. Their role at the Port of Newcastle as Clean Energy Manager is dynamic and fast-paced, supporting an ambitious agenda to diversify the Port of Newcastle. Prior to joining PON Justine worked in early-stage development of HMRI and NIER at the University of Newcastle. In 1998, they established a fundraising arm of HMRI to support early career researchers.\n\nOutside of work, Justine is adventurous - they have crossed the Bass Strait twice sailing in the Sydney to Hobart Yacht Race. Typically, when not at home, Justine can be found either in the car (driving kids around), enjoying time with friends, at the Bay, exercising with the beloved Pineapple Fitness, or walking the dog.\n\nEveryone is welcome to this event, no matter your gender - so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-02-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/290701125",
-      "going": 18,
+      "going": 20,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "The Women and Gender Diverse People in Tech is back and better than ever! After an amazing start to the year, we're super excited about March's speaker, announcement to come.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-03-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/291057775",
-      "going": 9,
+      "going": 11,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
