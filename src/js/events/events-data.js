@@ -1,4 +1,4 @@
-// Auto Generated on 2023-01-24T13:24:29.643Z
+// Auto Generated on 2023-01-25T13:24:51.003Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back for 2023!\nTo start out the year we'll have Tom Howard from Digizoo speaking about working in fire teams.\n\nWe'll be at the MudBath office in Newcastle. There will be pizza provided for dinner and a range of beer, wine and soft drinks provided.\n\nThe run sheet for the night is:\n5:45 pm Doors open\n6:20 pm Tech news (open floor)\n6:30 pm Tom Howard - Fireteams of Awesome!\n7:30 pm Dinner, drinks, and discussions\n\n**Talk Abstract:**\nThe structure of traditional IT teams is heavily influenced by Fred Taylor's \"Scientific Management\" from over 100 years ago. While this approach revolutionised manufacturing, it is fundamentally unsuited to creative work like software delivery. *Fireteams of awesomeness* examines the issues encountered with traditional IT structures, why this issues occur and how these issues are solved using a collaborative Fireteam approach. Finally *Fireteams of awesomeness* looks at over 3 years of empirical data to compare Fireteams with traditional IT teams, showing a 400% increase in throughput, with higher team moral, higher stakeholder satisfaction and higher quality. Sweet!\n\n**Speaker Bio:**\nTom is a software delivery coach at Digizoo. He started out as a C++ developer over 20 years ago. Since then his focus has moved primarily from solving technical delivery problems, to solving people and organisational delivery problems, by understanding and leveraging our individual and team biases and heuristics.",
       "dateTime": "2023-02-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
-      "going": 19,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/509979604/676x380.webp",
