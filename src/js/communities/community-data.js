@@ -3,12 +3,9 @@ export const CommunityData = [{
     location: "ICT Building, University of Newcastle",
     period: {
         interval: "Monthly",
-        //maybe use a single digit here and convert it later (i.e. "2" becomes "2nd")
         day: "2nd",
         weekDay: "Wed"
     },
-    //some of these groups only have a handful of links
-    //need to dynamically render each column depending on whether a given link exists
     links: {
         twitter: "https://twitter.com/ncgau",
         facebook: "https://www.facebook.com/groups/ncgau/",
