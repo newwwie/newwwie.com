@@ -90,5 +90,3 @@ export const CommunityData = [{
     demographic: "Javascript enthusiasts. Amateur to Professional, AngularJS to NodeJS and everything else JS.",
     format: "Some beverages and short form presentations as well as industry news and jobs board. Post meetup drinks and food at The Edwards afterwards."
 }]
-
-
