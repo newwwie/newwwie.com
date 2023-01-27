@@ -7,7 +7,4 @@ export const Communities = ()=>{
     CommunityData.map((val)=>{
         return <CommunityCard data={val}/>
     }))
-
-
 }
-render(<Communities/>, document.getElementById("groups"))
