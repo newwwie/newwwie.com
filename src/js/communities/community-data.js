@@ -1,4 +1,4 @@
-export const Communities = [{
+export const CommunityData = [{
     name: 'Newcastle Coders Group',
     location: "ICT Building, University of Newcastle",
     period: {
