@@ -14,7 +14,6 @@ export const CommunityData = [{
     },
     demographic: "Anyone with an interest in learning about the latest technology as well as new approaches and techniques to designing and developing software.",
     format: "Group discussion of recent tech News. Organised presentations from local and/or visiting speakers. Socialising over pizza."
-
 },
 {
     name: "Newcastle Women and Gender Diverse People in Tech",
