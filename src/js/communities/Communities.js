@@ -1,6 +1,6 @@
 import {h, render} from 'preact';
 import { CommunityCard } from './CommunityCard';
-import { CommunityData } from './Community-data';
+import { CommunityData } from './community-data';
 
 export const Communities = ()=>{
     return(
