@@ -14,7 +14,9 @@ export const  CommunityCard = (props)=>{
     <dt>Links:</dt>
     <dd>
       <ul>
-         
+        {   // Some of these groups only have a handful of links
+            // Need to dynamically render each column depending on whether a given link exist
+        }
         {linkedIn ? <li><a href={linkedIn} rel="external">LinkedIn</a></li> : ""}
         {facebook ? <li><a href={facebook} rel="external">Facebook</a></li> : ""}
         {meetUp ? <li><a href={meetUp} rel="external">MeetUp</a></li> : ""}
