@@ -1,38 +1,5 @@
-// Auto Generated on 2023-02-01T09:49:21.488Z
+// Auto Generated on 2023-02-01T13:26:41.114Z
  module.exports = [
-  {
-    "event": {
-      "title": "Tom Howard - Fire Teams of Awesome ",
-      "description": "We're back for 2023!\nTo start out the year we'll have Tom Howard from Digizoo speaking about working in fire teams.\n\nWe'll be at the MudBath office in Newcastle. There will be pizza provided for dinner and a range of beer, wine and soft drinks provided.\n\nThe run sheet for the night is:\n5:45 pm Doors open\n6:20 pm Tech news (open floor)\n6:30 pm Tom Howard - Fireteams of Awesome!\n7:30 pm Dinner, drinks, and discussions\n\n**Talk Abstract:**\nThe structure of traditional IT teams is heavily influenced by Fred Taylor's \"Scientific Management\" from over 100 years ago. While this approach revolutionised manufacturing, it is fundamentally unsuited to creative work like software delivery. *Fireteams of awesomeness* examines the issues encountered with traditional IT structures, why this issues occur and how these issues are solved using a collaborative Fireteam approach. Finally *Fireteams of awesomeness* looks at over 3 years of empirical data to compare Fireteams with traditional IT teams, showing a 400% increase in throughput, with higher team moral, higher stakeholder satisfaction and higher quality. Sweet!\n\n**Speaker Bio:**\nTom is a software delivery coach at Digizoo. He started out as a C++ developer over 20 years ago. Since then his focus has moved primarily from solving technical delivery problems, to solving people and organisational delivery problems, by understanding and leveraging our individual and team biases and heuristics.",
-      "dateTime": "2023-02-01T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782112",
-      "going": 38,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/509979604/676x380.webp",
-      "venue": {
-        "name": "Mudbath Digital ",
-        "lat": -32.92607,
-        "lng": 151.7626,
-        "address": "8/710 Hunter st",
-        "city": "Newcastle "
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "Newcastle-Coders-Group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up |  Justine Ulph",
@@ -105,7 +72,7 @@
       "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
       "dateTime": "2023-02-23T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 4,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
