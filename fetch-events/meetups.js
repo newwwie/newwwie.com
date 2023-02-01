@@ -23,4 +23,5 @@ module.exports = [
   "Newcastle-Cyber-Security-Group",
   "qa-newcastle",
   "newcastle-women-and-gender-diverse-people-in-tech",
+  "newcastle-salesforce-community-group",
 ];
