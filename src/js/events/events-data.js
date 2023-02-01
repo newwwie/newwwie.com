@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-01T09:48:01.729Z
+// Auto Generated on 2023-02-01T09:49:21.488Z
  module.exports = [
   {
     "event": {
@@ -94,6 +94,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Newcastle Salesforce Community Group - February Meetup!",
+      "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
+      "dateTime": "2023-02-23T17:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
+      "going": 4,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.92165,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Newcastle Salesforce Community Group",
+      "urlname": "newcastle-salesforce-community-group",
+      "groupPhoto": {
+        "id": "510302711",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "510302711",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
