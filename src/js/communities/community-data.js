@@ -88,4 +88,20 @@ export const CommunityData = [{
     },
     demographic: "Javascript enthusiasts. Amateur to Professional, AngularJS to NodeJS and everything else JS.",
     format: "Some beverages and short form presentations as well as industry news and jobs board. Post meetup drinks and food at The Edwards afterwards."
+},
+{
+    name: "Newcastle Salesforce Community Group",
+    location: "NewyTechPeople, 24 Lindus Street, Wickham",
+    period: {
+        interval: "Monthly",
+        day: "4th",
+        weekDay: "Thurs"
+    },
+    links: {
+        meetUp: "https://www.meetup.com/newcastle-salesforce-community-group/",
+        linkedIn: "https://www.linkedin.com/groups/14186054/"
+    },
+    demographic: "Salesforce users, technologists, strategists, designers, business process owners, analysts, novices, experts and everything inbetween.",
+    format: "Drinks, beers, wine, pizza and a speaker/presentation slot. The group will grow and evolve to meet the needs and interests of our members."
+  
 }]
