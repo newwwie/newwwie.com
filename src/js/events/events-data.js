@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-10T13:27:17.923Z
+// Auto Generated on 2023-02-11T13:22:58.759Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
       "dateTime": "2023-02-23T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 15,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "In March we'll have Calum Simpson from SSW speaking about the practical applications of GPT3.\n\n**Sponsors:**\nSSW\nSaphi Engineering\n\n**Agenda:**\n5:45 - Doors Open\n6:15 - News\n6:30 - Calum Simpson\n7:30 - Dinner + Drinks\n\n**About Calum**:\nCalum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React.\nHe has over 8 years of experience working on web projects of various sizes ranging from a 2-person start up to one of the largest companies in Australia.\nAside from developing web projects, he is also interested in electrical engineering and financial quantitative analysis.",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 8,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510464371/676x380.webp",
