@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-12T13:23:22.796Z
+// Auto Generated on 2023-02-13T13:27:58.759Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're starting 2023 with a bang: **Two short talks** 💥\n\n**Riley Clement: Staircase** is a python package for data analysis built upon pandas and numpy. It exists as part of the [pandas ecosystem](https://pandas.pydata.org/docs/ecosystem.html#staircase) to enable modelling, manipulation and analysis with mathematical step functions. It has found plenty of applications at Hunter Valley Coal Chain Coordinator where Riley was working when it was created. In this talk Riley will touch on some of these applications (while keeping it light on python), and try and convince you that sometimes it's useful to \"think in stepfunctions\".\n\n**Ant Desmet: How long is my piece of string?** In this talk, we will try to measure an actual piece of string (*really* !). However you'll soon discover it's all just an elaborate deception to talk about statistics... but in a fun way 🤓. We'll see the intuition behind confidence intervals, statistical significance, etc. Expect some props 🪄 and even a bit of audience participation 🙄😒\n\n**The Speakers**\n**Riley** is currently employed as an Optimization Engineer at Gurobi Optimization, and loves playing in prescriptive and predictive analytics. He has authored [staircase](https://www.staircase.dev), and its cousin [piso ](https://piso.readthedocs.io)(pandas interval set operations), and enjoys bringing modern software practices to the world of data analytics.\n\n**Ant** trained as an engineer, and lived in fear of Math throughout his degree😱. However, he had to confront his nemesis 👾🤺in order to graduate from his PhD 🎓. During the ensuing clash, he finally discovered that Math *is* fun, after all 🤓!\nHe then became a fairly decent data scientist 👨‍🔬 predicting when big, costly machines would fail. He currently works at Honeysuckle Health and does a fair bit of stats 🥰 to scientifically prove that health support programs work 🩺. While doing all of that, he turned to the dark side and became a manager 😕\n\nVENUE:\nNEW LOCATION!\nThe university's brand new Q building in Honeysuckle!\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nIMPORTANT this is NOT the NewSpace building where we met last year.\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n##-------------------------------------------------------------------##\nTIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-02-16T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/289736807",
-      "going": 36,
+      "going": 37,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/509798571/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
       "dateTime": "2023-02-23T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 16,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "In March we'll have Calum Simpson from SSW speaking about the practical applications of GPT3.\n\n**Sponsors:**\nSSW\nSaphi Engineering\n\n**Agenda:**\n5:45 - Doors Open\n6:15 - News\n6:30 - Calum Simpson\n7:30 - Dinner + Drinks\n\n**About Calum**:\nCalum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React.\nHe has over 8 years of experience working on web projects of various sizes ranging from a 2-person start up to one of the largest companies in Australia.\nAside from developing web projects, he is also interested in electrical engineering and financial quantitative analysis.",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 9,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510464371/676x380.webp",
