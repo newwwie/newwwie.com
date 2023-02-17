@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-16T13:33:24.870Z
+// Auto Generated on 2023-02-17T13:26:46.858Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
       "dateTime": "2023-02-23T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 24,
+      "going": 29,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "In March we'll have Calum Simpson from SSW speaking about the practical applications of GPT3.\n\n**Sponsors:**\nSSW\nSaphi Engineering\n\n**Agenda:**\n5:45 - Doors Open\n6:15 - News\n6:30 - Calum Simpson\n7:30 - Dinner + Drinks\n\n**About Calum**:\nCalum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React.\nHe has over 8 years of experience working on web projects of various sizes ranging from a 2-person start up to one of the largest companies in Australia.\nAside from developing web projects, he is also interested in electrical engineering and financial quantitative analysis.",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 12,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510464371/676x380.webp",
@@ -61,6 +61,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG 2023 | Alejandro Grajales Ochoa",
+      "description": "Hello friends! Welcome back to NCSG for 2023. This month, we've got Alejandro Grajales Ochoa, the InfoSec Lead for Honeysuckle Health.\n\nTalk synopsis to come - but trust us, it'll be good.\n\n**Event details:**\n\nDate: **WEDNESDAY** March 1st, 2023 - **We're doing Wednesdays now!** Normal cadence will be the last Wednesday of each month, but this month's a bit special.\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\n\nFood: Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We hang out to chaperone you until then, so if you're late you might get locked out for a bit.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising?** Express your interest [here](https://notionforms.io/forms/ncsg-speaker-eoi)!",
+      "dateTime": "2023-03-01T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/291670307",
+      "going": 13,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510682688/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -105,7 +138,7 @@
       "description": "The Women and Gender Diverse People in Tech is back and better than ever! After an amazing start to the year, we're super excited about March's speaker, announcement to come.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-03-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/291057775",
-      "going": 15,
+      "going": 16,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505839106/676x380.webp",
