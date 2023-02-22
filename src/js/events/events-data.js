@@ -1,4 +1,4 @@
-// Auto Generated on 2023-02-21T13:27:30.396Z
+// Auto Generated on 2023-02-22T13:28:23.639Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
       "dateTime": "2023-02-23T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 27,
+      "going": 29,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "In March we'll have Calum Simpson from SSW speaking about the practical applications of GPT3. He'll go through some examples of integrating with the GPT API that has worked for him and others that haven't.\n\n**Sponsors:**\nSSW\nSaphi Engineering\n\n**Agenda:**\n5:45 - Doors Open\n6:15 - Tech News from the last month\n6:30 - Calum Simpson\n7:30 - Dinner + Drinks\n\n**Unlocking the Potential of GPT-3 - Practical Applications for AI-Powered Solutions:**\nBrace yourself for a mind-blowing experience as Calum, the AI aficionado, takes the stage to unveil the awe-inspiring potential of GPT-3. Discover the cutting-edge capabilities of this AI powerhouse, and learn how you can leverage it to revolutionize your work and personal life. With Calum's expertise, you'll be equipped with practical ideas to boost your productivity and efficiency from day one.\nBut that's not all - Calum is so confident in the value of his insights that he's daring to offer a refund for your ticket if you don't walk away with at least one game-changing idea. Witness first-hand some of the most impressive GPT-3-powered solutions through Calum's practical demos (including a few \"epic fails\" that will keep you on the edge of your seat). Get inspired to apply these innovations to your own projects, and become a pioneer in the AI-driven world of tomorrow.\nDon't miss out on this rare opportunity to gain a glimpse into the future. Join Calum for an unforgettable presentation that your descendants will still be talking about for generations to come.\n\n**About Calum**:\nCalum is an enterprise software consultant specialising in Microsoft technologies - Azure, SharePoint, Dynamics 365/Power Platform, C# .NET, plus experience in Angular and React.\nHe has over 8 years of experience working on web projects of various sizes ranging from a 2-person start up to one of the largest companies in Australia.\nAside from developing web projects, he is also interested in electrical engineering and financial quantitative analysis.",
       "dateTime": "2023-03-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782115",
-      "going": 30,
+      "going": 29,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510464371/676x380.webp",
