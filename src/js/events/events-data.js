@@ -1,38 +1,5 @@
-// Auto Generated on 2023-02-22T13:28:23.639Z
+// Auto Generated on 2023-02-23T13:34:09.508Z
  module.exports = [
-  {
-    "event": {
-      "title": "Newcastle Salesforce Community Group - February Meetup!",
-      "description": "Hello and welcome to Newcastle first Salesforce Community Group event!\n\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us for our first event at NewyTechPeople's event space in Wickham.\n\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\nOur agenda for this initial event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Introduction to the group\n* 6:45PM: Networking\n* 7:30PM: Wrap-up",
-      "dateTime": "2023-02-23T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/291327912",
-      "going": 29,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510301127/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.92165,
-        "lng": 151.75789,
-        "address": "24 Lindus St",
-        "city": "Wickham"
-      }
-    },
-    "group": {
-      "name": "Newcastle Salesforce Community Group",
-      "urlname": "newcastle-salesforce-community-group",
-      "groupPhoto": {
-        "id": "510302711",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "510302711",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Calum Simpson - Practical applications for GPT3",
@@ -72,7 +39,7 @@
       "description": "**About the Topic:** Andrew will speak about two current projects that he is helping to lead, both of which are funded through the NSW government's *Smart Places Acceleration Fund:*\n\nA) SIMPaCT is a smart irrigation pilot project being delivered at Sydney Olympic Park, by a large consortium that includes Sydney Olympic Park Authority, Sydney Water, NSW DPE, University of Technology Sydney, Western Sydney University, and a number of technology partners. The project is retrofitting the existing irrigation system at Olympic Park with a real-time predictive model for soil moisture, using a combination of low-cost sensing, geospatial modelling and machine learning, connected to an operational command module that automatically schedules irrigation events. The aim is to optimise water use, keep plants alive and healthy, and maximise the cooling effect of plants in order to reduce urban heat.\n\nB) OPENAIR (Operational Network of Air Quality Impact Resources) is a major collaborative research project (2022-2023) that brings together the NSW government (Climate and Atmospheric Science), The NSW Smart Sensing Network, researchers from five Australian universities, and nine NSW Councils to explore new applications for low-cost air quality sensors by local government. Improvements in and commercial maturation of low-cost sensor technology, combined with increasing investment in smart cities, has positioned air quality sensing as an accessible and affordable activity that is of great interest to local governments. OPENAIR has established a cross-sectoral community of practice for low-cost air quality sensing and has developed best practice methodologies, and is publishing as an extensive suite of resources, designed to directly support local governments through all aspects of project delivery. The aims are to improve the quality of data collection using low-cost sensors, help local governments to understand and make use of low-cost sensors more effectively, and build a foundation for the widespread sharing of air quality data at the local scale.\n\n**About the speaker:** Andrew Tovey is a Senior Research Consultant at the Institute for Sustainable Futures (ISF), University of Technology Sydney. Andrew leads the ISF's Smart City research cluster and has had a lead role in developing and delivering large multi-stakeholder smart city projects since 2017. He has a BSc in Geography, an MSc in Human Ecology, and is a PhD candidate studying approaches to the effective design and execution of smart city pilot projects by local government.\n\nPast projects that Andrew has taken a lead role in include: the Smart Liveable Neighbourhoods project, which piloted a community LoRaWAN network and low-cost environmental sensing in Lake Macquarie; the Climate Responsive Neighbourhoods project at Melrose Park in the City of Parramatta, which used low-cost environmental sensors to explore the impact of brownfield construction activities on nearby residents; and establishment of the Breathable Sydney air quality monitoring network for the City of Sydney.\n\nIt is an event you won't want to miss!\n\n**PS**: As always, there will be plenty of time for questions and networking! We will also supply catering so get in quick!",
       "dateTime": "2023-03-02T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/291623385",
-      "going": 18,
+      "going": 19,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510642431/676x380.webp",
@@ -134,8 +101,8 @@
   },
   {
     "event": {
-      "title": "WGDPTech Monthly Meet-up | Speaker TBA",
-      "description": "The Women and Gender Diverse People in Tech is back and better than ever! After an amazing start to the year, we're super excited about March's speaker, announcement to come.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
+      "title": "WGDPTech Monthly Meet-up | Elena Scifleet",
+      "description": "The Women and Gender Diverse People in Tech is back and better than ever! After an amazing start to the year, we're super excited about March's speaker, Elena Scifleet.\n\nElena Scifleet is an experienced Cyber Security Professional with over 20 years of experience in the Information Technology field. She has a broad background working in the commercial, government and not for profit sectors. Currently employed as a Principal Consultant in the Cyber Capability, Education and Training practice of CyberCX and a key contributor to the curriculum of CyberCX Academy. Over her rich career in education and IT, she contributed to shaping many new IT professionals by teaching at The University of Auckland and TAFE NSW. She is a strong believer in lifetime learning and is in the final year of Masters program in Cyber Security at Charles Sturt University.\n\nElena is be presenting on unconventional ways into the field of cyber security.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-03-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/291057775",
       "going": 17,
