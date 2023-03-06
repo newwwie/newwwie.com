@@ -103,5 +103,20 @@ export const CommunityData = [{
     },
     demographic: "Salesforce users, technologists, strategists, designers, business process owners, analysts, novices, experts and everything inbetween.",
     format: "Drinks, beers, wine, pizza and a speaker/presentation slot. The group will grow and evolve to meet the needs and interests of our members."
-  
+
+},
+{
+  name: "Blockchain Newcastle",
+  location: "Check meetup event details",
+  period: {
+      interval: "Monthly",
+      day: "",
+      weekDay: ""
+  },
+  links: {
+      meetUp: "https://www.meetup.com/blockchain-newcastle/",
+  },
+  demographic: "People interested in future technology cycles, whether they be technologists, entrepreneurs, consultants, advisors or simply curious.",
+  format: "Discussion over drinks, beers, wine, and food at local venues."
+
 }]
