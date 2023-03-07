@@ -68,6 +68,39 @@
   },
   {
     "event": {
+      "title": "Inaugural Blockchain Newcastle presented by Aus DeFi Newcastle ",
+      "description": "The exact topic of discussion will drop next week.\n\nConsider this a warm-up event for the folks headed to /NEW Conference the following week.\n\nMethod Brewing will have an incredible beer selection available. And we've locked down local pasta legend, [Al's Pasta](https://www.instagram.com/alspasta/), to visit on the evening offering a range of fresh homemade pasta ($15) and garlic bread ($8) available for purchase directly from Al.\n\nWe hope to see you there.",
+      "dateTime": "2023-03-16T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/blockchain-newcastle/events/291784372",
+      "going": 7,
+      "maxTickets": 30,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510825319/676x380.webp",
+      "venue": {
+        "name": "Method Brewing",
+        "lat": -32.919422,
+        "lng": 151.75099,
+        "address": "18 Maitland Rd",
+        "city": "Islington"
+      }
+    },
+    "group": {
+      "name": "Blockchain Newcastle",
+      "urlname": "blockchain-newcastle",
+      "groupPhoto": {
+        "id": "510825095",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "510825095",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": " Silvanus Matiku",
       "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
       "dateTime": "2023-04-05T18:00+10:00",
