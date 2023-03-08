@@ -1,45 +1,12 @@
-// Auto Generated on 2023-03-07T13:29:55.320Z
+// Auto Generated on 2023-03-08T13:28:49.230Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG 2023 | Alejandro Grajales Ochoa",
-      "description": "Hello friends! Welcome back to NCSG for 2023. This month, we've got Alejandro Grajales Ochoa, the InfoSec Lead for Honeysuckle Health.\n\nTalk synopsis to come - but trust us, it'll be good.\n\n**Event details:**\n\nDate: **WEDNESDAY** March 8th, 2023 - **We're doing Wednesdays now!** Normal cadence will be the last Wednesday of each month, but this month's a bit special.\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor 'seminar space'\n\nFood: Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We hang out to chaperone you until then, so if you're late you might get locked out for a bit.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising?** Express your interest [here](https://notionforms.io/forms/ncsg-speaker-eoi)!",
-      "dateTime": "2023-03-08T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/291670307",
-      "going": 25,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510682688/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up | Elena Scifleet",
       "description": "The Women and Gender Diverse People in Tech is back and better than ever! After an amazing start to the year, we're super excited about March's speaker, Elena Scifleet.\n\nElena Scifleet is an experienced Cyber Security Professional with over 20 years of experience in the Information Technology field. She has a broad background working in the commercial, government and not for profit sectors. Currently employed as a Principal Consultant in the Cyber Capability, Education and Training practice of CyberCX and a key contributor to the curriculum of CyberCX Academy. Over her rich career in education and IT, she contributed to shaping many new IT professionals by teaching at The University of Auckland and TAFE NSW. She is a strong believer in lifetime learning and is in the final year of Masters program in Cyber Security at Charles Sturt University.\n\nElena is be presenting on unconventional ways into the field of cyber security.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-03-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/291057775",
-      "going": 31,
+      "going": 33,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510996334/676x380.webp",
@@ -94,6 +61,39 @@
       },
       "logo": {
         "id": "510825095",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Newcastle Salesforce Community Group - March Meetup!",
+      "description": "Our topic for this month is **Salesforce** **DevOps**!\nWhether you're a developer, an administrator or a complete technophobe, DevOps plays a key role in getting enhancements out to users when it comes to Salesforce.\n\nWe're excited to welcome David Cathcart from nib Group to come and talk with us. David is hugely passionate about DevOps and has had some great success in overcoming their challenges at nib.\n\nWe'll talk through what DevOps actually is, in simple terms, and why it's important to your teams success.\n\nThen we'll get into the good stuff as David showcases some of the Salesforce DevOps challenges he and his team have encountered over the years, and how they've overcome them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Showcase - Conquering DevOps at Nib with David Cathcart\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n*Not sure what DevOps is all about? [Hit up this trailblazer to arm you with some of the lingo](https://trailhead.salesforce.com/content/learn/modules/salesforce-devops-with-copado) (it's not as scary as it sounds, I promise!)*\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
+      "dateTime": "2023-03-30T17:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292058423",
+      "going": 4,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.92165,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Newcastle Salesforce Community Group",
+      "urlname": "newcastle-salesforce-community-group",
+      "groupPhoto": {
+        "id": "511140553",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "511140553",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
