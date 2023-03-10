@@ -1,4 +1,4 @@
-// Auto Generated on 2023-03-09T13:34:57.973Z
+// Auto Generated on 2023-03-10T13:29:29.759Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Our topic for this month is **Salesforce** **DevOps**!\nWhether you're a developer, an administrator or a complete technophobe, DevOps plays a key role in getting enhancements out to users when it comes to Salesforce.\n\nWe're excited to welcome David Cathcart from nib Group to come and talk with us. David is hugely passionate about DevOps and has had some great success in overcoming their challenges at nib.\n\nWe'll talk through what DevOps actually is, in simple terms, and why it's important to your teams success.\n\nThen we'll get into the good stuff as David showcases some of the Salesforce DevOps challenges he and his team have encountered over the years, and how they've overcome them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Showcase - Conquering DevOps at Nib with David Cathcart\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n*Not sure what DevOps is all about? [Hit up this trailblazer to arm you with some of the lingo](https://trailhead.salesforce.com/content/learn/modules/salesforce-devops-with-copado) (it's not as scary as it sounds, I promise!)*\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-03-30T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292058423",
-      "going": 6,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
