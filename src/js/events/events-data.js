@@ -1,4 +1,4 @@
-// Auto Generated on 2023-03-14T13:37:16.536Z
+// Auto Generated on 2023-03-15T13:26:40.132Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Consider this a warm-up event for the folks headed to /NEW Conference the following week.\n\nMethod Brewing will have an incredible beer selection available. And we've locked down local pasta legend, [Al's Pasta](https://www.instagram.com/alspasta/), to visit on the evening offering a range of fresh homemade pasta ($15) and garlic bread ($8) available for purchase directly from Al.\n\n**Agenda**\n\nAustralian CBDC (Central Bank Digital Currency) pilot with RBA (Reserve Bank of Australia) and DFCRC (Digital Finance Co-operative Research Centre)\n\\- What is a CBDC?\n\\- Why would we need/use one?\n\\- Experimenting with the concept \\- the RBA selected use cases\n\\- Our use case \\- Realtime working capital for the construction industry\n\\- Some of the FUD related to CBDCs\n\nRound the Grounds on Bitcoin and Ethereum\n\\- Bitcoin Ordinals\n\\- Bitcoin Spot ETF\n\\- Next stop\\, Shanghai\n\\- LSDs \\(not what you think\\)\n\\- The next wave on Account Abstraction\n\nWe hope to see you there.",
       "dateTime": "2023-03-16T18:00+11:00",
       "eventUrl": "https://www.meetup.com/blockchain-newcastle/events/291784372",
-      "going": 11,
+      "going": 13,
       "maxTickets": 30,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510825319/676x380.webp",
