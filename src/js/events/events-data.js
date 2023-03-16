@@ -1,38 +1,5 @@
-// Auto Generated on 2023-03-16T00:27:03.538Z
+// Auto Generated on 2023-03-16T13:32:01.928Z
  module.exports = [
-  {
-    "event": {
-      "title": "Inaugural Blockchain Newcastle presented by Aus DeFi Newcastle ",
-      "description": "Consider this a warm-up event for the folks headed to /NEW Conference the following week.\n\nMethod Brewing will have an incredible beer selection available. And we've locked down local pasta legend, [Al's Pasta](https://www.instagram.com/alspasta/), to visit on the evening offering a range of fresh homemade pasta ($15) and garlic bread ($8) available for purchase directly from Al.\n\n**Agenda**\n\nAustralian CBDC (Central Bank Digital Currency) pilot with RBA (Reserve Bank of Australia) and DFCRC (Digital Finance Co-operative Research Centre)\n\\- What is a CBDC?\n\\- Why would we need/use one?\n\\- Experimenting with the concept \\- the RBA selected use cases\n\\- Our use case \\- Realtime working capital for the construction industry\n\\- Some of the FUD related to CBDCs\n\nRound the Grounds on Bitcoin and Ethereum\n\\- Bitcoin Ordinals\n\\- Bitcoin Spot ETF\n\\- Next stop\\, Shanghai\n\\- LSDs \\(not what you think\\)\n\\- The next wave on Account Abstraction\n\nWe hope to see you there.",
-      "dateTime": "2023-03-16T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/blockchain-newcastle/events/291784372",
-      "going": 14,
-      "maxTickets": 30,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510825319/676x380.webp",
-      "venue": {
-        "name": "Method Brewing",
-        "lat": -32.919422,
-        "lng": 151.75099,
-        "address": "18 Maitland Rd",
-        "city": "Islington"
-      }
-    },
-    "group": {
-      "name": "Blockchain Newcastle",
-      "urlname": "blockchain-newcastle",
-      "groupPhoto": {
-        "id": "510825095",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "510825095",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Newcastle Salesforce Community Group - March Meetup!",
@@ -99,7 +66,7 @@
       "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in April! Speaker to be announced.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-04-13T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/292265313",
-      "going": 3,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/510996334/676x380.webp",
