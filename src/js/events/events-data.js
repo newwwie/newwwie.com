@@ -1,4 +1,4 @@
-// Auto Generated on 2023-03-23T13:28:38.640Z
+// Auto Generated on 2023-03-24T13:23:07.248Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "This month we have Silvanus Matiku from the ABC iView team speaking about the architecture of the iView streaming service.\nThis session promises to be a great view of how an Australian institution manages its streaming architecture. Silvanus will introduce you to how streaming platforms work, give you an overview of the iView video engineering /streaming platform, and share lessons learned from 5 years working on the iView platform team\n\nSilvanus Matiku is a Senior developer at ABC iview platform team, working on their video transcoding platform Metro and iview API. For the last five years he has been working at ABC, he has been involved in a few projects, including HD Transcoding for rapid news, video thumbnail generation, iview content notification, Metro re-architecture, audio descriptions, etc. Prior to moving to Sydney he worked at Out Of The Square Media in Newcastle for 2 years, at the time he was a regular attendee of the Newcastle Coders Group Meetup\n\nWe'll be hosting this event at the Mudbath offices in Hunter street\n\nWe'll have a live stream of the event for those that are interested in listening in but cant be there in person https://livestream.mudbath.com.au/",
       "dateTime": "2023-04-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
-      "going": 13,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -55,6 +55,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "Using ChatGPT to optimise your IoT Projects",
+      "description": "**About the Topic:**\nJoin us for our upcoming event on April 6th, where we'll be delving into the world of ChatGPT and its role in IoT. Hear from our very own Cameron Owen, who will lead a discussion on ChatGPT's place in IoT, what he has found useful and how we might better leverage it in the future.\n\nWe want to hear about how you are leveraging ChatGPT and share ideas on how we can all benefit from it!\n\n**About the Speaker:**\nCameron Owen is a passionate technology enthusiast with a Bachelor's degree in Computer Science. With years of experience exploring the world of technology, Cameron is excited to share his insights on how to optimize IoT development with ChatGPT.\n\nAs a language model trained by OpenAI, ChatGPT has advanced natural language processing capabilities that can help you streamline your development process.\n\nCameron will demonstrate some examples of how to use ChatGPT to manage project execution and push ahead with product innovation.\nCameron firmly believes in the potential of IoT to revolutionize our world, and he is dedicated to helping the Newcastle region succeed in this field.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And of course, we'll supply catering, so be sure to get in quick!\n\nRSVP now to secure your spot and take the first step in optimizing your IoT development with ChatGPT.",
+      "dateTime": "2023-04-06T18:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/292442558",
+      "going": 9,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511516061/676x380.webp",
+      "venue": {
+        "name": "Stag & Hunter Hotel",
+        "lat": -32.897324,
+        "lng": 151.73674,
+        "address": "187 Maitland Rd",
+        "city": "Mayfield"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
