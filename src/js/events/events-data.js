@@ -1,4 +1,4 @@
-// Auto Generated on 2023-03-28T13:26:05.398Z
+// Auto Generated on 2023-03-29T13:26:34.484Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Our topic for this month is **Salesforce** **DevOps**!\nWhether you're a developer, an administrator or a complete technophobe, DevOps plays a key role in getting enhancements out to users when it comes to Salesforce.\n\nWe're excited to welcome David Cathcart from nib Group to come and talk with us. David is hugely passionate about DevOps and has had some great success in overcoming their challenges at nib.\n\nWe'll talk through what DevOps actually is, in simple terms, and why it's important to your teams success.\n\nThen we'll get into the good stuff as David showcases some of the Salesforce DevOps challenges he and his team have encountered over the years, and how they've overcome them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Showcase - Conquering DevOps at Nib with David Cathcart\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n*Not sure what DevOps is all about? [Hit up this trailblazer to arm you with some of the lingo](https://trailhead.salesforce.com/content/learn/modules/salesforce-devops-with-copado) (it's not as scary as it sounds, I promise!)*\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-03-30T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292058423",
-      "going": 12,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "This month we have Silvanus Matiku from the ABC iView team speaking about the architecture of the iView streaming service.\nThis session promises to be a great view of how an Australian institution manages its streaming architecture. Silvanus will introduce you to how streaming platforms work, give you an overview of the iView video engineering /streaming platform, and share lessons learned from 5 years working on the iView platform team\n\nSilvanus Matiku is a Senior developer at ABC iview platform team, working on their video transcoding platform Metro and iview API. For the last five years he has been working at ABC, he has been involved in a few projects, including HD Transcoding for rapid news, video thumbnail generation, iview content notification, Metro re-architecture, audio descriptions, etc. Prior to moving to Sydney he worked at Out Of The Square Media in Newcastle for 2 years, at the time he was a regular attendee of the Newcastle Coders Group Meetup\n\nWe'll be hosting this event at the Mudbath offices in Hunter street\n\nWe'll have a live stream of the event for those that are interested in listening in but cant be there in person https://livestream.mudbath.com.au/",
       "dateTime": "2023-04-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
-      "going": 27,
+      "going": 29,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on April 6th, where we'll be delving into the world of ChatGPT and its role in IoT. Hear from our very own Cameron Owen, who will lead a discussion on ChatGPT's place in IoT, what he has found useful and how we might better leverage it in the future.\n\nWe want to hear about how you are leveraging ChatGPT and share ideas on how we can all benefit from it!\n\n**About the Speaker:**\nCameron Owen is a passionate technology enthusiast with a Bachelor's degree in Computer Science. With years of experience exploring the world of technology, Cameron is excited to share his insights on how to optimize IoT development with ChatGPT.\n\nAs a language model trained by OpenAI, ChatGPT has advanced natural language processing capabilities that can help you streamline your development process.\n\nCameron will demonstrate some examples of how to use ChatGPT to manage project execution and push ahead with product innovation.\nCameron firmly believes in the potential of IoT to revolutionize our world, and he is dedicated to helping the Newcastle region succeed in this field.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And of course, we'll supply catering, so be sure to get in quick!\n\nRSVP now to secure your spot and take the first step in optimizing your IoT development with ChatGPT.",
       "dateTime": "2023-04-06T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/292442558",
-      "going": 11,
+      "going": 13,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511516061/676x380.webp",
