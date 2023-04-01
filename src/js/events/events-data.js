@@ -1,4 +1,4 @@
-// Auto Generated on 2023-03-31T13:22:50.718Z
+// Auto Generated on 2023-04-01T13:18:59.474Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on April 6th, where we'll be delving into the world of ChatGPT and its role in IoT. Hear from our very own Cameron Owen, who will lead a discussion on ChatGPT's place in IoT, what he has found useful and how we might better leverage it in the future.\n\nWe want to hear about how you are leveraging ChatGPT and share ideas on how we can all benefit from it!\n\n**About the Speaker:**\nCameron Owen is a passionate technology enthusiast with a Bachelor's degree in Computer Science. With years of experience exploring the world of technology, Cameron is excited to share his insights on how to optimize IoT development with ChatGPT.\n\nAs a language model trained by OpenAI, ChatGPT has advanced natural language processing capabilities that can help you streamline your development process.\n\nCameron will demonstrate some examples of how to use ChatGPT to manage project execution and push ahead with product innovation.\nCameron firmly believes in the potential of IoT to revolutionize our world, and he is dedicated to helping the Newcastle region succeed in this field.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And of course, we'll supply catering, so be sure to get in quick!\n\nRSVP now to secure your spot and take the first step in optimizing your IoT development with ChatGPT.",
       "dateTime": "2023-04-06T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/292442558",
-      "going": 13,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511516061/676x380.webp",
