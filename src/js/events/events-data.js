@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-01T13:18:59.474Z
+// Auto Generated on 2023-04-02T13:19:09.895Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month we have Silvanus Matiku from the ABC iView team speaking about the architecture of the iView streaming service.\nThis session promises to be a great view of how an Australian institution manages its streaming architecture. Silvanus will introduce you to how streaming platforms work, give you an overview of the iView video engineering /streaming platform, and share lessons learned from 5 years working on the iView platform team\n\nSilvanus Matiku is a Senior developer at ABC iview platform team, working on their video transcoding platform Metro and iview API. For the last five years he has been working at ABC, he has been involved in a few projects, including HD Transcoding for rapid news, video thumbnail generation, iview content notification, Metro re-architecture, audio descriptions, etc. Prior to moving to Sydney he worked at Out Of The Square Media in Newcastle for 2 years, at the time he was a regular attendee of the Newcastle Coders Group Meetup\n\nWe'll be hosting this event at the Mudbath offices in Hunter street\n\nWe'll have a live stream of the event for those that are interested in listening in but cant be there in person https://livestream.mudbath.com.au/",
       "dateTime": "2023-04-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782120",
-      "going": 33,
+      "going": 35,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
