@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-07T13:20:53.219Z
+// Auto Generated on 2023-04-08T13:19:00.619Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in April! This month we are excited to hear from Dr. Jessica Allen!\n\nDr Jessica Allen (She/Her) is a Senior Lecturer and research fellow in Chemical and Renewable Energy Engineering at the University of Newcastle. Her passion is energy technology development, and the incredibly complex puzzle of decarbonisation across energy and industry. Jess is an engineer, electrochemist, academic, mother, mountain biker, tap dancer and Novacastrian. Her career story has sometimes felt like a confused journey of dizzying highs and cavernous lows where she has constantly asked herself who she is, and what she cares about. Over her 15 or so year career Jess has learnt a lot about networking, leadership, self-identification, resilience and even influencing, and she hopes she can share some of these hard-won findings with the Newcastle Women and Gender Diverse People in Tech group.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-04-13T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/292265313",
-      "going": 27,
+      "going": 28,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511464087/676x380.webp",
