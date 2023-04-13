@@ -1,38 +1,5 @@
-// Auto Generated on 2023-04-12T13:22:21.937Z
+// Auto Generated on 2023-04-13T13:25:52.424Z
  module.exports = [
-  {
-    "event": {
-      "title": "WGDPTech Monthly Meet-up - Energy Tech - Dr. Jessica Allen",
-      "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in April! This month we are excited to hear from Dr. Jessica Allen!\n\nDr Jessica Allen (She/Her) is a Senior Lecturer and research fellow in Chemical and Renewable Energy Engineering at the University of Newcastle. Her passion is energy technology development, and the incredibly complex puzzle of decarbonisation across energy and industry. Jess is an engineer, electrochemist, academic, mother, mountain biker, tap dancer and Novacastrian. Her career story has sometimes felt like a confused journey of dizzying highs and cavernous lows where she has constantly asked herself who she is, and what she cares about. Over her 15 or so year career Jess has learnt a lot about networking, leadership, self-identification, resilience and even influencing, and she hopes she can share some of these hard-won findings with the Newcastle Women and Gender Diverse People in Tech group.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
-      "dateTime": "2023-04-13T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/292265313",
-      "going": 30,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511464087/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.921635,
-        "lng": 151.75789,
-        "address": "24 Lindus St",
-        "city": "Wickham"
-      }
-    },
-    "group": {
-      "name": "Newcastle Women and Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "510996372",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "510996372",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.APRIL: 🍺/☕ Chats & 📊 Charts",
@@ -72,7 +39,7 @@
       "description": "Our topic for this month is **Salesforce** **Cyber** **Security**!\n\nWhether you're a developer, an administrator or a complete technophobe, Cyber Security is a hot topic and major agenda item for businesses today.\n\nWith threats from bad actors across every conceivable platform, Salesforce is not immune, so how can we best protect our orgs?\n\nWe're excited to welcome Cole Cornford, Director of Galah Cyber, to speak with us.\n\nWe'll talk through some of the common and not-so-common security threats on the Salesforce platform, and what you need to do to combat them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Let's Talk Salesforce Cyber Security Threats with Galah Cyber's Cole Cornford\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-04-27T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292835303",
-      "going": 3,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
