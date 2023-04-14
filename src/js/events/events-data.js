@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-13T13:25:52.424Z
+// Auto Generated on 2023-04-14T13:21:27.262Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Our topic for this month is **Salesforce** **Cyber** **Security**!\n\nWhether you're a developer, an administrator or a complete technophobe, Cyber Security is a hot topic and major agenda item for businesses today.\n\nWith threats from bad actors across every conceivable platform, Salesforce is not immune, so how can we best protect our orgs?\n\nWe're excited to welcome Cole Cornford, Director of Galah Cyber, to speak with us.\n\nWe'll talk through some of the common and not-so-common security threats on the Salesforce platform, and what you need to do to combat them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Let's Talk Salesforce Cyber Security Threats with Galah Cyber's Cole Cornford\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-04-27T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292835303",
-      "going": 9,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
