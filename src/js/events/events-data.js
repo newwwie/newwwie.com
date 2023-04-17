@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-16T13:19:51.541Z
+// Auto Generated on 2023-04-17T13:22:31.733Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back after the ./NEW conference!\n\nJoin the data-folk at the Honeysuckle Hotel for casual chats about charts!\n\nNo speaker this month, but look forward to talks in May.\n\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\n\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n\nWhen: Thursday 20th of April 5.30pm-7.30pm\n\nWhere: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle",
       "dateTime": "2023-04-20T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/292678761",
-      "going": 12,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511825378/676x380.webp",
