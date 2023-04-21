@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-20T13:26:09.105Z
+// Auto Generated on 2023-04-21T13:21:21.843Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Our topic for this month is **Salesforce** **Cyber** **Security**!\n\nWhether you're a developer, an administrator or a complete technophobe, Cyber Security is a hot topic and major agenda item for businesses today.\n\nWith threats from bad actors across every conceivable platform, Salesforce is not immune, so how can we best protect our orgs?\n\nWe're excited to welcome Cole Cornford, Director of Galah Cyber, to speak with us.\n\nWe'll talk through some of the common and not-so-common security threats on the Salesforce platform, and what you need to do to combat them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Let's Talk Salesforce Cyber Security Threats with Galah Cyber's Cole Cornford\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-04-27T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292835303",
-      "going": 11,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
@@ -99,7 +99,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on May 4th, where we'll be delving into the world of automated temperature monitoring systems with local startup & success story Thermalog.\n\nPassionate about revolutionizing food safety using IoT, Abid aims to provide businesses with affordable, accurate, and reliable temperature monitoring systems. By embracing IoT technologies, he aims to increase efficiency, productivity, and compliance with health safety guidelines across the industry.\n\n**About the Speaker:**\nAbid Khan is a solution-oriented Mechatronics Engineer from the University of Newcastle, Australia, focusing on designing, prototyping and pursuing innovative ideas. His expertise includes Business Development, Product Design, and Embedded Systems. Abid is committed to bringing positive change to all his business stakeholders and working for the benefit of society and the environment.\n\nHaving spent approximately ten years in Australia, Abid has honed his entrepreneurial skills while pursuing his academic objectives. As the founder of Thermalog, he has played a pivotal role in developing automated time and temperature monitoring devices for temperature-sensitive food storage. These IoT devices are now utilized worldwide, from local shops to international enterprises, assisting businesses in reducing costs, ensuring food safety compliance, and streamlining operations.\n\nIn addition to his work at Thermalog, Abid has been involved in numerous extracurricular activities, including participating in the NU Racing team and serving as an International Student Convenor.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-05-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/293006871",
-      "going": 5,
+      "going": 6,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512222823/676x380.webp",
