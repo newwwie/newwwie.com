@@ -1,45 +1,12 @@
-// Auto Generated on 2023-04-25T13:22:02.762Z
+// Auto Generated on 2023-04-26T13:22:03.590Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG April 2023 | Regan Baty",
-      "description": "Hello friends! Welcome back to NCSG for 2023. This month, we've got Regan Baty.\n\nRegan has helped build software and integrations as well as consult across telecommunications, startups, and healthcare institutions. Regan will be speaking about his experience building an intentionally vulnerable password management application.\n\n**Event details:**\n\nDate: **WEDNESDAY** April 26th, 2023 - **We're doing Wednesdays now!**\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - bottom floor (**no longer upstairs!**)\n\nFood: Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:15pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising or speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2023-04-26T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/292944262",
-      "going": 23,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512190105/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Newcastle Salesforce Community Group - April Meetup!",
       "description": "Our topic for this month is **Salesforce** **Cyber** **Security**!\n\nWhether you're a developer, an administrator or a complete technophobe, Cyber Security is a hot topic and major agenda item for businesses today.\n\nWith threats from bad actors across every conceivable platform, Salesforce is not immune, so how can we best protect our orgs?\n\nWe're excited to welcome Cole Cornford, Director of Galah Cyber, to speak with us.\n\nWe'll talk through some of the common and not-so-common security threats on the Salesforce platform, and what you need to do to combat them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Let's Talk Salesforce Cyber Security Threats with Galah Cyber's Cole Cornford\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
       "dateTime": "2023-04-27T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292835303",
-      "going": 12,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
@@ -121,6 +88,39 @@
       },
       "logo": {
         "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Monthly Meet-up | Sarah Frazer",
+      "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in May! This month we are excited to hear from Sarah Frazer!\n\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around nerd. Sarah is passionate about pulling apart complex topics and making them more intuitive to the general public. She is one of the founders of the Women and Gender Diverse People in Technology group and focuses on supporting and uplifting women and gender-diverse people in the technology industry.\n\nIn this talk, Sarah will attempt to explain why she thinks your brain is \\*kinda\\* like a machine learning model, and why that's probably a good thing. This presentation will cover a crash course in some data concepts, while also dealing with bigger themes such as getting into technology as a career, finding workplaces that bring joy and tackling gender inequality in everyday life.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n* **5:30PM:** The event starts with a catch-up\n* **6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
+      "dateTime": "2023-05-11T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293140394",
+      "going": 9,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512386169/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.92165,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Newcastle Women and Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "510996372",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "510996372",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
