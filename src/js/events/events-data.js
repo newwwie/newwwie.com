@@ -1,38 +1,5 @@
-// Auto Generated on 2023-04-26T13:22:03.590Z
+// Auto Generated on 2023-04-27T13:26:10.962Z
  module.exports = [
-  {
-    "event": {
-      "title": "Newcastle Salesforce Community Group - April Meetup!",
-      "description": "Our topic for this month is **Salesforce** **Cyber** **Security**!\n\nWhether you're a developer, an administrator or a complete technophobe, Cyber Security is a hot topic and major agenda item for businesses today.\n\nWith threats from bad actors across every conceivable platform, Salesforce is not immune, so how can we best protect our orgs?\n\nWe're excited to welcome Cole Cornford, Director of Galah Cyber, to speak with us.\n\nWe'll talk through some of the common and not-so-common security threats on the Salesforce platform, and what you need to do to combat them.\n\nCome and join the conversation!\n\nOur agenda for this event is as follows:\n\n* 5:30PM: Pizza and refreshments\n* 6:00PM: Let's Talk Salesforce Cyber Security Threats with Galah Cyber's Cole Cornford\n* 7:00PM: Networking\n* 7:30PM: Wrap-up\n\n**What's this group about?**\nOur community groups aim to bring together the Salesforce community of users so they can network, learn, and keep up to date with changes across the industry.\n\n**Who's it for?**\nIf you're a Salesforce user, technologists, business owner, strategist, product manager, expert, novice or just curious -- we welcome you to join us!",
-      "dateTime": "2023-04-27T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-salesforce-community-group/events/292835303",
-      "going": 13,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/511160951/676x380.webp",
-      "venue": {
-        "name": "NewyTechPeople",
-        "lat": -32.92165,
-        "lng": 151.75789,
-        "address": "24 Lindus St",
-        "city": "Wickham"
-      }
-    },
-    "group": {
-      "name": "Newcastle Salesforce Community Group",
-      "urlname": "newcastle-salesforce-community-group",
-      "groupPhoto": {
-        "id": "511140553",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "511140553",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Looking for speakers",
@@ -66,7 +33,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on May 4th, where we'll be delving into the world of automated temperature monitoring systems with local startup & success story Thermalog.\n\nPassionate about revolutionizing food safety using IoT, Abid aims to provide businesses with affordable, accurate, and reliable temperature monitoring systems. By embracing IoT technologies, he aims to increase efficiency, productivity, and compliance with health safety guidelines across the industry.\n\n**About the Speaker:**\nAbid Khan is a solution-oriented Mechatronics Engineer from the University of Newcastle, Australia, focusing on designing, prototyping and pursuing innovative ideas. His expertise includes Business Development, Product Design, and Embedded Systems. Abid is committed to bringing positive change to all his business stakeholders and working for the benefit of society and the environment.\n\nHaving spent approximately ten years in Australia, Abid has honed his entrepreneurial skills while pursuing his academic objectives. As the founder of Thermalog, he has played a pivotal role in developing automated time and temperature monitoring devices for temperature-sensitive food storage. These IoT devices are now utilized worldwide, from local shops to international enterprises, assisting businesses in reducing costs, ensuring food safety compliance, and streamlining operations.\n\nIn addition to his work at Thermalog, Abid has been involved in numerous extracurricular activities, including participating in the NU Racing team and serving as an International Student Convenor.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-05-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/293006871",
-      "going": 7,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512222823/676x380.webp",
@@ -99,7 +66,7 @@
       "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in May! This month we are excited to hear from Sarah Frazer!\n\nSarah Frazer is the Operations Manager at NewyTechPeople, and an all-around nerd. Sarah is passionate about pulling apart complex topics and making them more intuitive to the general public. She is one of the founders of the Women and Gender Diverse People in Technology group and focuses on supporting and uplifting women and gender-diverse people in the technology industry.\n\nIn this talk, Sarah will attempt to explain why she thinks your brain is \\*kinda\\* like a machine learning model, and why that's probably a good thing. This presentation will cover a crash course in some data concepts, while also dealing with bigger themes such as getting into technology as a career, finding workplaces that bring joy and tackling gender inequality in everyday life.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n* **5:30PM:** The event starts with a catch-up\n* **6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-05-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293140394",
-      "going": 9,
+      "going": 12,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512386169/676x380.webp",
