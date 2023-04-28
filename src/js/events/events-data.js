@@ -1,16 +1,22 @@
-// Auto Generated on 2023-04-27T13:26:10.962Z
+// Auto Generated on 2023-04-28T13:21:05.952Z
  module.exports = [
   {
     "event": {
       "title": "Looking for speakers",
-      "description": "We're looking for speakers for this meetup.\n\nIf you're interested in speaking, sponsoring or hosting please reach out.",
+      "description": "This month we'll have Peter Drew and Stewart Evans giving us a view into their opinions on clean code and how to build systems that are manageable, maintainable and modifiable. In their opinion software systems should be around for decades not re-written every year.\n\nIf you're interested in levelling up your code quality or you just have opinions on what good code looks like this session is for you, there is sure to be great discussions after the talk over pizza and drinks.",
       "dateTime": "2023-05-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782121",
       "going": 1,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "Mudbath Digital ",
+        "lat": -32.92607,
+        "lng": 151.7626,
+        "address": "8/710 Hunter st",
+        "city": "Newcastle "
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
