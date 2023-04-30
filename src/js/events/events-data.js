@@ -1,4 +1,4 @@
-// Auto Generated on 2023-04-29T13:18:57.113Z
+// Auto Generated on 2023-04-30T13:19:05.845Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "This month we'll have Peter Drew and Stewart Evans giving us a view into their opinions on clean code and how to build systems that are manageable, maintainable and modifiable. In their opinion, software systems should be around for decades, not rewritten every year.\n\nIf you want to level up your code quality or have opinions on what good code looks like, this session is for you. Everyone has their own opinions on what clean code looks like and where the line is between perfection and delivery, so there are sure to be great discussions after the talk over pizza and drinks.\n\nWe'll be hosting out of the MudBath offices in Hunter St, Newcastle. We'll have free pizza and a range of beer, wine and soft drinks available.\n\n6:00 pm Doors open\n6:30 pm Talk starts\n7:30 pm Post-talk drinks and discussion",
       "dateTime": "2023-05-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782121",
-      "going": 4,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512442713/676x380.webp",
