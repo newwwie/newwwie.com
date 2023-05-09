@@ -1,4 +1,4 @@
-// Auto Generated on 2023-05-08T13:21:10.455Z
+// Auto Generated on 2023-05-09T13:38:31.218Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "🗣️**Talk Description**: This talk will discuss the many factors of data pipelines and decision making. How it can be applied to home finances to corporate enterprise scale and understanding the maturity of how decisions are made in a data driven way.\n\n🎙️**Speaker Bio**: Josh is a Senior Specialist Lead Consultant at Deloitte in the Data & AI group. Josh has been a consultant in the data space for 2 years but has a 15 year career in software engineering, data science and cloud scale infrastructure.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-05-18T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/293242559",
-      "going": 32,
+      "going": 33,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/509798571/676x380.webp",
