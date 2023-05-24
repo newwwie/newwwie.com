@@ -1,4 +1,4 @@
-// Auto Generated on 2023-05-23T13:22:03.827Z
+// Auto Generated on 2023-05-24T13:21:51.510Z
  module.exports = [
   {
     "event": {
@@ -66,7 +66,7 @@
       "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in June! This month, our speaker is Cathy Lill!\n\nMore information on Cathy and her talk will be shared soon.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-06-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293480008",
-      "going": 16,
+      "going": 17,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512790282/676x380.webp",
@@ -96,18 +96,18 @@
   {
     "event": {
       "title": "WGDPTech Social: Axe Throwing!",
-      "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Deposit due**: June 10th\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
+      "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee of $60 - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Deposit due**: June 10th\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
       "dateTime": "2023-06-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293625966",
-      "going": 4,
+      "going": 3,
       "maxTickets": 25,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512961008/676x380.webp",
       "venue": {
-        "name": "Honeysuckle Hotel",
-        "lat": -32.92507,
-        "lng": 151.76918,
-        "address": "Honeysuckle Dr",
+        "name": "MANIAX Axe Throwing - NEWCASTLE",
+        "lat": -32.92696,
+        "lng": 151.77612,
+        "address": "188 King St",
         "city": "Newcastle"
       }
     },
