@@ -1,4 +1,4 @@
-// Auto Generated on 2023-05-25T13:25:37.599Z
+// Auto Generated on 2023-05-26T13:20:08.920Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Hello friends! Welcome back to NCSG for 2023. This month, we've got Regan Baty. Regan was scheduled for April but unfortunately came down with an illness (thanks again to Dan Clements for stepping up and presenting on short notice), so we've got a second bite of the cherry!\n\nRegan has helped build software and integrations as well as consult across telecommunications, startups, and healthcare institutions. Regan will be speaking about his experience building an intentionally vulnerable password management application.\n\n**Event details:**\n\nDate: **WEDNESDAY** May 31st - **We're doing Wednesdays now!**\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - bottom floor (**no longer upstairs!**)\n\nFood: Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Thursday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on organising or speaking? Reach out at the event, or message us here.**",
       "dateTime": "2023-05-31T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/293578311",
-      "going": 26,
+      "going": 29,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512921979/676x380.webp",
