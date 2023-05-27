@@ -1,4 +1,4 @@
-// Auto Generated on 2023-05-26T13:20:08.920Z
+// Auto Generated on 2023-05-27T13:18:35.802Z
  module.exports = [
   {
     "event": {
@@ -99,7 +99,7 @@
       "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee of $60 - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Deposit due**: June 10th\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
       "dateTime": "2023-06-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293625966",
-      "going": 3,
+      "going": 4,
       "maxTickets": 25,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512961008/676x380.webp",
