@@ -1,4 +1,4 @@
-// Auto Generated on 2023-06-03T13:19:19.728Z
+// Auto Generated on 2023-06-04T13:19:00.886Z
  module.exports = [
   {
     "event": {
@@ -33,7 +33,7 @@
       "description": "The Women and Gender Diverse People in Tech is continuing our speaker series in June! This month, our speaker is Cathy Lill!\n\nCathy is Head of Product Engineering at Hireup, building a platform for NDIS participants to connect with and manage their team of support workers. She has 20 years experience in the digital media and software industries with a technical background in front end and Javascript engineering. Previous roles include principal engineer at CSIRO’s Data61, senior engineer at Campaign Monitor and front end team lead at Yahoo!7. Cathy has also been involved in various community groups and conferences, having spoken at Web Directions Respond, SydJS, SydCSS, Levels Conf, React Conf, Decompress and co-founded the original NewcastleJS. She works remotely from her home in sunny Newcastle and is Mum to two adorable but noisy daughters.\n\nEveryone is welcome to this event, no matter your gender- so share it with all of your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nFor this event we'll be gathering at the NewyTechPeople office in their event space at 24 Lindus Street, Wickham.\n\nThere will be pizza and refreshments provided, please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-06-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293480008",
-      "going": 25,
+      "going": 26,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512790282/676x380.webp",
