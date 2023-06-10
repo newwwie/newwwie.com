@@ -1,4 +1,4 @@
-// Auto Generated on 2023-06-09T13:21:20.553Z
+// Auto Generated on 2023-06-10T13:19:08.882Z
  module.exports = [
   {
     "event": {
@@ -72,7 +72,7 @@
       "description": "We'll have two speakers for our July meeting;\n**Calum Simpson** from SSW will be travelling up from Sydney to give us an update on all things AI,\n**Paul Usher** from DevExpress will be flying down from Brisbane to give a talk on an as-yet-to-be-decided topic.\nBoth of these speakers are great speakers who have spoken at events and conferences worldwide.\n\nWe'll be hosted and sponsored by SSW Newcastle.",
       "dateTime": "2023-07-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782127",
-      "going": 2,
+      "going": 3,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
