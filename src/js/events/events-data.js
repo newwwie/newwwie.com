@@ -1,4 +1,4 @@
-// Auto Generated on 2023-06-11T13:19:35.281Z
+// Auto Generated on 2023-06-12T13:22:35.676Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "***The transient and variable Universe, and the transient and unpredictable University.***\n\n🗣️**Talk Description**: In this talk Martin will talk about his current role at the University of Newcastle, including the data ecosystem of a higher education institute, what can be modeled and predicted across that ecosystem, and how ML and AI can be used to make better decisions. Martin will then turn to data science in astrophysics and how we are gathering very large peta-scale datasets to study the Universe in the time-domain. Martin will also showcase some work using state space models as classifiers for “Gravitational Wave Afterglows” which are the newest and sexiest explosions from black-hole and neutron-star binary mergers, and were predicted by Einstein over 100 years ago\n\n🎙️**Speaker Bio**: Dr Martin Bell has a PhD in Astrophysics and has held post doctoral positions at the University of Sydney and CSIRO, including a five-year tenure as a lecturer at the University of Technology Sydney (in Astrophysics / Data Science). Currently he is employed as a full stack data scientist at the University of Newcastle working with the senior executive. His research background is a combination of high-performance computing, data science and time-series analysis applied to the studies of explosive and dynamic objects in the Universe. In his current role he applies Machine Learning and a broad plethora of data science techniques across the University data ecosystem to drive the best performance in research, teaching and external rankings.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-06-15T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/293834664",
-      "going": 27,
+      "going": 26,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/509798571/676x380.webp",
