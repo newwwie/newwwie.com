@@ -1,9 +1,9 @@
-// Auto Generated on 2023-06-15T13:25:38.733Z
+// Auto Generated on 2023-06-16T13:21:03.311Z
  module.exports = [
   {
     "event": {
       "title": "WGDPTech Social: Axe Throwing!",
-      "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee of $60 - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Deposit due**: June 10th\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
+      "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee of $60 - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
       "dateTime": "2023-06-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293625966",
       "going": 6,
