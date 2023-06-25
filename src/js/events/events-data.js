@@ -1,4 +1,4 @@
-// Auto Generated on 2023-06-24T13:24:24.794Z
+// Auto Generated on 2023-06-25T13:25:16.404Z
  module.exports = [
   {
     "event": {
@@ -105,7 +105,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on Thursday, July 6th, where we'll be delving into CSIRO's Embedded Intelligence Platform!\n\nThe Embedded Intelligence Platform (EIP) is an IoT Platform-as-a-Service that can be used to rapidly develop low-power, untethered IoT solutions with rich functionality.\n\nEIP is already been utilised for a number of commercial and research applications, each leveraging many features of the platform to rapidly deliver next-gen IoT functionality in complex use cases. EIP works with the Zephyr Project RTOS and offers features such as device-to-device encrypted communications, delay-tolerant data downloading, fast over-the-air updates, multi-hop multi-technology non-IP communications such as relaying via BLE to a device and then forwarding over LoRaWAN.\n\nThe platform is also designed to allow high reconfigurability of applications, eliminating the need for firmware updates for many situations. The technology is currently being spun out of CSIRO, and we're keen to engage entities looking to create next-gen IoT solutions at scale.\n\n**About the Speaker:**\nDr Philip Valencia is the Embedded Intelligence Team Leader at CSIRO’s Data61 Cyber-Physical Systems Program, Brisbane, Australia. Phil has 20 years of experience in generating IoT and ultra-low power wireless solutions for “embedding intelligence” into applications across digital agriculture, ecology, logistics, construction, manufacturing, smart sites, human and pet health and more.\n\nHe holds several patents, coauthored 50+ peer-reviewed publications and is a recipient of the CSIRO Julius Career Award (2020) and CSIRO Entrepreneurship Award (2019). Phil leads a team that has captured deep tech engineering capabilities into a supported IoT Platform-as-a-Service known as the Embedded Intelligence Platform (EIP) to enable companies to rapidly create low-power, untethered, IoT solutions and get them to market fast\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-07-06T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/294273689",
-      "going": 9,
+      "going": 11,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/513779565/676x380.webp",
