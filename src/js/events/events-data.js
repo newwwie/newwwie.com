@@ -1,45 +1,12 @@
-// Auto Generated on 2023-06-28T13:28:44.172Z
+// Auto Generated on 2023-06-29T13:29:53.158Z
  module.exports = [
   {
     "event": {
-      "title": "WGDPTech Social: Axe Throwing!",
-      "description": "Come and celebrate our one-year anniversary with us at our first all-social for 2023! We're hosting a group Axe Throwing event and we can't wait!\n\nThis event has a fee of $60 - however, we are working on sponsorship to cover our food. If you prefer to pay in person on the day, let Sarah or Arden know your RSVP and we'll organise it for you!\n\nIf you're in tech, interested in tech or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 29th June from 6PM\n* **Where:** Maniax, Newcastle - 188 King St, Newcastle NSW 2300\n\nWe hope to see you there :)",
-      "dateTime": "2023-06-29T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/293625966",
-      "going": 12,
-      "maxTickets": 25,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512961008/676x380.webp",
-      "venue": {
-        "name": "MANIAX Axe Throwing - NEWCASTLE",
-        "lat": -32.92696,
-        "lng": 151.77612,
-        "address": "188 King St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "512791770",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "512791770",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
       "title": "July: Paul Usher + Matt Goldman",
-      "description": "We'll have two speakers for our July meeting;\n**Matt Goldman** from SSW will be travelling up from Sydney to give us an overview of passwordless authentication.\n\n**Paul Usher** from DevExpress will be flying down from Brisbane to give a talk on an as-yet-to-be-decided topic.\nBoth of these speakers are great speakers who have spoken at events and conferences worldwide.\n\nWe'll be hosted and sponsored by SSW Newcastle.\n\n**Talk 1: Beyond Passwords: The future (and present) of authentication**\n\nWe all know passwords are not fit for purpose, and we're slowly making our way to a \"post-password\" world. Passwords are a problem for security, convenience, and accessibility, and the future of authentication won't involve passwords at all.\n\nThere are already many options available to take passwords out of the picture for your authentication scenarios. We're all used to our phones and computers letting us login with our faces or fingers, and organisations like the FIDO alliance are building the foundations of the password-free future.\n\nBy using existing and well-established technologies, we can provide secure, convenient, passwordless authentication for our users. In fact, in many cases, a password is the worst possible option. Not every interaction has a keyboard or biometric sensor available, and many don't even involve a user at all.\n\nIn this talk, Matt Goldman gives us a glimpse of the future, showing how developers can use familiar technologies to minimise, or even eradicate, the use of passwords, paving the way for safe, secure, and seamless authentication using the technology already in our hands.\n\nBio: [https://www.ssw.com.au/people/matt-goldman](https://www.ssw.com.au/people/matt-goldman)\n\n**Talk 2:**",
+      "description": "Howdy Coders, We'll be back on the first Wednesday in July. We'll have two speakers for our July meeting, Matt Goldman and Paul Usher. Both have taken the time to come in from outside of Newcastle.\n\nWe'll have dinner provided and plenty of drinks. Provided by our sponsors, SSW and Saphi Engineering.\n\nWe'll be hosted by SSW Newcastle. The closest public transport is the Civic light rail stop. There is off-street parking available near the Museum.\n\n**Matt Goldman** from SSW will be travelling up from Sydney to give us an overview of passwordless authentication.\nBio: [https://www.ssw.com.au/people/matt-goldman](https://www.ssw.com.au/people/matt-goldman)\n\n**Paul Usher** from DevExpress will be flying down from Brisbane to give a talk on an as-yet-to-be-decided topic.\nBoth of these speakers are great speakers who have spoken at events and conferences worldwide.\nBio: https://paul-usher.com/about/\nWe'll be hosted and sponsored by SSW Newcastle.\n\n**Talk 1: Beyond Passwords: The future (and present) of authentication**\n\nWe all know passwords are not fit for purpose, and we're slowly making our way to a \"post-password\" world. Passwords are a problem for security, convenience, and accessibility, and the future of authentication won't involve passwords at all.\n\nThere are already many options available to take passwords out of the picture for your authentication scenarios. We're all used to our phones and computers letting us login with our faces or fingers, and organisations like the FIDO alliance are building the foundations of the password-free future.\n\nBy using existing and well-established technologies, we can provide secure, convenient, passwordless authentication for our users. In fact, in many cases, a password is the worst possible option. Not every interaction has a keyboard or biometric sensor available, and many don't even involve a user at all.\n\nIn this talk, Matt Goldman gives us a glimpse of the future, showing how developers can use familiar technologies to minimise, or even eradicate, the use of passwords, paving the way for safe, secure, and seamless authentication using the technology already in our hands.\n\n**Talk 2: Blazor and the cadence of change in tech**\nPaul will bring his passion for modern web development with C# and a lifetime spent working in software as he explains how he is building apps in Blazor and staying up to date in our ever-changing tech environment\n\nWith Blazor, developers can create web apps using C# and .NET, which offers a familiar and efficient development experience. By leveraging Blazor's powerful framework, developers can create responsive and interactive web apps that run efficiently and reliably. With the right tech cadence, developers can create amazing apps that meet the needs of their users and stand the test of time.",
       "dateTime": "2023-07-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782127",
-      "going": 13,
+      "going": 23,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -72,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming event on Thursday, July 6th, where we'll be delving into CSIRO's Embedded Intelligence Platform!\n\nThe Embedded Intelligence Platform (EIP) is an IoT Platform-as-a-Service that can be used to rapidly develop low-power, untethered IoT solutions with rich functionality.\n\nEIP is already been utilised for a number of commercial and research applications, each leveraging many features of the platform to rapidly deliver next-gen IoT functionality in complex use cases. EIP works with the Zephyr Project RTOS and offers features such as device-to-device encrypted communications, delay-tolerant data downloading, fast over-the-air updates, multi-hop multi-technology non-IP communications such as relaying via BLE to a device and then forwarding over LoRaWAN.\n\nThe platform is also designed to allow high reconfigurability of applications, eliminating the need for firmware updates for many situations. The technology is currently being spun out of CSIRO, and we're keen to engage entities looking to create next-gen IoT solutions at scale.\n\n**About the Speaker:**\nDr Philip Valencia is the Embedded Intelligence Team Leader at CSIRO’s Data61 Cyber-Physical Systems Program, Brisbane, Australia. Phil has 20 years of experience in generating IoT and ultra-low power wireless solutions for “embedding intelligence” into applications across digital agriculture, ecology, logistics, construction, manufacturing, smart sites, human and pet health and more.\n\nHe holds several patents, coauthored 50+ peer-reviewed publications and is a recipient of the CSIRO Julius Career Award (2020) and CSIRO Entrepreneurship Award (2019). Phil leads a team that has captured deep tech engineering capabilities into a supported IoT Platform-as-a-Service known as the Embedded Intelligence Platform (EIP) to enable companies to rapidly create low-power, untethered, IoT solutions and get them to market fast\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-07-06T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/294273689",
-      "going": 14,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/513779565/676x380.webp",
