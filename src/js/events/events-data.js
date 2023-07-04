@@ -1,4 +1,4 @@
-// Auto Generated on 2023-07-03T13:29:05.666Z
+// Auto Generated on 2023-07-04T13:29:27.341Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders, We'll be back on the first Wednesday in July.\n\nWe'll have dinner provided and plenty of drinks. Provided by our sponsors, SSW and Saphi Engineering.\n\nWe'll be hosted by SSW Newcastle. The closest public transport is the Civic light rail stop. There is off-street parking available near the Museum.\n\n**Matt Goldman** from SSW will be travelling up from Sydney to give us an overview of passwordless authentication.\nBio: [https://www.ssw.com.au/people/matt-goldman](https://www.ssw.com.au/people/matt-goldman)\n\n**Beyond Passwords: The future (and present) of authentication**\n\nWe all know passwords are not fit for purpose, and we're slowly making our way to a \"post-password\" world. Passwords are a problem for security, convenience, and accessibility, and the future of authentication won't involve passwords at all.\n\nThere are already many options available to take passwords out of the picture for your authentication scenarios. We're all used to our phones and computers letting us login with our faces or fingers, and organisations like the FIDO alliance are building the foundations of the password-free future.\n\nBy using existing and well-established technologies, we can provide secure, convenient, passwordless authentication for our users. In fact, in many cases, a password is the worst possible option. Not every interaction has a keyboard or biometric sensor available, and many don't even involve a user at all.\n\nIn this talk, Matt Goldman gives us a glimpse of the future, showing how developers can use familiar technologies to minimise, or even eradicate, the use of passwords, paving the way for safe, secure, and seamless authentication using the technology already in our hands.",
       "dateTime": "2023-07-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/290782127",
-      "going": 29,
+      "going": 30,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -105,7 +105,7 @@
       "description": "We'll be back in August with Adam Cogan going through the SSW rules to get better Chat GPT results.\n\nWe'll be hosting this session out of SSW Newcastle. There is parking available in the Wright Lane car park. The closest public transport is the Civic Light Rail stop.\n\nWe'll have dinner provided by SSW.\n\n**Title:** Rules to better ChatGPT and using the best API ever\n**Abstract:**\nAre you ready to take your GPT game to the next level? Join Adam Cogan and learn invaluable tips and tricks that will help you master the AI revolution.\n\n###\n\nIn this presentation, Adam will show the awesomeness of ChatGPT, including prompt engineering for developers and marketers.\n\nThen Adam will also showcase the wonders of the OpenAI API and demonstrate how developers can leverage it to its full potential. Adam will cover the golden goose of embeddings that provide GPT with context, making it easier to search through documentation and inform ChatGPT responses.\n\nFinally, Adam will also discuss the rise of autonomous agents, which is set to drastically change the software development experience and pave the way to AGI.\n\nJoin this talk, to get a solid understanding of how to utilise GPT to its full potential in your company. GPT has a lot to offer – come and enhance your AI skills. This is an exciting time!",
       "dateTime": "2023-08-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/293987497",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
