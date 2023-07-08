@@ -1,4 +1,4 @@
-// Auto Generated on 2023-07-07T13:26:47.644Z
+// Auto Generated on 2023-07-08T13:22:51.243Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "We'll be back in August with Adam Cogan going through the SSW rules to get better Chat GPT results.\n\nWe'll be hosting this session out of SSW Newcastle. There is parking available in the Wright Lane car park. The closest public transport is the Civic Light Rail stop.\n\nWe'll have dinner provided by SSW.\n\n**Title:** Rules to better ChatGPT and using the best API ever\n**Abstract:**\nAre you ready to take your GPT game to the next level? Join Adam Cogan and learn invaluable tips and tricks that will help you master the AI revolution.\n\n###\n\nIn this presentation, Adam will show the awesomeness of ChatGPT, including prompt engineering for developers and marketers.\n\nThen Adam will also showcase the wonders of the OpenAI API and demonstrate how developers can leverage it to its full potential. Adam will cover the golden goose of embeddings that provide GPT with context, making it easier to search through documentation and inform ChatGPT responses.\n\nFinally, Adam will also discuss the rise of autonomous agents, which is set to drastically change the software development experience and pave the way to AGI.\n\nJoin this talk, to get a solid understanding of how to utilise GPT to its full potential in your company. GPT has a lot to offer – come and enhance your AI skills. This is an exciting time!",
       "dateTime": "2023-08-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/293987497",
-      "going": 9,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
