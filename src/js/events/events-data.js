@@ -1,4 +1,4 @@
-// Auto Generated on 2023-07-17T13:29:48.726Z
+// Auto Generated on 2023-07-18T13:24:20.379Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "***Mathematical Optimisation - the past, present and future***\n\n🗣️**Talk Description**: What is Mathematical Optimisation? Come find out as Riley takes you on a journey through time, from its humble beginnings to exploring what the state-of-the-art can achieve, and where you, the data analyst/scientist, fits into the picture! Fear not, the math content will be kept light!\n\n🎙️**Speaker Bio**: Riley is an Optimization Engineer at Gurobi Optimization, where he helps customers progress their understanding of modelling with mathematical optimisation and get the most out of the Gurobi solver. Riley is a long term novocastrian and despite now working remotely will probably just stay put.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-07-20T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/294734214",
-      "going": 22,
+      "going": 25,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514327578/676x380.webp",
