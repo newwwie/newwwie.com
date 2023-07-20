@@ -1,38 +1,5 @@
-// Auto Generated on 2023-07-19T13:22:29.881Z
+// Auto Generated on 2023-07-20T13:26:58.676Z
  module.exports = [
-  {
-    "event": {
-      "title": "data.JULY <- Riley Clement: Mathematical Optimisation - the past/present/future",
-      "description": "***Mathematical Optimisation - the past, present and future***\n\n🗣️**Talk Description**: What is Mathematical Optimisation? Come find out as Riley takes you on a journey through time, from its humble beginnings to exploring what the state-of-the-art can achieve, and where you, the data analyst/scientist, fits into the picture! Fear not, the math content will be kept light!\n\n🎙️**Speaker Bio**: Riley is an Optimization Engineer at Gurobi Optimization, where he helps customers progress their understanding of modelling with mathematical optimisation and get the most out of the Gurobi solver. Riley is a long term novocastrian and despite now working remotely will probably just stay put.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
-      "dateTime": "2023-07-20T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/294734214",
-      "going": 27,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514327578/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "August Adam Cogan - Rules to better ChatGPT and using the best API ever ",
@@ -72,7 +39,7 @@
       "description": "We're hosting another event for Women and Gender People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. We'll be real, it's been a massive year so far for our little meetup! This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 11th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel",
       "dateTime": "2023-08-10T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/294854217",
-      "going": 3,
+      "going": 4,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514514253/676x380.webp",
