@@ -1,4 +1,4 @@
-// Auto Generated on 2023-07-31T13:22:34.455Z
+// Auto Generated on 2023-08-01T13:21:06.015Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We'll be back in August with Adam Cogan going through the SSW rules to get better Chat GPT results.\n\nWe'll be hosting this session out of SSW Newcastle. There is parking available in the Wright Lane car park. The closest public transport is the Civic Light Rail stop.\n\nWe'll have dinner provided by SSW.\nIf you can't make it along but want to watch the talk SSW will be live streaming the event, produced by their fantastic TV Team, on [www.ssw.com.au/live](http://www.ssw.com.au/live)\n\n**Title:** Rules to better ChatGPT and using the best API ever\n\\*\\*Abstract:\\*\\*Are you ready to take your GPT game to the next level? Join Adam Cogan and learn invaluable tips and tricks that will help you master the AI revolution.\n\n###\n\nIn this presentation, Adam will show the awesomeness of ChatGPT, including prompt engineering for developers and marketers.\n\nThen Adam will also showcase the wonders of the OpenAI API and demonstrate how developers can leverage it to its full potential. Adam will cover the golden goose of embeddings that provide GPT with context, making it easier to search through documentation and inform ChatGPT responses.\n\nFinally, Adam will also discuss the rise of autonomous agents, which is set to drastically change the software development experience and pave the way to AGI.\n\nJoin this talk, to get a solid understanding of how to utilise GPT to its full potential in your company. GPT has a lot to offer – come and enhance your AI skills. This is an exciting time!",
       "dateTime": "2023-08-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/293987497",
-      "going": 62,
+      "going": 68,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday the 3rd of August, where we'll be hosting an open discussion on the intriguing world of smart home technology!\n\nSmart home technology has been revolutionizing the way we live, and this meeting is all about dissecting what makes it tick. We'll dive into various critical categories including:\n\n* **Network Integration**: How different devices communicate with each other and the outside world.\n* **Security Protocols**: The measures in place to keep your home secure in the digital age.\n* **User Interface Design**: From touchscreens to voice commands, the ways we interact with our smart homes.\n* **Sensors and Automation**: How sensors work in unison to automate tasks and create a seamless living experience.\n\nWhether you're an industry veteran or simply fascinated by smart homes, come engage with like-minded pioneers looking to understand and innovate the smart home solutions of tomorrow.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-08-03T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/295143075",
-      "going": 8,
+      "going": 11,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514792408/676x380.webp",
@@ -94,6 +94,72 @@
       },
       "logo": {
         "id": "512791770",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG August 2023 | Save The Date!",
+      "description": "G'day all! Please consider this event as a save-the-date for the monthly NCSG meetup!\n\n**Event details:**\n\nDate: **WEDNESDAY** August 30th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - bottom floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
+      "dateTime": "2023-08-30T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/295166642",
+      "going": 5,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/513883080/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG September 2023 | Save The Date!",
+      "description": "G'day all! Please consider this event as a save-the-date for the monthly NCSG meetup!\n\n**Event details:**\n\nDate: **WEDNESDAY** September 27th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - bottom floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
+      "dateTime": "2023-09-27T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/295166653",
+      "going": 4,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/513883080/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
