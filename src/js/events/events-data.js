@@ -1,45 +1,12 @@
-// Auto Generated on 2023-08-02T13:20:50.739Z
+// Auto Generated on 2023-08-03T13:23:39.282Z
  module.exports = [
-  {
-    "event": {
-      "title": "Home Automation Discussion!",
-      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday the 3rd of August, where we'll be hosting an open discussion on the intriguing world of smart home technology!\n\nSmart home technology has been revolutionizing the way we live, and this meeting is all about dissecting what makes it tick. We'll dive into various critical categories including:\n\n* **Network Integration**: How different devices communicate with each other and the outside world.\n* **Security Protocols**: The measures in place to keep your home secure in the digital age.\n* **User Interface Design**: From touchscreens to voice commands, the ways we interact with our smart homes.\n* **Sensors and Automation**: How sensors work in unison to automate tasks and create a seamless living experience.\n\nWhether you're an industry veteran or simply fascinated by smart homes, come engage with like-minded pioneers looking to understand and innovate the smart home solutions of tomorrow.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
-      "dateTime": "2023-08-03T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/295143075",
-      "going": 13,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514792408/676x380.webp",
-      "venue": {
-        "name": "Stag & Hunter Hotel",
-        "lat": -32.897324,
-        "lng": 151.73674,
-        "address": "187 Maitland Rd",
-        "city": "Mayfield"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up - Casual Pub Meet-up!",
       "description": "We're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. We'll be real, it's been a massive year so far for our little meetup! This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 10th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel",
       "dateTime": "2023-08-10T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/294854217",
-      "going": 11,
+      "going": 12,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514514253/676x380.webp",
