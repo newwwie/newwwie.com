@@ -1,4 +1,4 @@
-// Auto Generated on 2023-08-06T13:18:35.128Z
+// Auto Generated on 2023-08-07T13:21:10.210Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. We'll be real, it's been a massive year so far for our little meetup! This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 10th August from 5:30PM to 7:00PM\n* **Where:** Honeysuckle Hotel",
       "dateTime": "2023-08-10T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/294854217",
-      "going": 12,
+      "going": 13,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514514253/676x380.webp",
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "512791770",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "data.AUG <- Rafael Grebogi: Using AI/ML to develop symbolic models for datasets",
+      "description": "***Using AI and ML to develop symbolic models for engineering and physics datasets***\n\n🗣️**Talk Description**: TBC\n\n🎙️**Speaker Bio**: Rafael is a Brazilian PhD student at The University of Newcastle. He worked in Brazil as a lecturer before coming to Australia in 2020 to study. Rafael loves sports, animals and of course, coding! His background as a Control and Automation Engineer and a Master in Electrical Engineering degree gives him a different point of view in the Computer Science field.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
+      "dateTime": "2023-08-17T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/295288938",
+      "going": 13,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514953992/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Hunter Data Analytics",
+      "urlname": "hunter-data-analytics",
+      "groupPhoto": {
+        "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483576656",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
