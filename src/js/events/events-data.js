@@ -1,4 +1,4 @@
-// Auto Generated on 2023-08-07T13:21:10.210Z
+// Auto Generated on 2023-08-08T13:20:46.287Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "***Using AI and ML to develop symbolic models for engineering and physics datasets***\n\n🗣️**Talk Description**: TBC\n\n🎙️**Speaker Bio**: Rafael is a Brazilian PhD student at The University of Newcastle. He worked in Brazil as a lecturer before coming to Australia in 2020 to study. Rafael loves sports, animals and of course, coding! His background as a Control and Automation Engineer and a Master in Electrical Engineering degree gives him a different point of view in the Computer Science field.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-08-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/295288938",
-      "going": 13,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514953992/676x380.webp",
