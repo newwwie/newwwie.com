@@ -1,4 +1,4 @@
-// Auto Generated on 2023-08-14T13:20:11.934Z
+// Auto Generated on 2023-08-15T13:19:13.652Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "***Using AI and ML to develop symbolic models for engineering and physics datasets***\n\n🗣️**Talk Description**: TBC\n\n🎙️**Speaker Bio**: Rafael is a Brazilian PhD student at The University of Newcastle. He worked in Brazil as a lecturer before coming to Australia in 2020 to study. Rafael loves sports, animals and of course, coding! His background as a Control and Automation Engineer and a Master in Electrical Engineering degree gives him a different point of view in the Computer Science field.\n\n🏢 **Venue**: University's Q building in Honeysuckle\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\nPARKING: The closest parking is Wright Lane Carpark.\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n🕠 TIME: 5.30pm - 7.30pm\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-08-17T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/295288938",
-      "going": 20,
+      "going": 23,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/514953992/676x380.webp",
@@ -68,8 +68,8 @@
   },
   {
     "event": {
-      "title": "WGDPTech Monthly Meet-up - Speaker TBC",
-      "description": "The Women and Gender Diverse People in Tech are continuing our speaker series in September! Our speaker this month is TBC, so watch this space.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
+      "title": "WGDPTech Monthly Meet-up - Jordan Freeman",
+      "description": "The Women and Gender Diverse People in Tech are continuing our speaker series in September! Our speaker this month is Jordan Freeman!\n\nJordan, a fervent advocate for the transformative potential of technology, will be presenting her insights drawn from a 10-year journey in the digital domain. As a Senior Project Manager and Senior Delivery Lead, she has steered a multitude of digital transformation projects ranging from ambitious undertakings for universities and national companies to large-scale multinational initiatives.\n\nThe focal point of her presentation, however, will be her personal journey living with an invisible disability. Jordan will share the unique challenges she faced within the corporate environment, shedding light on the intricate balance between accommodating her condition and excelling in her profession.\n\nJordan's passion for technology and her desire to address social issues has guided her towards her own startup venture, channelling the power of digital tools to carve pathways of social inclusion for people with disability.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-09-14T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/295435981",
       "going": 2,
