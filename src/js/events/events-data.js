@@ -1,4 +1,4 @@
-// Auto Generated on 2023-08-19T13:18:18.205Z
+// Auto Generated on 2023-08-20T13:17:15.268Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "For our September meeting, we will have Cole Cornford delivering his lock note talk from Cloud Security Summit 2023, looking at Application Security and securing your Kubernetes containers.\n\nWe'll be hosted out of MudBath Digital in Hunter Street.\n\nThere is some on street parking available in the vicinity and the closest public transport is the Honeysuckle light rail stop.\n\nWe'll be providing pizza, soft drink, water, beer and wine.\n\n**Agenda**\n\n* 6:00 - Doors open / drinks / pizza\n\n* 6:30 - Tech news\n\n* 6:45 - Cole Cornford\n\n* 7:45 - Drinks / pizza\n\n**The talk**\n\nContainers have radically transformed how organisations manage and deploy applications. Kubernetes has emerged as a leading platform for orchestrating these containers. However, as its usage soars, so do associated security risks.\n\nThis presentation will cover the following:\n\n- Delving into Kubernetes security basics and prevalent threats\n\n- Sharing strategies for fortifying Kubernetes clusters\n\n- Highlighting case studies of successful Kubernetes security practices.\n\n**About Cole**\n\nCole is the Founder and CEO of Galah Cyber, Australia’s leading Application Security consultancy. Cole founded Galah after working w/ internationally recognised organisations to plan, implement, and operate large-scale Application Security programs. Cole has been honored to be the Occasional Speaker for the University of Newcastle 2023 Graduation, founded the /NEW regional technology conference, and helps operate and guide the Newwwie Digital Community for technologists in the Hunter Region.\n\nCole is well known in the Australian security scene, having penned thought-provoking articles about software engineering with a security lens, and regularly presenting at BSides, AISA, and other engineering conferences around the country. Cole is the host of the Secured podcast, which focuses on the humans and business side of Cybersecurity, and is the father of two daughters, Monica and Xinni. He enjoys crushing Xinni at Mariokart, but waits patiently for when the student becomes the master.",
       "dateTime": "2023-09-06T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/295539181",
-      "going": 9,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/515222117/676x380.webp",
