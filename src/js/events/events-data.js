@@ -1,4 +1,4 @@
-// Auto Generated on 2023-09-28T13:25:22.483Z
+// Auto Generated on 2023-09-29T13:21:09.600Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "We're back on October 4. We'll have John Roach, Peter Drew and Alannah Davidson leading a discussion on advice for new Programmers.\nAlannah, John and Peter will share their valuable tips for new programmers. These three are at different stages of their careers and have had different paths through those careers.\n\nThis interactive talk invites the audience to participate asking questions and providing their own tips. Whether you’re just starting out, looking to improve your skills, or keen to share what you’ve learned over 10 years or 10 minutes in the industry, this is a must-attend event for any aspiring programmer. Come and learn from experienced professionals in the field and take your coding abilities to the next level!",
       "dateTime": "2023-10-04T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296376487",
-      "going": 3,
+      "going": 5,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516160931/676x380.webp",
