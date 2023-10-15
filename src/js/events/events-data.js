@@ -1,4 +1,4 @@
-// Auto Generated on 2023-10-14T13:17:58.388Z
+// Auto Generated on 2023-10-15T13:18:22.283Z
  module.exports = [
   {
     "event": {
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "WGDPTech Monthly Meet-up - Setting yourself up for leadership Panel Event",
+      "description": "The Women and Gender Diverse People in Tech are ending the year of wonderful monthly events with a bang - putting together our first panel event! As voted by our members (on Slack and Linkedin, give us a follow <3), our topic for the night will be; how to set yourself up for leadership!\n\nOur panelists will be announced in the lead up to the event. Who else is excited?!\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
+      "dateTime": "2023-11-09T17:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/296733333",
+      "going": 2,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516565658/676x380.webp",
+      "venue": {
+        "name": "NewyTechPeople",
+        "lat": -32.921635,
+        "lng": 151.75789,
+        "address": "24 Lindus St",
+        "city": "Wickham"
+      }
+    },
+    "group": {
+      "name": "Women & Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "groupPhoto": {
+        "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "516565764",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
