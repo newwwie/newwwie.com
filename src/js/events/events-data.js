@@ -1,4 +1,4 @@
-// Auto Generated on 2023-10-16T13:22:21.839Z
+// Auto Generated on 2023-10-17T13:21:55.723Z
  module.exports = [
   {
     "event": {
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "November: Dev Super Powers - Unit Testing - Klee Thomas",
+      "description": "Details to come, but what we can share with you now is that Klee Thomas will be exploring one of the things he's passionate about and that is testing. We know Klee is a big proponent of TDD and Clean Code so you can expect both of these topics to come up.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Drinks and pizza will be provided.",
+      "dateTime": "2023-11-01T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
+      "venue": {
+        "name": "King's Own Institute Newcastle",
+        "lat": -32.92978,
+        "lng": 151.7736,
+        "address": "59 Darby St",
+        "city": "Cooks Hill"
+      }
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
