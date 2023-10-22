@@ -1,4 +1,4 @@
-// Auto Generated on 2023-10-21T13:18:10.451Z
+// Auto Generated on 2023-10-22T13:18:11.216Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Howdy Coders,\nWe're back in November for our last regularly scheduled meeting of the year. This month we'll have Klee Thomas going deep on unit testing.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Kings Own Institue is a private education provider that has opened a Newcastle campus. The closest parking to the venue is the Civic Public Carpark (the Art Gallery) on Queen Street.\n\nLike every month we'll have drinks and pizza provided so all you need to bring is your best self.\n\n**About the talk:**\nIn this talk, Klee will go deep on unit testing. Klee firmly believes that unit testing and Test Driven Development is a superpower… but it doesn’t come naturally. Klee will go through a bit about what unit testing is and why we do it before going deeper, looking at Test Driven Development testing patterns and, probably more importantly, Unit Testing anti-patterns.\nThis talk will have something for you, whether you’re new to unit testing and wondering how to improve the stability of your code or if you’re a long-term tester looking to polish up the rough edges of your testing game.\n\n**About the speaker:**\nKlee is a Software Developer working at Atlassian, a member of the Auth0 Ambassador program, and an organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development, Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2023-11-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
-      "going": 5,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
