@@ -1,45 +1,12 @@
-// Auto Generated on 2023-10-24T13:21:58.809Z
+// Auto Generated on 2023-10-25T13:20:48.121Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG October 2023 | Helping government to build secure software at speed",
-      "description": "G'day all! This month we have Cole Cornford giving a repeat of his keynote presentation from the Australian Parliament House Cyber Conference.\n\nCole is a Galah.\n\n\\-\\-\\-\n\nIn 2011, Marc Andreessen wrote that “Software is eating the world”. Well, 12 years later it has truly eaten it. Digital offerings are the minimum expectation for government services. Citizens want clear and optimised processes. They want convenience. They want trusted and resilient platforms. The APS is building a lot of software to meet these demands. But security remains a thorny challenge.\nCybersecurity continues to be driven by compliance, reactive in nature, and at odds with building great digital experiences. But it doesn’t need to be, and that’s where Application Security programs come in. Join Cole as he discusses the options available for governments to pursue to enable high-velocity software engineering while keeping our citizens safe.\n\n**Event details:**\n\nDate: **WEDNESDAY** October 25th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - bottom floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2023-10-25T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/296803953",
-      "going": 27,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516640942/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "November: Dev Super Powers - Unit Testing - Klee Thomas",
       "description": "Howdy Coders,\nWe're back in November for our last regularly scheduled meeting of the year. This month we'll have Klee Thomas going deep on unit testing.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Kings Own Institue is a private education provider that has opened a Newcastle campus. The closest parking to the venue is the Civic Public Carpark (the Art Gallery) on Queen Street.\n\nLike every month we'll have drinks and pizza provided so all you need to bring is your best self.\n\n**About the talk:**\nIn this talk, Klee will go deep on unit testing. Klee firmly believes that unit testing and Test Driven Development is a superpower… but it doesn’t come naturally. Klee will go through a bit about what unit testing is and why we do it before going deeper, looking at Test Driven Development testing patterns and, probably more importantly, Unit Testing anti-patterns.\nThis talk will have something for you, whether you’re new to unit testing and wondering how to improve the stability of your code or if you’re a long-term tester looking to polish up the rough edges of your testing game.\n\n**About the speaker:**\nKlee is a Software Developer working at Atlassian, a member of the Auth0 Ambassador program, and an organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development, Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2023-11-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
-      "going": 17,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
@@ -94,6 +61,39 @@
       },
       "logo": {
         "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "data.NOV <- Jackson Clarke: Data-Driven Solutions from First Principles",
+      "description": "***Data-Driven Solutions from First Principles***\n\n🗣️**Talk Description**: This is a talk by example and anecdote. The general theme is to share how a group of mathematicians and physicists have brought (and are bringing) first principles approaches driven by the scientific method to bear to solve industry problems in innovative ways. It will cover topics ranging from designing and operating a scalable on-demand ensemble forecasting service, to building bespoke server clusters out of recycled bus shelters, and all manner of topics (and stories) in between.\n\n🎙️**Speaker Bio**: Jackson is a Novocastrian with undergraduate degrees in Physics and Mathematics from the University of Newcastle, and a Masters and PhD in Physics (phenomenological particle physics) from the University of Melbourne. He has been working to bring first principles data-driven approaches to life in industry since 2016 across sectors including engineering, construction, architecture, health, finance, property, commodities, banking, and energy. He is now back home in Newcastle working with a first-class team to establish Tentacle as the world's #1 prediction-as-a-service provider out of a factory unit in Redhead, ten minutes walk from the beach.\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
+      "dateTime": "2023-11-16T17:30+11:00",
+      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/296946629",
+      "going": 3,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516808850/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Hunter Data Analytics",
+      "urlname": "hunter-data-analytics",
+      "groupPhoto": {
+        "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483576656",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
