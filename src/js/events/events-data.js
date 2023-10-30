@@ -1,4 +1,4 @@
-// Auto Generated on 2023-10-29T13:18:36.392Z
+// Auto Generated on 2023-10-30T13:21:00.111Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\nWe're back in November for our last regularly scheduled meeting of the year. This month we'll have Klee Thomas going deep on unit testing.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Kings Own Institue is a private education provider that has opened a Newcastle campus. The closest parking to the venue is the Civic Public Carpark (the Art Gallery) on Queen Street.\n\nLike every month we'll have drinks and pizza provided so all you need to bring is your best self.\n\n**About the talk:**\nIn this talk, Klee will go deep on unit testing. Klee firmly believes that unit testing and Test Driven Development is a superpower… but it doesn’t come naturally. Klee will go through a bit about what unit testing is and why we do it before going deeper, looking at Test Driven Development testing patterns and, probably more importantly, Unit Testing anti-patterns.\nThis talk will have something for you, whether you’re new to unit testing and wondering how to improve the stability of your code or if you’re a long-term tester looking to polish up the rough edges of your testing game.\n\n**About the speaker:**\nKlee is a Software Developer working at Atlassian, a member of the Auth0 Ambassador program, and an organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development, Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2023-11-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
-      "going": 19,
+      "going": 27,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "The Women and Gender Diverse People in Tech are ending the year of wonderful monthly events with a bang - putting together our first panel event! As voted by our members (on Slack and Linkedin, give us a follow <3), our topic for the night will be; how to set yourself up for leadership!\n\nOur panelists will be announced in the lead up to the event. Who else is excited?!\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-11-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/296733333",
-      "going": 19,
+      "going": 20,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516565658/676x380.webp",
