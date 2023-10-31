@@ -1,4 +1,4 @@
-// Auto Generated on 2023-10-30T13:21:00.111Z
+// Auto Generated on 2023-10-31T13:20:49.261Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders,\nWe're back in November for our last regularly scheduled meeting of the year. This month we'll have Klee Thomas going deep on unit testing.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Kings Own Institue is a private education provider that has opened a Newcastle campus. The closest parking to the venue is the Civic Public Carpark (the Art Gallery) on Queen Street.\n\nLike every month we'll have drinks and pizza provided so all you need to bring is your best self.\n\n**About the talk:**\nIn this talk, Klee will go deep on unit testing. Klee firmly believes that unit testing and Test Driven Development is a superpower… but it doesn’t come naturally. Klee will go through a bit about what unit testing is and why we do it before going deeper, looking at Test Driven Development testing patterns and, probably more importantly, Unit Testing anti-patterns.\nThis talk will have something for you, whether you’re new to unit testing and wondering how to improve the stability of your code or if you’re a long-term tester looking to polish up the rough edges of your testing game.\n\n**About the speaker:**\nKlee is a Software Developer working at Atlassian, a member of the Auth0 Ambassador program, and an organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development, Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
       "dateTime": "2023-11-01T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
-      "going": 27,
+      "going": 30,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "General Networking (home automation, general IoT updates etc.)",
+      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 2nd of November, where we'll be hosting an open discussion and networking event focused on multiple IoT topics.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
+      "dateTime": "2023-11-02T18:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/297063491",
+      "going": 4,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516960625/676x380.webp",
+      "venue": {
+        "name": "Stag & Hunter Hotel",
+        "lat": -32.897324,
+        "lng": 151.73674,
+        "address": "187 Maitland Rd",
+        "city": "Mayfield"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -72,7 +105,7 @@
       "description": "***Data-Driven Solutions from First Principles***\n\n🗣️**Talk Description**: This is a talk by example and anecdote. The general theme is to share how a group of mathematicians and physicists have brought (and are bringing) first principles approaches driven by the scientific method to bear to solve industry problems in innovative ways. It will cover topics ranging from designing and operating a scalable on-demand ensemble forecasting service, to building bespoke server clusters out of recycled bus shelters, and all manner of topics (and stories) in between.\n\n🎙️**Speaker Bio**: Jackson is a Novocastrian with undergraduate degrees in Physics and Mathematics from the University of Newcastle, and a Masters and PhD in Physics (phenomenological particle physics) from the University of Melbourne. He has been working to bring first principles data-driven approaches to life in industry since 2016 across sectors including engineering, construction, architecture, health, finance, property, commodities, banking, and energy. He is now back home in Newcastle working with a first-class team to establish Tentacle as the world's #1 prediction-as-a-service provider out of a factory unit in Redhead, ten minutes walk from the beach.\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2023-11-16T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/296946629",
-      "going": 15,
+      "going": 16,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516808850/676x380.webp",
