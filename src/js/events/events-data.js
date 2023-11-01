@@ -1,45 +1,12 @@
-// Auto Generated on 2023-10-31T13:20:49.261Z
+// Auto Generated on 2023-11-01T13:20:23.937Z
  module.exports = [
-  {
-    "event": {
-      "title": "November: Dev Super Powers - Unit Testing - Klee Thomas",
-      "description": "Howdy Coders,\nWe're back in November for our last regularly scheduled meeting of the year. This month we'll have Klee Thomas going deep on unit testing.\n\nWe'll be hosted at a new venue Kings Own Institute on Darby Street. Kings Own Institue is a private education provider that has opened a Newcastle campus. The closest parking to the venue is the Civic Public Carpark (the Art Gallery) on Queen Street.\n\nLike every month we'll have drinks and pizza provided so all you need to bring is your best self.\n\n**About the talk:**\nIn this talk, Klee will go deep on unit testing. Klee firmly believes that unit testing and Test Driven Development is a superpower… but it doesn’t come naturally. Klee will go through a bit about what unit testing is and why we do it before going deeper, looking at Test Driven Development testing patterns and, probably more importantly, Unit Testing anti-patterns.\nThis talk will have something for you, whether you’re new to unit testing and wondering how to improve the stability of your code or if you’re a long-term tester looking to polish up the rough edges of your testing game.\n\n**About the speaker:**\nKlee is a Software Developer working at Atlassian, a member of the Auth0 Ambassador program, and an organiser of the Newcastle Coders Group. He is an advocate of agile and Clean Code software development methodologies who loves to talk about what we can do to build better quality, maintainable software. Outside of software development, Klee is a fan of Martial Arts, Motorcycles, Netflix and spending time with his wife and cats.",
-      "dateTime": "2023-11-01T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/296788693",
-      "going": 30,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516571920/676x380.webp",
-      "venue": {
-        "name": "King's Own Institute Newcastle",
-        "lat": -32.92978,
-        "lng": 151.7736,
-        "address": "59 Darby St",
-        "city": "Cooks Hill"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "General Networking (home automation, general IoT updates etc.)",
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 2nd of November, where we'll be hosting an open discussion and networking event focused on multiple IoT topics.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2023-11-02T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/297063491",
-      "going": 4,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516960625/676x380.webp",
