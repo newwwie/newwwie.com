@@ -1,12 +1,12 @@
-// Auto Generated on 2023-11-05T13:18:42.258Z
+// Auto Generated on 2023-11-06T13:22:32.060Z
  module.exports = [
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up - Setting yourself up for leadership Panel Event",
-      "description": "The Women and Gender Diverse People in Tech are ending the year of wonderful monthly events with a bang - putting together our first panel event! As voted by our members (on Slack and Linkedin, give us a follow <3), our topic for the night will be; how to set yourself up for leadership!\n\nOur panelists will be announced in the lead up to the event. Who else is excited?!\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
+      "description": "The Women and Gender Diverse People in Tech are ending the year of wonderful monthly events with a bang - putting together our first panel event! As voted by our members (on Slack and Linkedin, give us a follow <3), our topic for the night will be; how to set yourself up for leadership!\n\nWe’re super excited to have some exceptional women leaders on this panel including [Beck Sheperd](https://www.linkedin.com/in/rebecca-shepherd-045018208/), [Cathy Lill](https://www.linkedin.com/in/cathylill/) and [Linda Apostolidis](https://www.linkedin.com/in/lindaapostolidis/)!\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nWe'll gather at the NewyTechPeople office at 24 Lindus Street, Wickham for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2023-11-09T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/296733333",
-      "going": 21,
+      "going": 24,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/516565658/676x380.webp",
