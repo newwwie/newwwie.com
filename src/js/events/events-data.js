@@ -1,4 +1,4 @@
-// Auto Generated on 2024-01-21T13:20:54.655Z
+// Auto Generated on 2024-01-22T13:23:12.073Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "The Women and Gender Diverse People in Tech is kicking off the year with a speaker event! In February we are kicking off the year with a talk themed 'How giving up could be the key to success' by the wonderful Sophie Benjamin, UX Content Designer at Canva!\n\nSophie Benjamin is a UX Content Designer at Canva, who ended up in tech after stints in music, journalism and communications. She’ll be talking about reframing quitting things in an era and industry that glorifies hustle, and how throwing in the towel led to her biggest successes.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\n**We've had a change of location!** We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2024-02-08T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/298574749",
-      "going": 12,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/512790282/676x380.webp",
