@@ -1,4 +1,4 @@
-// Auto Generated on 2024-01-25T13:22:32.582Z
+// Auto Generated on 2024-01-26T13:18:56.741Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 1st of February and learn more about the future of IoT with Ericom's senior team.\n\nFeaturing senior solution architects, Matthew Redpath and Michael McGrath. With Ericom's 30-year legacy in delivering top-tier technology solutions, this session highlights the intersection of technical and practical application.\n\nMatthew will explore Ericom's ambitions for IoT impact in water, showcasing smarter, connected solutions for better outcomes. Following him, Michael will delve into the advanced world of Machine Vision as a Service.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-02-01T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/298741246",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518672870/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "We're back for our first meeting of 2024, with [Leanora Horne](https://www.linkedin.com/in/leanorahorne/) speaking about her award winning communication strategies for developers.\n\nIn this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Lenora has developed over her product management carrer have resulted in her winning 2 global communication awards.\n\nThis talk is super important for anyone who wants to progress into senior roles in software development. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing.\nThis talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\n**Agenda:**\n6:00 pm - Door open, pizza and drinks\n6:30 pm - Intro and tech news\n6:45 pm - Leanora Horne - 404 to Fluent\n7:30 pm - Drinks and discussions",
       "dateTime": "2024-02-07T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298520915",
-      "going": 28,
+      "going": 29,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518515429/676x380.webp",
