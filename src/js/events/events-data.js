@@ -1,4 +1,4 @@
-// Auto Generated on 2024-01-27T13:17:18.385Z
+// Auto Generated on 2024-01-28T13:18:53.625Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 1st of February and learn more about the future of IoT with Ericom's senior team.\n\nFeaturing senior solution architects, Matthew Redpath and Michael McGrath. With Ericom's 30-year legacy in delivering top-tier technology solutions, this session highlights the intersection of technical and practical application.\n\nMatthew will explore Ericom's ambitions for IoT impact in water, showcasing smarter, connected solutions for better outcomes. Following him, Michael will delve into the advanced world of Machine Vision as a Service.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-02-01T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/298741246",
-      "going": 11,
+      "going": 12,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518672870/676x380.webp",
