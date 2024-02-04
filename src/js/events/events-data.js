@@ -1,4 +1,4 @@
-// Auto Generated on 2024-02-03T13:17:12.895Z
+// Auto Generated on 2024-02-04T13:19:35.097Z
  module.exports = [
   {
     "event": {
@@ -94,6 +94,33 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "March: Looking for speakers",
+      "description": "We don't currently have a speaker lined up for March, if you'd like to speak please reach out.",
+      "dateTime": "2024-03-06T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
