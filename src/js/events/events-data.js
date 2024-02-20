@@ -1,4 +1,4 @@
-// Auto Generated on 2024-02-19T13:18:56.310Z
+// Auto Generated on 2024-02-20T13:20:17.694Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "Howdy Coders, for March we've got Leanora Horne speaking about communicating. She's back, rearing to go after her bout of COVID, and ready to teach you about one of the most important skills you can have as a developer: how to talk to stakeholders.\n\nCommunication skills are one of the most important skills you can grow as a software developer. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing. In this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Leanora has developed over her product management career have resulted in her winning 2 global communication awards. Whilst this talk is aimed at developers, you can take these insights with you in any stakeholder situation. This talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\nAgenda:\n\n* 6:00 pm - Door open, pizza and drinks\n* 6:30 pm - Intro and tech news\n* 6:45 pm - Leanora Horne - 404 to Fluent\n* 7:30 pm - Drinks and discussions",
       "dateTime": "2024-03-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519199234/676x380.webp",
@@ -134,6 +134,33 @@
   },
   {
     "event": {
+      "title": "April: Andrew Goodwin: Building a time series database",
+      "description": "In April we'll be back with Andrew Goodwin talking about the time series database that he's been developing for the last 9 years.\nMore details to come",
+      "dateTime": "2024-04-03T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305515",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "WGDPTech Monthly Meet-up - TBA",
       "description": "SAVE THE DATE! The Women and Gender Diverse People in Tech will have an event, what it is though that's a mystery... until we announce it that is.\n\nThe event will start at 5:30pm!\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-04-11T17:30+10:00",
@@ -160,6 +187,33 @@
       },
       "logo": {
         "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "May: Mark Wallis -  Microservices and large scale API consumption",
+      "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
+      "dateTime": "2024-05-01T19:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
