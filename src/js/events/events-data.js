@@ -1,4 +1,4 @@
-// Auto Generated on 2024-02-22T13:20:12.260Z
+// Auto Generated on 2024-02-23T13:18:37.522Z
  module.exports = [
   {
     "event": {
@@ -72,7 +72,7 @@
       "description": "For the March edition of the Women and Gender-Diverse People in Tech, we're excited to announce that our speaker will be Carolyn Breeze, CEO, Scalare Partners!\n\nCarolyn is a leader in empowering organisations to drive inclusion and equality through technology and accessibility. With over 25 years of experience in technology, fintech, telecommunications and eCommerce, she has received numerous accolades for her work, including CEO Magazine's IT and Telecommunications Executive of the Year in 2018, Business Insider's top 21 Women in Fintech, and the Advocate for Women award at the 2019 Woman in Payments Symposium. Most recently, Carolyn was recognised as Fintech Leader of the Year at the 2021 Woman in Finance Awards.\n\nAs an executive leader at Zepto, GoCardless, Braintree, PayPal, and eBay, Carolyn is known for driving digital innovation and commercial success. In addition to her corporate experience, she also provides advisory services in payments, open data, fintech, automation, and commercialisation strategies to clients across various sectors. Carolyn is a sought-after public speaker and thought leader in the Australian startup and tech industries.\n\nIn her presentation, Carolyn will talk on capital raising as a woman in the entrepreneurial space, pulling on her extensive experience in the area. She'll also cover her journey into fintech and all the learnings along the way. If you're looking to hear from an inspirational leader in technology, this is the talk for you!\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\n**We've had a change of location!** We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nThere will be pizza and refreshments provided. Please let Arden or Sarah know of any dietaries you have beforehand.",
       "dateTime": "2024-03-14T17:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/299026493",
-      "going": 17,
+      "going": 18,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
