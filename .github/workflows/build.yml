@@ -2,7 +2,7 @@ name: Build
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, main ]
   schedule:
     - cron:  '00 13 * * *'
 
@@ -25,7 +25,7 @@ jobs:
         run: npm ci
       - run: npm run fetchEvents
       - run: npm run build
-      - name: Commit events.json
+      - name: Commit events-data.js
         run: |
           git status
           git config --global user.name 'Newwwie Bot'
