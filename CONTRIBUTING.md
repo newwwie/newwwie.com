@@ -98,7 +98,7 @@ Pulls from the Meetup API based on a list of approved Meetup Group IDs.
 
 [`fetch-events/meetups.js`](fetch-events/meetups.js)
 
-You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/master/fetch-events/meetups.js)
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/fetch-events/meetups.js)
 
 ## Communities page
 
@@ -110,7 +110,7 @@ If you would like to get added, the content is in:
 
 [`src/js/communities/community-data.js`](src/js/communities/community-data.js) 
 
-You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/master/src/js/communities/community-data.js)
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.js)
 
 
 Here is an example of a high quality entry:
