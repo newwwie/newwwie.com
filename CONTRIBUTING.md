@@ -89,3 +89,45 @@ If you aren't already on Newwwie Slack then [get an invite](https://newwwie.com/
 Then head to the [`#_newwwie_contributors`](https://newwwie.slack.com/archives/C06LRQDN3PD) channel.
 
 We are still working on having hack days where we can meetup in person and hack away at issues.
+
+---
+
+## Event feed
+
+Pulls from the Meetup API based on a list of approved Meetup Group IDs. 
+
+[`fetch-events/meetups.js`](fetch-events/meetups.js)
+
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/master/fetch-events/meetups.js)
+
+## Communities page
+
+We have a bunch of lovely affiliated communities:
+
+https://newwwie.com/#community
+
+If you would like to get added, the content is in:
+
+[`src/js/communities/community-data.js`](src/js/communities/community-data.js) 
+
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/master/src/js/communities/community-data.js)
+
+
+Here is an example of a high quality entry:
+
+```json
+{
+    name: "Newcastle Women and Gender Diverse People in Tech",
+    location: "NewyTechPeople Office",
+    period: {
+        interval: "Monthly",
+        day: "2nd",
+        weekDay: "Thurs"
+    },
+    links: {
+        meetUp: "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/"
+    },
+    demographic: "Women and Gender Diverse people who are in the technology field, a field adjacent to it, or have an interest in tech and would like to meet some lovely people who feel the same.",
+    format: "The format varies but will often include networking/socialising and a presentation."
+}
+```
