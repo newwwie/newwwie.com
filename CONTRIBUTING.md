@@ -78,7 +78,9 @@ We strongly recommend that when creating a pull request you do the following ste
 
 > **!!! IMPORTANT !!!**: Step 2 & 5 above are important, often there are branch protections on `main` branches, when opening a PR please let us have permission to edit your branch as sometimes the feedback given are little tweaks that are easier for us to just ammend and push.
 
-Please at-mention `@newwwie/reviewers-approvers` on the PR to notify the team a PR is open.
+Please set `@newwwie/reviewers-approvers` on the PR to notify the team a PR is open.
+
+![Add newwwie/reviewers-approvers team to a pull request.](docs/images/pull-request-reviewers.png)
 
 ## Slack Channel
 
