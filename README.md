@@ -11,16 +11,16 @@ The source for [newwwie.com](https://newwwie.com). The project is really barebon
 
 It takes a community to build the community.
 
-## Commands
+## Quickstart
 
-### Get the project going
-`npm install`
+```sh
+git clone https://github.com/newwwie/newwwie.com
+cd newwwie.com
+npm install
+npm run dev
+```
 
-### Run hot reloading development environment
-`npm run dev`
-
-### Build for production
-`npm run build`
+For more information please see our [Contributing Guide](CONTRIBUTING.md)
 
 ## Event feed
 
