@@ -80,9 +80,12 @@
   </div>
 
   <div>
-    <span>© 2023</span>
+    <span id="year"></span>
     <a href="https://github.com/newwwie/Code-Of-Conduct/blob/master/README.md" rel="external">Code of conduct</a>
     <a href="https://github.com/newwwie/newwwie.com" rel="external">Edit on Github</a>
+    <script>
+      document.querySelector("#year").innerHTML = `© ${new Date().getFullYear()}`
+    </script>
   </div>
 </nav>
 <main class="content">
