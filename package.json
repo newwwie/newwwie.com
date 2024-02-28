@@ -9,7 +9,8 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",
-    "fetchEvents": "node ./fetch-events/index.js"
+    "fetchEvents": "node ./fetch-events/index.js",
+    "test": "playwright test"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,8 @@
   "devDependencies": {
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
+    "@playwright/test": "^1.42.0",
+    "@types/node": "^20.11.21",
     "autoprefixer": "^10.4.7",
     "babel-loader": "^8.2.5",
     "babel-plugin-transform-react-jsx": "^6.24.1",
