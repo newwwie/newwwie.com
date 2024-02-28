@@ -1,45 +1,12 @@
-// Auto Generated on 2024-02-28T00:55:14.513Z
+// Auto Generated on 2024-02-28T11:24:59.255Z
  module.exports = [
-  {
-    "event": {
-      "title": "NCSG February 2024 | Managing Vulnerability Management Responsibly",
-      "description": "G'day all! This month we have Matthew Flanagan the Director and Principal Cyber Security Consultant at [Cybliminal.com](http://cybliminal.com/) presenting on how organisations might better approach vulnerability management prioritisation and backlog breakdown to ensure an risk reduction is maximised and resource allocation is applied optimally.\n\n\\-\\-\\-\n\nVulnerability management tools typically overwhelm organisations with a large number of findings and do little to help them quickly assess and prioritise the critical vulnerabilities impacting their most exposed systems. Matthew will discuss the current industry approaches and how they can be adapted to suit your organisation and improve the effectiveness of your vulnerability management program.\n\n**Event details:**\n\nDate: **WEDNESDAY** February 28th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2024-02-28T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927175",
-      "going": 40,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518845042/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "March: Leanora Horne - 404 to Fluent (rescheduled from Feb)",
       "description": "Howdy Coders, for March we've got Leanora Horne speaking about communicating. She's back, rearing to go after her bout of COVID, and ready to teach you about one of the most important skills you can have as a developer: how to talk to stakeholders.\n\nCommunication skills are one of the most important skills you can grow as a software developer. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing. In this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Leanora has developed over her product management career have resulted in her winning 2 global communication awards. Whilst this talk is aimed at developers, you can take these insights with you in any stakeholder situation. This talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\nAgenda:\n\n* 6:00 pm - Door open, pizza and drinks\n* 6:30 pm - Intro and tech news\n* 6:45 pm - Leanora Horne - 404 to Fluent\n* 7:30 pm - Drinks and discussions",
       "dateTime": "2024-03-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
-      "going": 17,
+      "going": 18,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519199234/676x380.webp",
