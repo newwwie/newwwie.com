@@ -1,4 +1,4 @@
-// Auto Generated on 2024-02-28T13:18:17.581Z
+// Auto Generated on 2024-02-29T13:18:16.455Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders, for March we've got Leanora Horne speaking about communicating. She's back, rearing to go after her bout of COVID, and ready to teach you about one of the most important skills you can have as a developer: how to talk to stakeholders.\n\nCommunication skills are one of the most important skills you can grow as a software developer. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing. In this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Leanora has developed over her product management career have resulted in her winning 2 global communication awards. Whilst this talk is aimed at developers, you can take these insights with you in any stakeholder situation. This talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\nAgenda:\n\n* 6:00 pm - Door open, pizza and drinks\n* 6:30 pm - Intro and tech news\n* 6:45 pm - Leanora Horne - 404 to Fluent\n* 7:30 pm - Drinks and discussions",
       "dateTime": "2024-03-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
-      "going": 18,
+      "going": 19,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519199234/676x380.webp",
@@ -28,6 +28,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "The Missing Link between Robotics and IoT",
+      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 7th of March and learn more about the missing link between Robotics and IoT.\n\nFeaturing Dr James Roberts - PhD and founder of AUSTRALIAN AERONAUTICS.\n\nRobotics and IoT share a common goal: \"to make life easier for humans\". So what are the differences, and how do these two topics come together in the Past, Present and Future tense? Dr James will introduce these two topics and lead a discussion that will bring in some examples from his Past and Present Drone related projects.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
+      "dateTime": "2024-03-07T18:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/299493347",
+      "going": 9,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519438076/676x380.webp",
+      "venue": {
+        "name": "Stag & Hunter Hotel",
+        "lat": -32.897324,
+        "lng": 151.73674,
+        "address": "187 Maitland Rd",
+        "city": "Mayfield"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -72,7 +105,7 @@
       "description": "This event is a placeholder event\n\n**Event details:**\n\nDate: **WEDNESDAY** March 27th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2024-03-27T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927238",
-      "going": 5,
+      "going": 7,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
@@ -214,6 +247,39 @@
       },
       "logo": {
         "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG May 2024 | Placeholder Event",
+      "description": "This event is a placeholder event\n\n**Event details:**\n\nDate: **WEDNESDAY** May 29th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
+      "dateTime": "2024-05-29T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927258",
+      "going": 4,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
