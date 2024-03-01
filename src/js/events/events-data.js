@@ -1,4 +1,4 @@
-// Auto Generated on 2024-03-01T08:04:12.208Z
+// Auto Generated on 2024-03-01T13:18:29.827Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 7th of March and learn more about the missing link between Robotics and IoT.\n\nFeaturing Dr James Roberts - PhD and founder of AUSTRALIAN AERONAUTICS.\n\nRobotics and IoT share a common goal: \"to make life easier for humans\". So what are the differences, and how do these two topics come together in the Past, Present and Future tense? Dr James will introduce these two topics and lead a discussion that will bring in some examples from his Past and Present Drone related projects.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-03-07T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/299493347",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519438076/676x380.webp",
