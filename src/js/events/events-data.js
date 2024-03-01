@@ -1,4 +1,4 @@
-// Auto Generated on 2024-02-29T13:18:16.455Z
+// Auto Generated on 2024-03-01T08:04:12.208Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders, for March we've got Leanora Horne speaking about communicating. She's back, rearing to go after her bout of COVID, and ready to teach you about one of the most important skills you can have as a developer: how to talk to stakeholders.\n\nCommunication skills are one of the most important skills you can grow as a software developer. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing. In this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Leanora has developed over her product management career have resulted in her winning 2 global communication awards. Whilst this talk is aimed at developers, you can take these insights with you in any stakeholder situation. This talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\nAgenda:\n\n* 6:00 pm - Door open, pizza and drinks\n* 6:30 pm - Intro and tech news\n* 6:45 pm - Leanora Horne - 404 to Fluent\n* 7:30 pm - Drinks and discussions",
       "dateTime": "2024-03-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
-      "going": 19,
+      "going": 20,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519199234/676x380.webp",
