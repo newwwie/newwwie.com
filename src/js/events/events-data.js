@@ -1,4 +1,4 @@
-// Auto Generated on 2024-03-01T13:18:29.827Z
+// Auto Generated on 2024-03-02T09:34:53.979Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "Howdy Coders, for March we've got Leanora Horne speaking about communicating. She's back, rearing to go after her bout of COVID, and ready to teach you about one of the most important skills you can have as a developer: how to talk to stakeholders.\n\nCommunication skills are one of the most important skills you can grow as a software developer. The biggest difference between junior developers and senior, principal and staff developers is not the amount of code they can write; it's how they communicate with their teams and stakeholders to ensure that they're aligned and building the right thing. In this talk, Leanora will share strategies for creating genuine stakeholder relationships to drive the best product development outcomes. The strategies Leanora has developed over her product management career have resulted in her winning 2 global communication awards. Whilst this talk is aimed at developers, you can take these insights with you in any stakeholder situation. This talk will be one that you'll be able to walk away with ideas that you can implement immediately.\n\nAgenda:\n\n* 6:00 pm - Door open, pizza and drinks\n* 6:30 pm - Intro and tech news\n* 6:45 pm - Leanora Horne - 404 to Fluent\n* 7:30 pm - Drinks and discussions",
       "dateTime": "2024-03-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/298986714",
-      "going": 20,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519199234/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 7th of March and learn more about the missing link between Robotics and IoT.\n\nFeaturing Dr James Roberts - PhD and founder of AUSTRALIAN AERONAUTICS.\n\nRobotics and IoT share a common goal: \"to make life easier for humans\". So what are the differences, and how do these two topics come together in the Past, Present and Future tense? Dr James will introduce these two topics and lead a discussion that will bring in some examples from his Past and Present Drone related projects.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-03-07T18:30+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/299493347",
-      "going": 10,
+      "going": 14,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/519438076/676x380.webp",
