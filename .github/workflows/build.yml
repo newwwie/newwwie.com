@@ -2,13 +2,12 @@ name: Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   schedule:
-    - cron:  '00 13 * * *'
+    - cron: "00 13 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:

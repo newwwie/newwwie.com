@@ -7,7 +7,7 @@
 
 # Contributing to Newwwie Website
 
-This is a community run by the community and even this website is built by the community. 
+This is a community run by the community and even this website is built by the community.
 
 So if you are reading this... that is YOU! 😊
 
@@ -17,35 +17,34 @@ So if you are reading this... that is YOU! 😊
 
 Make design decisions that:
 
- - Prefer less complexity for a lower barrier to contributing.
- - Make technology choices that give us a high ceiling on sophistication of what we can do or achieve.
- - Make technology choices that are in the current zeitgeist of tools or frameworks that:
-   - Most people might know
-   - or would desire to know
-   - We value facilitating contributions that could be resume building
-  
+- Prefer less complexity for a lower barrier to contributing.
+- Make technology choices that give us a high ceiling on sophistication of what we can do or achieve.
+- Make technology choices that are in the current zeitgeist of tools or frameworks that:
+  - Most people might know
+  - or would desire to know
+  - We value facilitating contributions that could be resume building
 
 ## When Collaborating and Contributing
 
- - Start with kindness and curioristy.
- - All time volunteered is a _gift_.
- - No one is expected to respond in a timely manner like a commercial project.
-   - That means as a maintainer you are not expected to reply to things within a certain timeframe
-   - That means as a contributor you are also held to the same standard
- - Attention will be prioritised by efforts that are closest to tangible improvements eg:
-   1. Pull requests
-   1. Issues
-   1. Discussions
- - Mentorship
-   - If you are senior in your career, please prefer contributing by code review and issue triage instead of pull requests.
-   - If you are junior in your career, we value giving opportunities to contribute publicly.
-  
+- Start with kindness and curioristy.
+- All time volunteered is a _gift_.
+- No one is expected to respond in a timely manner like a commercial project.
+  - That means as a maintainer you are not expected to reply to things within a certain timeframe
+  - That means as a contributor you are also held to the same standard
+- Attention will be prioritised by efforts that are closest to tangible improvements eg:
+  1.  Pull requests
+  1.  Issues
+  1.  Discussions
+- Mentorship
+  - If you are senior in your career, please prefer contributing by code review and issue triage instead of pull requests.
+  - If you are junior in your career, we value giving opportunities to contribute publicly.
+
 # Code Review
 
-There are ***three types of Code Review** inspired by conference talks by Trisha Gee (Jetbrain Java Advocate)
+There are **\*three types of Code Review** inspired by conference talks by Trisha Gee (Jetbrain Java Advocate)
 
- - https://www.youtube.com/watch?v=a9_0UUUNt-Y
- - https://www.youtube.com/watch?v=3pth05Rgr8U&t
+- https://www.youtube.com/watch?v=a9_0UUUNt-Y
+- https://www.youtube.com/watch?v=3pth05Rgr8U&t
 
 ## Draft / Early Feedback
 
@@ -55,7 +54,7 @@ These are great to get early feedback about design decisions before sinking too 
 
 ## Educational
 
-Sometimes the person creating the Pull Request is the Subject Matter Expect (SME) like a @newwwie/core-maintainers. They have authority to just push the change through, but it is important for others to see and follow along what the change _**IS**_ and _**WHY**_. 
+Sometimes the person creating the Pull Request is the Subject Matter Expect (SME) like a @newwwie/core-maintainers. They have authority to just push the change through, but it is important for others to see and follow along what the change _**IS**_ and _**WHY**_.
 
 ## Goalkeeper
 
@@ -66,7 +65,7 @@ The key goals they need to ask themselves when reviewing code:
 > Will this break production?
 > Can someone else reasonably maintain this later?
 
-Sometimes a solution isn't exactly how you would expect it to be solved, that is ok. As a reviewer you should be open to letting these through. This is to help avoid nitpicking. 
+Sometimes a solution isn't exactly how you would expect it to be solved, that is ok. As a reviewer you should be open to letting these through. This is to help avoid nitpicking.
 
 **Nitpicking should never block code getting released**.
 
@@ -155,7 +154,7 @@ We are still working on having hack days where we can meetup in person and hack 
 
 ## Event feed
 
-Pulls from the Meetup API based on a list of approved Meetup Group IDs. 
+Pulls from the Meetup API based on a list of approved Meetup Group IDs.
 
 [`fetch-events/meetups.js`](fetch-events/meetups.js)
 
@@ -169,26 +168,25 @@ https://newwwie.com/#community
 
 If you would like to get added, the content is in:
 
-[`src/js/communities/community-data.js`](src/js/communities/community-data.js) 
+[`src/js/communities/community-data.js`](src/js/communities/community-data.js)
 
 You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.js)
-
 
 Here is an example of a high quality entry:
 
 ```json
 {
-    name: "Newcastle Women and Gender Diverse People in Tech",
-    location: "NewyTechPeople Office",
-    period: {
-        interval: "Monthly",
-        day: "2nd",
-        weekDay: "Thurs"
-    },
-    links: {
-        meetUp: "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/"
-    },
-    demographic: "Women and Gender Diverse people who are in the technology field, a field adjacent to it, or have an interest in tech and would like to meet some lovely people who feel the same.",
-    format: "The format varies but will often include networking/socialising and a presentation."
+  "name": "Newcastle Women and Gender Diverse People in Tech",
+  "location": "NewyTechPeople Office",
+  "period": {
+    "interval": "Monthly",
+    "day": "2nd",
+    "weekDay": "Thurs"
+  },
+  "links": {
+    "meetUp": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/"
+  },
+  "demographic": "Women and Gender Diverse people who are in the technology field, a field adjacent to it, or have an interest in tech and would like to meet some lovely people who feel the same.",
+  "format": "The format varies but will often include networking/socialising and a presentation."
 }
 ```
