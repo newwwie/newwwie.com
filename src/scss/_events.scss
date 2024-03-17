@@ -1,226 +1,222 @@
 .event {
+  &Items {
+    padding: 0;
+  }
 
-    &Items {
-        padding: 0;
+  &Item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+    min-height: 140px;
+    padding-bottom: 1.25rem;
+    padding-top: 1.25rem;
+    position: relative;
+
+    @media (min-width: #{$breakpoint}) {
+      flex-wrap: nowrap;
+
+      &:before {
+        background: $swatch-blue;
+        content: "";
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        transition: 0.2s linear all;
+        width: 1px;
+        z-index: 0;
+      }
+
+      &:nth-child(even):before {
+        width: 4px;
+      }
+
+      &:hover {
+        & .eventItem-image:before {
+          opacity: 0.5;
+        }
+      }
     }
 
-    &Item {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        list-style-type: none;
-        justify-content: space-between;
-        margin-bottom: 1.25rem;
-        min-height: 140px;
-        padding-bottom: 1.25rem;
-        padding-top: 1.25rem;
+    &-left {
+      align-items: center;
+      display: flex;
+      flex-basis: 20%;
+      flex-flow: column;
+      padding-bottom: 0.75rem;
+      text-align: center;
+      z-index: 1;
+
+      @media (min-width: #{$breakpoint}) {
+        flex-basis: 20%;
+        flex-flow: column;
+      }
+    }
+
+    &-right {
+      flex-basis: 70%;
+
+      @media (min-width: #{$breakpoint}) {
+        flex-basis: 60%;
+        padding: 0 20px;
+      }
+    }
+
+    &-left,
+    &-right {
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+
+    &-image {
+      border-radius: 100%;
+      display: flex;
+      flex-grow: 0;
+      flex-shrink: 0;
+      height: 75px;
+      max-width: 75px;
+      overflow: hidden;
+      position: relative;
+      width: 75px;
+
+      @media (min-width: #{$breakpoint}) {
+        flex-basis: auto;
+      }
+
+      &:before {
+        background: $swatch-blue;
+        background: radial-gradient(circle, $swatch-purple 0%, $swatch-blue 60%);
+        border-radius: 100%;
+        content: "";
+        display: block;
+        height: 100%;
+        left: 0;
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        transition: 0.2s linear all;
+        width: 100%;
+        z-index: 2;
+      }
+
+      &_photo {
+        height: 80px;
+      }
+
+      &_notSupplied {
+        background: $swatch-purple;
+        background: radial-gradient(circle, $swatch-purple 0%, $swatch-blue 100%);
+        border: 2px dashed $swatch-lightgray;
+        flex-basis: auto;
         position: relative;
-
-        @media (min-width: #{$breakpoint}) {
-            flex-wrap: nowrap;
-
-            &:before {
-                background: $swatch-blue;
-                content: "";
-                height: 100%;
-                left: 0;
-                position: absolute;
-                top: 0;
-                transition: 0.2s linear all;
-                width: 1px;
-                z-index: 0;
-            }
-
-            &:nth-child(even):before {
-                width: 4px;
-            }
-
-            &:hover {
-                & .eventItem-image:before {
-                    opacity: 0.5;
-                }
-            }
-            
-        }
-
-        &-left {
-            align-items: center;
-            display: flex;
-            flex-basis: 20%;
-            flex-flow: column;
-            padding-bottom: 0.75rem;
-            text-align: center;
-            z-index: 1;
-
-            @media (min-width: #{$breakpoint}) {
-                flex-basis: 20%;
-                flex-flow: column;
-            }
-        }
-
-        &-right {
-            flex-basis: 70%;
-
-            @media (min-width: #{$breakpoint}) {
-                flex-basis: 60%;
-                padding: 0 20px;
-            }
-        }
-
-        &-left, &-right {
-            flex-grow: 0;
-            flex-shrink: 0;
-        }
-
-        &-image {
-            border-radius: 100%;
-            display: flex;
-            flex-grow: 0;
-            flex-shrink: 0;
-            height: 75px;
-            max-width: 75px;
-            overflow: hidden;
-            position: relative;
-            width: 75px;
-
-            @media (min-width: #{$breakpoint}) {
-                flex-basis: auto;
-            }
-
-            &:before {
-                background: $swatch-blue;
-                background: radial-gradient(circle, $swatch-purple 0%, $swatch-blue 60%);
-                border-radius: 100%;
-                content: "";
-                display: block;
-                height: 100%;
-                left: 0;
-                opacity: 0;
-                position: absolute;
-                top: 0;
-                transition: 0.2s linear all;
-                width: 100%;
-                z-index: 2;
-            }
-
-            &_photo {
-                height: 80px;
-            }
-
-            &_notSupplied {
-                background: $swatch-purple;
-                background: radial-gradient(circle, $swatch-purple 0%, $swatch-blue 100%);
-                border: 2px dashed $swatch-lightgray;
-                flex-basis: auto;
-                position: relative;
-                transition: 0.2s linear all;
-
-            }
-        }
-
-        &-start {
-            align-items: center;
-            display: flex;
-            flex-flow: column;
-            flex-grow: 1;
-            flex-shrink: 0;
-            justify-content: center;
-            text-align: center;
-            z-index: 1;
-
-            @media (min-width: #{$breakpoint}) {
-                flex-basis: 100%;
-                flex-flow: column;
-                flex-grow: 0;
-                justify-content: flex-start;
-            }
-            
-            &_day {
-                @media (min-width: #{$breakpoint}) {
-                    line-height: 1.5;
-                }
-            }
-
-            &_time, &_year {
-                color: #999;
-                font-size: 0.7rem;
-            }
-
-        }
-
-        & &-title {
-            margin: 0;
-        }
-
-        & &-description {
-            margin: 0;
-            margin-bottom: 1rem;
-            font-size: 0.8rem;
-        }
-
-        & &-group {
-            font-size: 0.7rem;
-            margin-bottom: 0.75rem;
-        }
-
-        & .button {
-            align-self: flex-end;
-            margin-top: 0;
-            width: 100%;
-
-            @media (min-width: #{$breakpoint}) {
-                align-self: flex-start;
-                flex-basis: 20%;
-                width: auto;
-            }
-        }
-
-        &-stats {
-            
-            display: flex;
-            flex-direction: column;
-            font-size: 0.7rem;
-            list-style-type: none;
-            padding: 0.25rem;
-
-            & li {
-                margin-bottom: 0.5rem;
-            }
-
-            &_icon {
-                display: inline-block;
-                fill: $swatch-purple;
-                height: 1.2rem;
-                margin-right: 0.25rem;
-                vertical-align: middle;
-            }
-
-            @media (min-width: #{$breakpoint}) {
-                background: $swatch-purple;
-                color: #FFFFFF;
-                flex-direction: row;
-
-                & li {
-                    flex-basis: 33.3%;
-                    margin-bottom: 0;
-                    vertical-align: middle;
-                }
-
-                & span {
-                    display: none;
-                }
-
-                &_location {
-                    overflow: hidden;
-                    text-overflow: ellipsis;
-                    white-space: nowrap; 
-                }
-
-                &_icon {
-                    fill: #FFFFFF;
-                }
-            }
-
-        }
+        transition: 0.2s linear all;
+      }
     }
+
+    &-start {
+      align-items: center;
+      display: flex;
+      flex-flow: column;
+      flex-grow: 1;
+      flex-shrink: 0;
+      justify-content: center;
+      text-align: center;
+      z-index: 1;
+
+      @media (min-width: #{$breakpoint}) {
+        flex-basis: 100%;
+        flex-flow: column;
+        flex-grow: 0;
+        justify-content: flex-start;
+      }
+
+      &_day {
+        @media (min-width: #{$breakpoint}) {
+          line-height: 1.5;
+        }
+      }
+
+      &_time,
+      &_year {
+        color: #999;
+        font-size: 0.7rem;
+      }
+    }
+
+    & &-title {
+      margin: 0;
+    }
+
+    & &-description {
+      margin: 0;
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    & &-group {
+      font-size: 0.7rem;
+      margin-bottom: 0.75rem;
+    }
+
+    & .button {
+      align-self: flex-end;
+      margin-top: 0;
+      width: 100%;
+
+      @media (min-width: #{$breakpoint}) {
+        align-self: flex-start;
+        flex-basis: 20%;
+        width: auto;
+      }
+    }
+
+    &-stats {
+      display: flex;
+      flex-direction: column;
+      font-size: 0.7rem;
+      list-style-type: none;
+      padding: 0.25rem;
+
+      & li {
+        margin-bottom: 0.5rem;
+      }
+
+      &_icon {
+        display: inline-block;
+        fill: $swatch-purple;
+        height: 1.2rem;
+        margin-right: 0.25rem;
+        vertical-align: middle;
+      }
+
+      @media (min-width: #{$breakpoint}) {
+        background: $swatch-purple;
+        color: #ffffff;
+        flex-direction: row;
+
+        & li {
+          flex-basis: 33.3%;
+          margin-bottom: 0;
+          vertical-align: middle;
+        }
+
+        & span {
+          display: none;
+        }
+
+        &_location {
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        &_icon {
+          fill: #ffffff;
+        }
+      }
+    }
+  }
 }
