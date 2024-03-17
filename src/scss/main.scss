@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500");
 
 @import "config";
 @import "animations";
@@ -22,17 +22,17 @@
   h1 {
     color: mix($swatch-gray, $swatch-blue, 10%);
     padding: 0;
-    margin: 86px 0 47px;//47px 0;
+    margin: 86px 0 47px; //47px 0;
     font-weight: 400;
-    font-size: 1.875rem;//36px;
+    font-size: 1.875rem; //36px;
     position: relative;
     text-transform: lowercase;
 
     &:before,
-    &:after{
-      content: '';
+    &:after {
+      content: "";
       background-color: $swatch-blue;
-      display:block;
+      display: block;
       position: absolute;
       height: 5px;
       left: 0;
@@ -43,7 +43,6 @@
       top: auto;
       bottom: -0.5em;
     }
-
   }
 
   p {
@@ -57,30 +56,29 @@
     &:first-of-type {
       font-weight: bold;
     }
-
   }
 
   section {
     max-width: 38em;
     opacity: 0;
     visibility: hidden;
-    transition: opacity 1000ms ease 200ms,
-    visibility 1000ms ease 200ms;
+    transition:
+      opacity 1000ms ease 200ms,
+      visibility 1000ms ease 200ms;
     overflow: hidden;
-    height:0;
+    height: 0;
 
     &:target {
       opacity: 1;
       visibility: visible;
-      height:100%;
-
+      height: 100%;
     }
 
     // hide home when anything is selected
     &:target ~ #home {
       opacity: 0;
       visibility: hidden;
-      height:0;
+      height: 0;
     }
 
     a {
@@ -89,7 +87,6 @@
       position: relative;
       border-bottom: 2px $swatch-purple solid;
     }
-
   }
 }
 
@@ -104,7 +101,7 @@
     background-color: mix($swatch-gray, $swatch-blue, 10%);
     box-decoration-break: clone;
     color: #fff;
-    padding: 0.1em;    
+    padding: 0.1em;
   }
 
   div {
@@ -114,5 +111,4 @@
     margin-top: 47px;
     padding: 9px;
   }
-
 }

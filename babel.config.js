@@ -1,11 +1,5 @@
-const presets = [
-    [
-      "@babel/env"
-    ],
-  ];
+const presets = [["@babel/env"]];
 
-  const plugins = [
-    ["transform-react-jsx", { "pragma":"h" }]
-  ];
-  
-  module.exports = { presets, plugins };
+const plugins = [["transform-react-jsx", { pragma: "h" }]];
+
+module.exports = { presets, plugins };
