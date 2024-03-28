@@ -1,4 +1,4 @@
-// Auto Generated on 2024-03-27T13:19:27.708Z
+// Auto Generated on 2024-03-28T13:19:32.671Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In April we'll be back with Andrew Goodwin talking about the time series database that he's been developing for the last 9 years.\nMore details to come",
       "dateTime": "2024-04-03T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305515",
-      "going": 11,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -22,6 +22,39 @@
       },
       "logo": {
         "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "When Machine Vision and IoT come together",
+      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 4th of April and learn more about where Machine Vision and Camera Localisation meets IoT.\n\nFeaturing Electrical Engineer - Ollie Johns!\n\nIn this talk, Ollie will discuss how industry is marrying machine vision and IoT together to solve complex problems in our everyday lives. Whether it is a robot making its way through physical space or a fixed IoT system capturing critical insights, Ollie will guide you through the weird and wonderful world of machine vision and IoT.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
+      "dateTime": "2024-04-04T18:30+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/300063726",
+      "going": 6,
+      "maxTickets": 40,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520034699/676x380.webp",
+      "venue": {
+        "name": "Stag & Hunter Hotel",
+        "lat": -32.897324,
+        "lng": 151.73674,
+        "address": "187 Maitland Rd",
+        "city": "Mayfield"
+      }
+    },
+    "group": {
+      "name": "Newcastle IoT Pioneers",
+      "urlname": "Newcastle-IoT-Pioneers",
+      "groupPhoto": {
+        "id": "465862831",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "465862831",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
@@ -66,7 +99,7 @@
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
       "dateTime": "2024-05-01T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 5,
+      "going": 6,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -126,7 +159,7 @@
       "description": "This event is a placeholder event\n\n**Event details:**\n\nDate: **WEDNESDAY** May 29th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2024-05-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927258",
-      "going": 4,
+      "going": 5,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
@@ -181,6 +214,33 @@
       },
       "logo": {
         "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG June 2024 | Placeholder Event",
+      "description": "This event is a placeholder event\n\n**Event details:**\n\nDate: **WEDNESDAY** June 26th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
+      "dateTime": "2024-06-26T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927275",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
