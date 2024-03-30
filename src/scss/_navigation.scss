@@ -37,7 +37,6 @@
   }
 }
 
-
 .logo {
   color: $swatch-blue;
   display: block;
@@ -45,11 +44,11 @@
   height: auto;
   margin: 0 auto 0 0;
   max-width: 280px;
-  transform: translateX( (percentage(calc(50/370))*-1) )
-             translateY( (percentage(calc(56/203))*-1) );
+  transform: translateX((percentage(calc(50 / 370)) * -1)) translateY((percentage(calc(56 / 203)) * -1));
   width: 70%;
-  transition: color 500ms ease-out,
-              fill 450ms ease-out;
+  transition:
+    color 500ms ease-out,
+    fill 450ms ease-out;
 
   position: absolute;
   top: 10px;
@@ -66,6 +65,5 @@
       animation: 800ms bounce;
       transform-origin: center bottom;
     }
-
   }
 }

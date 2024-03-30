@@ -9,3 +9,5 @@ node_modules
 sftp-config.json
 /uploads
 yarn.lock
+.idea
+dist
