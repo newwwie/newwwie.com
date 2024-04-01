@@ -1,4 +1,4 @@
-// Auto Generated on 2024-03-30T10:27:34.568Z
+// Auto Generated on 2024-04-01T08:13:12.044Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In April we'll be back with Andrew Goodwin talking about the time series database that he's been developing for the last 9 years. This database been a core part of his work with The Hospital for Sick Children and lead to Andrew being awarded a PhD from the University of Sydney in 2023.\n\nThis talk promises to highlight how deep technical knowledge can lead to helping real people in the real world. Join us at Mudbath Newcastle on Wednesday April 3 to learn more.\n\nWe'd like to thank our sponsors.\n\n* [Saphi Engineering](https://saphi.engineering/)\n* [Mudbath](https://www.mudbath.com.au/)\n* [Newy Tech people](https://newytechpeople.com.au/)\n\nTickets are on sale for the ../NEW conference. They're selling fast find the program at https://slashnew.tech/program and tickets at https://slashnew.tech/",
       "dateTime": "2024-04-03T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305515",
-      "going": 19,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
