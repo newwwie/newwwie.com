@@ -1,71 +1,5 @@
-// Auto Generated on 2024-04-02T13:19:12.800Z
+// Auto Generated on 2024-04-04T13:18:49.901Z
  module.exports = [
-  {
-    "event": {
-      "title": "April: Andrew Goodwin: Building a time series database",
-      "description": "In April we'll be back with Andrew Goodwin talking about the time series database that he's been developing for the last 9 years. This database been a core part of his work with The Hospital for Sick Children and lead to Andrew being awarded a PhD from the University of Sydney in 2023.\n\nThis talk promises to highlight how deep technical knowledge can lead to helping real people in the real world. Join us at Mudbath Newcastle on Wednesday April 3 to learn more.\n\nWe'd like to thank our sponsors.\n\n* [Saphi Engineering](https://saphi.engineering/)\n* [Mudbath](https://www.mudbath.com.au/)\n* [Newy Tech people](https://newytechpeople.com.au/)\n\nTickets are on sale for the ../NEW conference. They're selling fast find the program at https://slashnew.tech/program and tickets at https://slashnew.tech/",
-      "dateTime": "2024-04-03T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305515",
-      "going": 24,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Mudbath Digital ",
-        "lat": -32.92607,
-        "lng": 151.7626,
-        "address": "8/710 Hunter st",
-        "city": "Newcastle "
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "When Machine Vision and IoT come together",
-      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 4th of April and learn more about where Machine Vision and Camera Localisation meets IoT.\n\nFeaturing Electrical Engineer - Ollie Johns!\n\nIn this talk, Ollie will discuss how industry is marrying machine vision and IoT together to solve complex problems in our everyday lives. Whether it is a robot making its way through physical space or a fixed IoT system capturing critical insights, Ollie will guide you through the weird and wonderful world of machine vision and IoT.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
-      "dateTime": "2024-04-04T18:30+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/300063726",
-      "going": 9,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520034699/676x380.webp",
-      "venue": {
-        "name": "Stag & Hunter Hotel",
-        "lat": -32.897324,
-        "lng": 151.73674,
-        "address": "187 Maitland Rd",
-        "city": "Mayfield"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up - Building your personal board of advisors for success",
@@ -101,11 +35,44 @@
   },
   {
     "event": {
+      "title": "data.APR <- Joshua Leask: Hands-on with Vertex AI - 130+ gen AI models and tools",
+      "description": "***Hands-on with Vertex AI - 130+ generative AI models and tools, including Gemini 1.5 Pro Experimental***\n\n🗣️**Talk Description**: Join us for an enlightening talk on Google's Vertex AI platform, a cutting-edge tool that is revolutionising the field of data science and machine learning. This session is perfect for data enthusiasts of all skill levels, offering a unique opportunity to explore how Vertex AI integrates with both academia and industry. Whether you're a student eager to engage with real-world applications or a professional seeking to expand your technical toolkit, this talk will provide valuable insights into the future of data technology. Bring your curiosity and positive attitude, and connect with like-minded individuals in our community. Don't miss this chance to enhance your career prospects and knowledge in the ever-evolving world of data science!\n\n🎙️**Speaker Bio**: Joshua Leask is an accomplished ML Engineer and Managing Director at Newcastle AI, with over two decades of experience in software engineering and machine learning. Specialising in AI solution development and project management, Joshua has successfully led innovative projects in various industries. He holds a Master's degree in Business Administration and is furthering his expertise in Applied AI, demonstrating a deep commitment to advancing the field of machine learning.\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
+      "dateTime": "2024-04-18T17:30+10:00",
+      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/300204192",
+      "going": 8,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520168034/676x380.webp",
+      "venue": {
+        "name": "Q Building, The University of Newcastle",
+        "lat": -32.926277,
+        "lng": 151.7683,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Hunter Data Analytics",
+      "urlname": "hunter-data-analytics",
+      "groupPhoto": {
+        "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "May: Mark Wallis -  Microservices and large scale API consumption",
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
       "dateTime": "2024-05-01T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
