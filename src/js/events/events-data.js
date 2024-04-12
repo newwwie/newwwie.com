@@ -1,4 +1,4 @@
-// Auto Generated on 2024-04-11T13:19:43.509Z
+// Auto Generated on 2024-04-12T13:19:15.633Z
  module.exports = [
   {
     "event": {
@@ -39,7 +39,7 @@
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
       "dateTime": "2024-05-01T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 7,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
