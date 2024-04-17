@@ -1,4 +1,4 @@
-// Auto Generated on 2024-04-16T13:20:19.881Z
+// Auto Generated on 2024-04-17T13:19:53.780Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "***Hands-on with Vertex AI - 130+ generative AI models and tools, including Gemini 1.5 Pro Experimental***\n\n🗣️**Talk Description**: Join us for an enlightening talk on Google's Vertex AI platform, a cutting-edge tool that is revolutionising the field of data science and machine learning. This session is perfect for data enthusiasts of all skill levels, offering a unique opportunity to explore how Vertex AI integrates with both academia and industry. Whether you're a student eager to engage with real-world applications or a professional seeking to expand your technical toolkit, this talk will provide valuable insights into the future of data technology. Bring your curiosity and positive attitude, and connect with like-minded individuals in our community. Don't miss this chance to enhance your career prospects and knowledge in the ever-evolving world of data science!\n\n🎙️**Speaker Bio**: Joshua Leask is an accomplished ML Engineer and Managing Director at Newcastle AI, with over two decades of experience in software engineering and machine learning. Specialising in AI solution development and project management, Joshua has successfully led innovative projects in various industries. He holds a Master's degree in Business Administration and is furthering his expertise in Applied AI, demonstrating a deep commitment to advancing the field of machine learning.\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2024-04-18T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/300204192",
-      "going": 21,
+      "going": 24,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520168034/676x380.webp",
@@ -43,7 +43,13 @@
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520353179/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "16B Honeysuckle Dr",
+        "lat": -32.92627,
+        "lng": 151.76834,
+        "address": "16B Honeysuckle Dr",
+        "city": "Newcastle"
+      }
     },
     "group": {
       "name": "Newcastle Cyber Security Group",
