@@ -1,16 +1,22 @@
-// Auto Generated on 2024-04-24T13:24:25.977Z
+// Auto Generated on 2024-04-25T13:15:32.890Z
  module.exports = [
   {
     "event": {
       "title": "May: Mark Wallis -  Microservices and large scale API consumption",
-      "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices or large scale API consumption or maybe even both. More details to come",
-      "dateTime": "2024-05-01T19:00+10:00",
+      "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices\n\nMicroservices were cool once. If you weren't running the Netflix stack then were you even really doing software? These days, we appreciate that each of the modern software architecture models has its place.\n\nThis month Mark Wallis from Skript will talk us through why they chose to go straight into Microservices for their new build, despite the fact that he should have known better. He will also talk through some of the challenges of consuming an API implemented by 114 different companies and how Microservices has helped keep their sanity\".\n\nIn addition to Mark's talk there will be plenty of time to socialise and talk to other coders in Newcastle over Free Pizza and Drinks.\n\nWe'd like to thank our sponsors\n\n* Newy Tech People\n* Mudbath an Endava company\n* Spahi Engineering\n\n[Mark Wallis](https://www.linkedin.com/in/markwallis/) is the CTO at Skript, a Fintech Startup working in the Consumer Data Right space. You may also recognise him from UON where he gets the opportunity to work with the 4th year Software Engineering students to expose them enterprise software architectures and networking.",
+      "dateTime": "2024-05-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 13,
+      "going": 18,
       "maxTickets": 0,
-      "duration": "PT2H",
+      "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "venue": {
+        "name": "Mudbath Digital ",
+        "lat": -32.92607,
+        "lng": 151.7626,
+        "address": "8/710 Hunter st",
+        "city": "Newcastle "
+      }
     },
     "group": {
       "name": "Newcastle Coders Group",
@@ -99,7 +105,7 @@
       "description": "This event is a placeholder event\n\n**Event details:**\n\nDate: **WEDNESDAY** May 29th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2024-05-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927258",
-      "going": 6,
+      "going": 7,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
