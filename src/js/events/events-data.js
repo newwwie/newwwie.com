@@ -1,4 +1,4 @@
-// Auto Generated on 2024-04-26T13:19:09.105Z
+// Auto Generated on 2024-04-27T13:19:15.029Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices\n\nMicroservices were cool once. If you weren't running the Netflix stack then were you even really doing software? These days, we appreciate that each of the modern software architecture models has its place.\n\nThis month Mark Wallis from Skript will talk us through why they chose to go straight into Microservices for their new build, despite the fact that he should have known better. He will also talk through some of the challenges of consuming an API implemented by 114 different companies and how Microservices has helped keep their sanity\".\n\nIn addition to Mark's talk there will be plenty of time to socialise and talk to other coders in Newcastle over Free Pizza and Drinks.\n\nWe'd like to thank our sponsors\n\n* Newy Tech People\n* Mudbath an Endava company\n* Spahi Engineering\n\n[Mark Wallis](https://www.linkedin.com/in/markwallis/) is the CTO at Skript, a Fintech Startup working in the Consumer Data Right space. You may also recognise him from UON where he gets the opportunity to work with the 4th year Software Engineering students to expose them enterprise software architectures and networking.",
       "dateTime": "2024-05-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 20,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -39,7 +39,7 @@
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 2nd of May. Speaker to be announced shortly!\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nAs always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-05-02T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/300608279",
-      "going": 2,
+      "going": 3,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/520622559/676x380.webp",
