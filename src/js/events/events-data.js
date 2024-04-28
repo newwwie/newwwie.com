@@ -1,4 +1,4 @@
-// Auto Generated on 2024-04-27T13:19:15.029Z
+// Auto Generated on 2024-04-28T13:19:14.265Z
  module.exports = [
   {
     "event": {
@@ -6,7 +6,7 @@
       "description": "In May we'll have Mark Wallis talking to us about his work with either Microservices\n\nMicroservices were cool once. If you weren't running the Netflix stack then were you even really doing software? These days, we appreciate that each of the modern software architecture models has its place.\n\nThis month Mark Wallis from Skript will talk us through why they chose to go straight into Microservices for their new build, despite the fact that he should have known better. He will also talk through some of the challenges of consuming an API implemented by 114 different companies and how Microservices has helped keep their sanity\".\n\nIn addition to Mark's talk there will be plenty of time to socialise and talk to other coders in Newcastle over Free Pizza and Drinks.\n\nWe'd like to thank our sponsors\n\n* Newy Tech People\n* Mudbath an Endava company\n* Spahi Engineering\n\n[Mark Wallis](https://www.linkedin.com/in/markwallis/) is the CTO at Skript, a Fintech Startup working in the Consumer Data Right space. You may also recognise him from UON where he gets the opportunity to work with the 4th year Software Engineering students to expose them enterprise software architectures and networking.",
       "dateTime": "2024-05-01T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/299305535",
-      "going": 21,
+      "going": 24,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -72,7 +72,7 @@
       "description": "The return of the classic pub meet-up; we're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. We'll be real, we've got a lot on this month with the /New conference (15-16 May)! This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 10th August from 5:30PM to 7:30PM\n* **Where:** Honeysuckle Hotel\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-05-09T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/299026506",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
