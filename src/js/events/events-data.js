@@ -1,4 +1,4 @@
-// Auto Generated on 2024-05-04T13:19:02.269Z
+// Auto Generated on 2024-05-05T13:18:41.816Z
  module.exports = [
   {
     "event": {
@@ -68,6 +68,39 @@
   },
   {
     "event": {
+      "title": "June; 2 talks; Mob Programming + AWS Project Development Kit",
+      "description": "Howdy Coders,\nWe're back for June. This month we've got two talks from great presenters. Mark Tranter will be taking us through the AWS Project Development kit in a live-coding heavy session. The other talk will be at the complete opposite end of things with Klee Thomas (that's me) talking through Mob Programming his experiences working in this model.\n\nWe'll be hosting from the SSW Newcastle office. We'll have drinks and food supplied by our sponsors.\n\nWe'd like to thank our sponsors\n\n* [SSW](https://www.ssw.com.au/)\n* [V2](https://www.v2.digital/)\n* [Saphi Engineering](https://saphi.engineering/)\n\n**Mob Programming:**\nAre you finding that your delivery has slowed down? Do you have a lot of work in progress but struggle to get things done? Are you interested in how you can deliver more value with your existing team? Then this talk is for you.\nIn this talk, Klee will go through his experiences with mob programming and how it can be used to optimise your development process so that you're delivering value to customers, and making your team more engaged at the same time.\n\n**AWS Project Development Kit**\nThe AWS Project Development Kit (AWS PDK) provides building blocks for common patterns together with development tools to manage and build your projects.\nThe AWS PDK lets you define your projects programmatically via the expressive power of type-safe constructs. In this live-coding talk Mark will go through using AWS PDK to build out an app in front of your eyes.",
+      "dateTime": "2024-06-05T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836558",
+      "going": 2,
+      "maxTickets": 0,
+      "duration": "PT3H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": {
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lng": 151.77159,
+        "address": "432 Hunter St",
+        "city": "Newcastle"
+      }
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
       "title": "WGDPTech Monthly Meet-up - TBA",
       "description": "SAVE THE DATE! The Women and Gender Diverse People in Tech will have an event, what it is though that's a mystery... until we announce it that is.\n\nThe event will start at 5:30pm!\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-06-13T17:30+10:00",
@@ -121,6 +154,39 @@
       },
       "logo": {
         "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "July: Sephen G - Rust & WASM",
+      "description": "We are back in July with Stephen G giving us his experiences working with Rust and WASM.\n\nThis talk will cover how a combination of the Rust memory checker, type system and macros makes web development easier, when compared with other single language front and backends like typescript/nodejs, and why Stephen started teaching Rust to primary school children. http://rustycc.com.au.\n\nWe'd like to thank our sponsors\n\n* Mudbath\n* Saphi Engineering\n* Newy Tech People",
+      "dateTime": "2024-07-03T18:00+10:00",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836846",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "venue": {
+        "name": "Mudbath Digital ",
+        "lat": -32.92607,
+        "lng": 151.7626,
+        "address": "8/710 Hunter st",
+        "city": "Newcastle "
+      }
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "groupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "505406540",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
