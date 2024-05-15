@@ -173,9 +173,9 @@ https://newwwie.com/#community
 
 If you would like to get added, the content is in:
 
-[`src/js/communities/community-data.js`](src/js/communities/community-data.js)
+[`src/js/communities/community-data.ts`](src/js/communities/community-data.ts)
 
-You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.js)
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.ts)
 
 Here is an example of a high quality entry:
 

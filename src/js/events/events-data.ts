@@ -1,5 +1,7 @@
 // Auto Generated on 2024-05-14T13:20:55.240Z
- module.exports = [
+import { type EventItem } from "./types";
+
+export const events: readonly EventItem[] = [
   {
     "event": {
       "title": "NCSG May 2024 | Placeholder Event",
