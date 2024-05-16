@@ -30,6 +30,9 @@ module.exports = {
       },
     ],
   },
+  resolve: {
+    extensions: [".ts", ".tsx"],
+  },
   plugins: [
     new MiniCssExtractPlugin({
       filename: "css/[name].css",
