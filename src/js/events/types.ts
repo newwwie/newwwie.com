@@ -7,34 +7,34 @@ export type EventItem = {
 };
 
 export type Event = {
-  readonly title: null | string;
-  readonly description: null | string;
   readonly dateTime: null | string;
+  readonly description: null | string;
+  readonly duration: string;
   readonly eventUrl: string;
   readonly going: number;
-  readonly maxTickets: number;
-  readonly duration: string;
   readonly imageUrl: string;
+  readonly maxTickets: number;
+  readonly title: null | string;
   readonly venue: null | Venue;
 };
 
 export type Venue = {
-  readonly name: null | string;
-  readonly lat: number;
-  readonly lng: number;
   readonly address: null | string;
   readonly city: null | string;
+  readonly lat: number;
+  readonly lng: number;
+  readonly name: null | string;
 };
 
 export type Group = {
-  readonly name: null | string;
-  readonly urlname: null | string;
   readonly groupPhoto: null | Image;
   readonly logo: null | Image;
+  readonly name: null | string;
+  readonly urlname: null | string;
 };
 
 export type Image = {
-  readonly id: string;
   readonly baseUrl: string;
+  readonly id: string;
   readonly preview: null;
 };
