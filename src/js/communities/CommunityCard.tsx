@@ -1,6 +1,10 @@
-import { h } from "preact";
+import { CommunityGroup } from "./types";
 
-export const CommunityCard = (props) => {
+type Props = {
+  data: CommunityGroup;
+};
+
+export const CommunityCard = (props: Props) => {
   const {
     name,
     location,

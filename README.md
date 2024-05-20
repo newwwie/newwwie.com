@@ -20,6 +20,16 @@ npm install
 npm run dev
 ```
 
+### Typescript
+
+This repository uses typescript for source files. Currently some typescript errors remain, though at some point (after existing issues in [#119](https://github.com/newwwie/newwwie.com/issues/119) are resolved) webpack will be configured to not build in the presence of typescript errors.
+
+```sh
+npm run typecheck -- --watch
+```
+
+## Contributing
+
 For more information please see our [Contributing Guide](CONTRIBUTING.md)
 
 This includes adding meetup groups and community listings.

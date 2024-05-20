@@ -24,12 +24,12 @@ jobs:
         run: npm ci
       - run: npm run fetchEvents
       - run: npm run build
-      - name: Commit events-data.js
+      - name: Commit events-data.ts
         run: |
           git status
           git config --global user.name 'Newwwie Bot'
           git config --global user.email 'buildbot@newwwie.com'
-          git add src/js/events/events-data.js
+          git add src/js/events/events-data.ts
           git add dist
           git commit -m "Get latest set of Meetup events"
           git push

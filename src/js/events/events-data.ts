@@ -1,5 +1,7 @@
-// Auto Generated on 2024-05-19T13:18:41.405Z
- module.exports = [
+// Auto Generated on 2024-05-19T02:19:07.953Z
+import { type EventItem } from "./types";
+
+export const events: readonly EventItem[] = [
   {
     "event": {
       "title": "NCSG May 2024 | Backdoors and Breaches",

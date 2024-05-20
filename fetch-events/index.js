@@ -41,7 +41,7 @@ Promise.all(
 ).then((events) => {
   const sortedEvents = _.sortBy(events.flat().filter(filterEventsNext90Days), (e) => e.event.dateTime);
   fs.writeFileSync(
-    path.join(__dirname, "..", "src", "js", "events", "events-data.js"),
-    `// Auto Generated on ${new Date().toISOString()}\n module.exports = ${JSON.stringify(sortedEvents, null, 2)}`,
+    path.join(__dirname, "..", "src", "js", "events", "events-data.ts"),
+    `// Auto Generated on ${new Date().toISOString()}\nimport { type EventItem } from "./types";\n\nexport const events: readonly EventItem[] = ${JSON.stringify(sortedEvents, null, 2)}`,
   );
 });

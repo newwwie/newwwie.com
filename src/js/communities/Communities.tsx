@@ -1,4 +1,4 @@
-import { h, render } from "preact";
+import { render } from "preact";
 import { CommunityCard } from "./CommunityCard";
 import { CommunityData } from "./community-data";
 
