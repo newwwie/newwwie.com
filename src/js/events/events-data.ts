@@ -1,4 +1,4 @@
-// Auto Generated on 2024-05-25T13:18:51.603Z
+// Auto Generated on 2024-05-26T13:18:42.804Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -41,7 +41,7 @@ export const events: readonly EventItem[] = [
       "description": "Howdy Coders,\nWe're back for June. This month we've got two talks from great presenters. Mark Tranter will be taking us through the AWS Project Development kit in a live-coding heavy session. The other talk will be at the complete opposite end of things with Klee Thomas (that's me) talking through Mob Programming his experiences working in this model.\n\nWe'll be hosting from the SSW Newcastle office. We'll have drinks and food supplied by our sponsors.\n\nWe'd like to thank our sponsors\n\n* [SSW](https://www.ssw.com.au/)\n* [V2](https://www.v2.digital/)\n* [Saphi Engineering](https://saphi.engineering/)\n\n**Mob Programming:**\nAre you finding that your delivery has slowed down? Do you have a lot of work in progress but struggle to get things done? Are you interested in how you can deliver more value with your existing team? Then this talk is for you.\nIn this talk, Klee will go through his experiences with mob programming and how it can be used to optimise your development process so that you're delivering value to customers, and making your team more engaged at the same time.\n\n**AWS Project Development Kit**\nThe AWS Project Development Kit (AWS PDK) provides building blocks for common patterns together with development tools to manage and build your projects.\nThe AWS PDK lets you define your projects programmatically via the expressive power of type-safe constructs. In this live-coding talk Mark will go through using AWS PDK to build out an app in front of your eyes.",
       "dateTime": "2024-06-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836558",
-      "going": 8,
+      "going": 9,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
