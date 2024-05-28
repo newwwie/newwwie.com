@@ -1,4 +1,4 @@
-// Auto Generated on 2024-05-27T13:21:25.244Z
+// Auto Generated on 2024-05-28T13:21:34.085Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "Welcome all to a bit of a different spin on NCSG!\n\nThis month we'll be hosting some games of [Backdoors and Breaches](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)! This session might be a good entrypoint for folk into the world of roleplay, incident response, or both!\n\nNo prior knowledge is expected to be able to participate in the session, the organisers will do their best to ensure all attendees are included in the games\n\n**Event details:**\n\nDate: **WEDNESDAY** May 29th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2024-05-29T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927258",
-      "going": 20,
+      "going": 19,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521096777/676x380.webp",
@@ -74,7 +74,7 @@ export const events: readonly EventItem[] = [
       "description": "Our June speaker for Women and Gender Diverse People in Tech is Shonavee Simpson-Anderson!\n\nShonavee is a Senior SEO Strategist at Firewire Digital. She'll be talking about her experiences with career grief and how she dealt with those feelings to come out on the other side.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\n**Don't forget our 2024 location!** We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\nWe provide food, so let us know of any allergies :)",
       "dateTime": "2024-06-13T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/299026562",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
