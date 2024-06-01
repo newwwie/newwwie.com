@@ -1,4 +1,4 @@
-// Auto Generated on 2024-05-31T13:20:37.249Z
+// Auto Generated on 2024-06-01T13:18:57.834Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "Howdy Coders,\nWe're back for June. This month we've got two talks from great presenters. Mark Tranter will be taking us through the AWS Project Development kit in a live-coding heavy session. The other talk will be at the complete opposite end of things with Klee Thomas (that's me) talking through Mob Programming his experiences working in this model.\n\nWe'll be hosting from the SSW Newcastle office. We'll have drinks and food supplied by our sponsors.\n\nWe'd like to thank our sponsors\n\n* [SSW](https://www.ssw.com.au/)\n* [V2](https://www.v2.digital/)\n* [Saphi Engineering](https://saphi.engineering/)\n\n**Mob Programming:**\nAre you finding that your delivery has slowed down? Do you have a lot of work in progress but struggle to get things done? Are you interested in how you can deliver more value with your existing team? Then this talk is for you.\nIn this talk, Klee will go through his experiences with mob programming and how it can be used to optimise your development process so that you're delivering value to customers, and making your team more engaged at the same time.\n\n**AWS Project Development Kit**\nThe AWS Project Development Kit (AWS PDK) provides building blocks for common patterns together with development tools to manage and build your projects.\nThe AWS PDK lets you define your projects programmatically via the expressive power of type-safe constructs. In this live-coding talk Mark will go through using AWS PDK to build out an app in front of your eyes.",
       "dateTime": "2024-06-05T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836558",
-      "going": 15,
+      "going": 17,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -41,7 +41,7 @@ export const events: readonly EventItem[] = [
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 6th of June, and learn more about the mysterious world of ROS with mechatronics engineer and founder of the ever-growing [YouTube channel Articulated Robotics, Josh Newans.](https://www.youtube.com/@ArticulatedRobotics)\n\nJosh is famous for his in-depth and engaging tutorials.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-06-06T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/301306661",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521373895/676x380.webp",
