@@ -1,5 +1,5 @@
 .nav {
-  background: #fff;
+  background: #282828;
   width: 100%;
   padding: 45px 5% 25px;
   display: flex;
@@ -40,7 +40,7 @@
 .logo {
   color: $swatch-blue;
   display: block;
-  fill: $swatch-gray;
+  fill: $swatch-white;
   height: auto;
   margin: 0 auto 0 0;
   max-width: 280px;
@@ -66,4 +66,8 @@
       transform-origin: center bottom;
     }
   }
+}
+
+#year {
+  color: $swatch-white;
 }
