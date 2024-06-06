@@ -1,40 +1,7 @@
-// Auto Generated on 2024-06-05T13:22:11.900Z
+// Auto Generated on 2024-06-06T13:21:58.043Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "Founder of Articulated Robotics talks ROS",
-      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday, the 6th of June, and learn more about the mysterious world of ROS with mechatronics engineer and founder of the ever-growing [YouTube channel Articulated Robotics, Josh Newans.](https://www.youtube.com/@ArticulatedRobotics)\n\nJosh is famous for his in-depth and engaging tutorials.\n\nWhether you're an industry veteran or simply fascinated by IoT, come engage with like-minded pioneers.\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
-      "dateTime": "2024-06-06T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/301306661",
-      "going": 11,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521373895/676x380.webp",
-      "venue": {
-        "name": "Stag & Hunter Hotel",
-        "lat": -32.897324,
-        "lng": 151.73674,
-        "address": "187 Maitland Rd",
-        "city": "Mayfield"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: Working Through Career Grief: What Is It & How to Move Forward",
@@ -101,7 +68,7 @@ export const events: readonly EventItem[] = [
       "description": "We are back in July with Stephen G giving us his experiences working with Rust and WASM.\n\nThis talk will cover how a combination of the Rust memory checker, type system and macros makes web development easier, when compared with other single language front and backends like typescript/nodejs, and why Stephen started teaching Rust to primary school children. http://rustycc.com.au.\n\nWe'd like to thank our sponsors\n\n* Mudbath\n* Saphi Engineering\n* Newy Tech People",
       "dateTime": "2024-07-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836846",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
