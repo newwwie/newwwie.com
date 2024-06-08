@@ -7,18 +7,22 @@ import { readFileSync, writeFileSync } from "fs";
 import { renderString } from "nunjucks";
 
 import { EventItem } from "../src/js/events/types";
-import { GroupEdge, GroupResponse } from "./types";
+import { GroupEdge, GroupResponse, MEETUP_GQL_QUERY } from "./types";
 import { Meetups } from "./meetups.json";
 
 dayjs.extend(isBetween);
 
 const MEETUP_GQL_URL = "https://www.meetup.com/gql";
-const FORWARD_DAYS_FILTER = 90; // Days to filter results on
+const END_DATE_RANGE = dayjs().add(3, "month").toISOString(); // Retrieve up to three months from the current date
 const EVENT_OUTPUT_FILE = path.join(__dirname, "../src/js/events/events-data.ts");
 const EVENT_TEMPLATE_FILE = path.join(__dirname, "./event-data-template.njk");
 
-const buildGraphQLQuery = (name: string) => ({
-  query: `query { groupByUrlname(urlname: "${name}") { name urlname groupPhoto {id baseUrl preview} logo { id baseUrl preview} unifiedEvents {edges{node {title description dateTime eventUrl going maxTickets duration imageUrl venue {name lat lng address city}}}} } }`,
+const buildGraphQLQuery = (groupName: string) => ({
+  query: MEETUP_GQL_QUERY,
+  variables: {
+    groupName,
+    endDateRange: END_DATE_RANGE,
+  },
 });
 
 const getGroupEvents = async (groupName: string): Promise<EventItem[]> => {
@@ -28,6 +32,8 @@ const getGroupEvents = async (groupName: string): Promise<EventItem[]> => {
 
   // Transform the response
   const { unifiedEvents, ...group } = events.data.groupByUrlname || {};
+
+  console.log(`Finished fetching events for "${groupName}"`);
   return (
     unifiedEvents?.edges?.map((edge: GroupEdge) => ({
       event: edge.node,
@@ -36,17 +42,12 @@ const getGroupEvents = async (groupName: string): Promise<EventItem[]> => {
   );
 };
 
-const filterEventsByDate = (event: EventItem): boolean => {
-  // Filter between current date and future date, with 'day' granularity and inclusive on both ends
-  return dayjs(event.event.dateTime).isBetween(dayjs(), dayjs().add(FORWARD_DAYS_FILTER, "day"), "day", "[]");
-};
-
 (async () => {
   try {
     console.log("Fetching events");
     const events = await Promise.all(Meetups.map((eventName: string) => getGroupEvents(eventName)));
 
-    const sortedEvents = _.sortBy(events.flat().filter(filterEventsByDate), (event: EventItem) => event.event.dateTime);
+    const sortedEvents = _.sortBy(events.flat(), (event: EventItem) => event.event.dateTime);
 
     console.log("Rendering the events file");
     const template = readFileSync(EVENT_TEMPLATE_FILE, "utf-8");
