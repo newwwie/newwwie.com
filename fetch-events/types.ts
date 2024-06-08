@@ -38,9 +38,11 @@ export type MeetupGroupEdge = {
 };
 
 export type MeetupGroupResponse = {
-  groupByUrlname: {
-    unifiedEvents: {
-      edges: MeetupGroupEdge[];
+  data: {
+    groupByUrlname: {
+      unifiedEvents: {
+        edges: MeetupGroupEdge[];
+      };
     };
   };
 };
