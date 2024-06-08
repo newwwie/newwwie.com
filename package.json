@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",
-    "fetchEvents": "ts-node ./fetch-events/index.ts",
+    "fetchEvents": "ts-node ./fetch-events/fetch-events.ts",
     "format": "prettier --write .",
     "typecheck": "tsc"
   },
