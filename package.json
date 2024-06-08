@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",
-    "fetchEvents": "node ./fetch-events/index.js",
+    "fetchEvents": "ts-node ./fetch-events/index.js",
     "format": "prettier --write .",
     "typecheck": "tsc"
   },
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/newwwie/newwwie.com#readme",
   "devDependencies": {
+    "@types/lodash": "^4.17.4",
     "autoprefixer": "^10.4.7",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^3.4.1",
@@ -39,9 +40,14 @@
     "sass": "^1.54.0",
     "sass-loader": "^13.0.2",
     "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5.4.5",
     "webpack": "^5.76.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.11"
   }
 }
