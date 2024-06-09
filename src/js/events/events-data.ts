@@ -42,7 +42,11 @@ export const events: readonly EventItem[] = [
       "description": "**Measuring the Impact of the Mind in Elite Sport**\n\n🗣️**Talk Description**: Hall of fame baseball player Yogi Berra is famously credited with saying “baseball is 90% mental and the other half is physical”. While statistics clearly weren’t his strong point, he did raise a very interesting question – how important is the mind in elite sport? In an attempt to answer this question, I have been analysing the language of professional athletes to build detailed psychological and personality profiles. In this talk I will present the results of these analyses and show how language psychology combined with machine learning and survival analysis techniques can be used to predict world rankings in tennis, which college basketball players will make it into the NBA, and NBA player career longevity.\n\n🎙️**Speaker Bio**: Sean Farrell is a reformed astrophysicist who jumped on the data science bandwagon before it was cool. His career as a data scientist has spanned national security & law enforcement, utilities, health, politics, academia and professional sport.\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\nhttps://goo.gl/maps/35LwcLhKV1nvoFAh7\n\nWe will meet in the Level 2 Seminar Space. You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\nhttps://goo.gl/maps/rj6Yg8EkpjYzUmbi7\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* **BYO drinks**\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close",
       "dateTime": "2024-06-20T17:30+10:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301516919",
+<<<<<<< HEAD
       "going": 9,
+=======
+      "going": 8,
+>>>>>>> main
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521579828/676x380.webp",
