@@ -1,7 +1,6 @@
 import _ from "lodash";
 import axios from "axios";
 import dayjs from "dayjs";
-import isBetween from "dayjs/plugin/isBetween";
 import path from "path";
 import { readFileSync, writeFileSync } from "fs";
 import { renderString } from "nunjucks";
@@ -9,8 +8,6 @@ import { renderString } from "nunjucks";
 import { EventItem } from "../src/js/events/types";
 import { GroupEdge, GroupResponse, MEETUP_GQL_QUERY } from "./types";
 import { Meetups } from "./meetups.json";
-
-dayjs.extend(isBetween);
 
 const MEETUP_GQL_URL = "https://www.meetup.com/gql";
 const END_DATE_RANGE = dayjs().add(3, "month").toISOString(); // Retrieve up to three months from the current date
