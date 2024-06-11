@@ -1,4 +1,4 @@
-// Auto Generated on 2024-06-10T13:22:53.210Z
+// Auto Generated on 2024-06-11T13:22:15.763Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "Our June speaker for Women and Gender Diverse People in Tech is Shonavee Simpson-Anderson!\n\nCareer grief can be a heartbreaking, even maddening, experience and we don't talk about it enough... or at all, really. We talk about \"quiet quitting\" and \"working your wage\". But we don't talk about the larger grief these ideas come from or the fact that we can grieve aspects of our work-life. Maybe this is because in a hyper-productive, produce-til-you-die work culture it's a bit unfashionable to display these feelings over capitalist labour. Maybe it's because we don't recognise what we're actually experiencing is grief. So let's talk about it with Shonavee Simpson-Anderson - a would-have-been-book-publisher turned SEO professional. She is the Senior SEO Strategist at Firewire Digital and Co-Founder/Organiser of Edge of Search - Newcastle's first SEO conference.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\n**Don't forget our 2024 location!** We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\nWe provide food, so let us know of any allergies :)",
       "dateTime": "2024-06-13T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/299026562",
-      "going": 17,
+      "going": 21,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
