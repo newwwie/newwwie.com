@@ -1,40 +1,7 @@
-// Auto Generated on 2024-06-12T13:21:52.967Z
+// Auto Generated on 2024-06-13T13:21:52.416Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "WGDPTech Meet-up: Working Through Career Grief: What Is It & How to Move Forward",
-      "description": "Our June speaker for Women and Gender Diverse People in Tech is Shonavee Simpson-Anderson!\n\nCareer grief can be a heartbreaking, even maddening, experience and we don't talk about it enough... or at all, really. We talk about \"quiet quitting\" and \"working your wage\". But we don't talk about the larger grief these ideas come from or the fact that we can grieve aspects of our work-life. Maybe this is because in a hyper-productive, produce-til-you-die work culture it's a bit unfashionable to display these feelings over capitalist labour. Maybe it's because we don't recognise what we're actually experiencing is grief. So let's talk about it with Shonavee Simpson-Anderson - a would-have-been-book-publisher turned SEO professional. She is the Senior SEO Strategist at Firewire Digital and Co-Founder/Organiser of Edge of Search - Newcastle's first SEO conference.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\n**Don't forget our 2024 location!** We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.\n\nWe provide food, so let us know of any allergies :)",
-      "dateTime": "2024-06-13T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/299026562",
-      "going": 24,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
-      "venue": {
-        "name": "9 Downie St",
-        "lat": -32.912266,
-        "lng": 151.75763,
-        "address": "9 Downie St",
-        "city": "Maryville"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.June <- Sean Farrell: Measuring the Impact of the Mind in Elite Sport",
