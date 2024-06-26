@@ -1,8 +1,8 @@
-<img 
+<img
   align="right"
   width="1600px"
   alt="Newwwie Logo"
-  src="newwwie-logo.svg?sanitize=true" 
+  src="newwwie-logo.svg?sanitize=true"
 />
 
 # newwwie.com

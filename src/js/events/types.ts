@@ -1,4 +1,4 @@
-// These types were written with reference to the query in fetch-events/index.js and
+// These types were written with reference to the query in fetch-events/fetch-events.ts and
 // the graphql schema documented at https://www.meetup.com/api/schema
 
 export type EventItem = {

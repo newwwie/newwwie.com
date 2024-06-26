@@ -254,4 +254,4 @@ export const events: readonly EventItem[] = [
       }
     }
   }
-]
+];
