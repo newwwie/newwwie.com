@@ -1,4 +1,4 @@
-// Auto Generated on 2024-06-29T13:20:10.469Z
+// Auto Generated on 2024-06-30T13:20:09.264Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "We are back in July with Stephen G giving us his experiences working with Rust and WASM and Stephen Y giving us a talk about graphs in software.\n\nStephen Ys talk will cover how a combination of the Rust memory checker, type system and macros makes web development easier, when compared with other single language front and backends like typescript/nodejs, and why Stephen started teaching Rust to primary school children. http://rustycc.com.au.\n\nStephen G's talk will cover Graphs and graph databases: what makes them useful, some popular use cases, some interesting edge cases, and the roles they can play supporting Generative AI.\n\nWe'd like to thank our sponsors\n\n* Mudbath\n* Saphi Engineering\n* Newy Tech People",
       "dateTime": "2024-07-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836846",
-      "going": 13,
+      "going": 15,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -134,7 +134,7 @@ export const events: readonly EventItem[] = [
       "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI. We'd love to give you more details about what he's talking about, but I'm writing this in May so everything will have changed by then.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering",
       "dateTime": "2024-08-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 6,
+      "going": 7,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
