@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-01T13:23:05.056Z
+// Auto Generated on 2024-07-02T13:21:46.063Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "We are back in July with Stephen G giving us his experiences working with Rust and WASM and Stephen Y giving us a talk about graphs in software.\n\nStephen Ys talk will cover how a combination of the Rust memory checker, type system and macros makes web development easier, when compared with other single language front and backends like typescript/nodejs, and why Stephen started teaching Rust to primary school children. http://rustycc.com.au.\n\nStephen G's talk will cover Graphs and graph databases: what makes them useful, some popular use cases, some interesting edge cases, and the roles they can play supporting Generative AI.\n\nWe'd like to thank our sponsors\n\n* Mudbath\n* Saphi Engineering\n* Newy Tech People",
       "dateTime": "2024-07-03T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836846",
-      "going": 18,
+      "going": 21,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -41,7 +41,7 @@ export const events: readonly EventItem[] = [
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday the 4th of July, where we'll be hosting high-school student and space enthusiast Nolan.\n\nA few months ago, Nolan achieved an incredible feat by launching his first high-altitude balloon to an astounding 33km. Equipped with an array of sensors, the balloon gathered valuable insights from the edge of space. Join us as we explore Nolan's remarkable journey from being a high school student to becoming a topic of discussion in Parliament!\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-07-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/301964443",
-      "going": 3,
+      "going": 4,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/522056184/676x380.webp",
