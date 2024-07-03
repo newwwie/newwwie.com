@@ -1,47 +1,14 @@
-// Auto Generated on 2024-07-02T13:21:46.063Z
+// Auto Generated on 2024-07-03T13:22:20.837Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "July: Stephen G - Rust & WASM; Stephen Y - Graphs in software",
-      "description": "We are back in July with Stephen G giving us his experiences working with Rust and WASM and Stephen Y giving us a talk about graphs in software.\n\nStephen Ys talk will cover how a combination of the Rust memory checker, type system and macros makes web development easier, when compared with other single language front and backends like typescript/nodejs, and why Stephen started teaching Rust to primary school children. http://rustycc.com.au.\n\nStephen G's talk will cover Graphs and graph databases: what makes them useful, some popular use cases, some interesting edge cases, and the roles they can play supporting Generative AI.\n\nWe'd like to thank our sponsors\n\n* Mudbath\n* Saphi Engineering\n* Newy Tech People",
-      "dateTime": "2024-07-03T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300836846",
-      "going": 21,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Mudbath Digital ",
-        "lat": -32.92607,
-        "lng": 151.7626,
-        "address": "8/710 Hunter st",
-        "city": "Newcastle "
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Sending a Pi 33km high!",
       "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday the 4th of July, where we'll be hosting high-school student and space enthusiast Nolan.\n\nA few months ago, Nolan achieved an incredible feat by launching his first high-altitude balloon to an astounding 33km. Equipped with an array of sensors, the balloon gathered valuable insights from the edge of space. Join us as we explore Nolan's remarkable journey from being a high school student to becoming a topic of discussion in Parliament!\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
       "dateTime": "2024-07-04T18:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/301964443",
-      "going": 4,
+      "going": 8,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/522056184/676x380.webp",
@@ -70,11 +37,11 @@ export const events: readonly EventItem[] = [
   },
   {
     "event": {
-      "title": "WGDPTech Meet-up: TBA",
-      "description": "Our July event to TBA but you can RSVP here to save the date!\n\n5:30PM: The event starts with a catch-up6:00PM: The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone.We provide food, so let us know of any allergies :)",
+      "title": "WGDPTech Meet-up: Data Literacy, AI & bridging the tech + business divide",
+      "description": "For our July event, we'll hear from Hayley Morgan Insights & Analytics Business Partner at Coal LSL about Data Literacy, AI & bridging the tech + business divide.\n\nWith the rise of AI & automation, organisations are only now starting to understand the need for large scale data literacy programs. In an age where 2.5 quintillion bytes of data are produced each day, data literacy has become a critical skill. The rapid rise of data has not only transformed how we do business, but it also demands a new set of competencies from every organisations workforce.\n\nHayley will walk through some key design approaches to address the data literacy gap & the impact AI will have on the workforce.\n\nTo be data literate means being able to ask important questions about the data & the world around you. Especially with the rise of AI powered misinformation & deepfakes, you need to be able to ask the right questions about the data & the technology you see. This is the power of data literacy. Organisations can either ethically spend the time & effort it requires to shift their workforce in the direction of AI through data literacy, or be at risk of AI happening to them, with very little time to plan or react in a commercially competitive market.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-07-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/301771246",
-      "going": 3,
+      "going": 12,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
