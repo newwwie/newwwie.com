@@ -1,40 +1,7 @@
-// Auto Generated on 2024-07-03T13:22:20.837Z
+// Auto Generated on 2024-07-04T13:23:06.938Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "Sending a Pi 33km high!",
-      "description": "**About the Topic:**\nJoin us for our upcoming IoT Pioneers event on Thursday the 4th of July, where we'll be hosting high-school student and space enthusiast Nolan.\n\nA few months ago, Nolan achieved an incredible feat by launching his first high-altitude balloon to an astounding 33km. Equipped with an array of sensors, the balloon gathered valuable insights from the edge of space. Join us as we explore Nolan's remarkable journey from being a high school student to becoming a topic of discussion in Parliament!\n\nIt's an event you won't want to miss! As always, there will be plenty of time for questions and networking. And, of course, we'll supply catering, so be sure to get in quickly!\n\nRSVP now to secure your spot!",
-      "dateTime": "2024-07-04T18:30+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-iot-pioneers/events/301964443",
-      "going": 8,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/522056184/676x380.webp",
-      "venue": {
-        "name": "Stag & Hunter Hotel",
-        "lat": -32.897316,
-        "lng": 151.73677,
-        "address": "187 Maitland Rd",
-        "city": "Mayfield"
-      }
-    },
-    "group": {
-      "name": "Newcastle IoT Pioneers",
-      "urlname": "Newcastle-IoT-Pioneers",
-      "groupPhoto": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "465862831",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: Data Literacy, AI & bridging the tech + business divide",
@@ -134,7 +101,7 @@ export const events: readonly EventItem[] = [
       "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI. We'd love to give you more details about what he's talking about, but I'm writing this in May so everything will have changed by then.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering",
       "dateTime": "2024-08-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 8,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
