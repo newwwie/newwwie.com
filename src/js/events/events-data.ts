@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-05T13:21:35.042Z
+// Auto Generated on 2024-07-06T13:19:45.240Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "For our July event, we'll hear from Hayley Morgan Insights & Analytics Business Partner at Coal LSL about Data Literacy, AI & bridging the tech + business divide.\n\nWith the rise of AI & automation, organisations are only now starting to understand the need for large scale data literacy programs. In an age where 2.5 quintillion bytes of data are produced each day, data literacy has become a critical skill. The rapid rise of data has not only transformed how we do business, but it also demands a new set of competencies from every organisations workforce.\n\nHayley will walk through some key design approaches to address the data literacy gap & the impact AI will have on the workforce.\n\nTo be data literate means being able to ask important questions about the data & the world around you. Especially with the rise of AI powered misinformation & deepfakes, you need to be able to ask the right questions about the data & the technology you see. This is the power of data literacy. Organisations can either ethically spend the time & effort it requires to shift their workforce in the direction of AI through data literacy, or be at risk of AI happening to them, with very little time to plan or react in a commercially competitive market.\n\n5:30PM: The event starts with a catch-up\n6:00PM: The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-07-11T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/301771246",
-      "going": 14,
+      "going": 15,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
