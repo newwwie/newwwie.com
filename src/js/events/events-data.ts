@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-11T13:22:44.874Z
+// Auto Generated on 2024-07-12T13:22:27.515Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
