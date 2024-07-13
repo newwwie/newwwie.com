@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-12T13:22:27.515Z
+// Auto Generated on 2024-07-13T13:20:42.866Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -68,7 +68,7 @@ export const events: readonly EventItem[] = [
       "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI. We'd love to give you more details about what he's talking about, but I'm writing this in May so everything will have changed by then.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering",
       "dateTime": "2024-08-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 11,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
