@@ -1,40 +1,7 @@
-// Auto Generated on 2024-07-17T13:22:26.326Z
+// Auto Generated on 2024-07-18T13:23:10.434Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "data.JUL <- CHARTS 📊 & CHATS 🍻 - Social Drinks",
-      "description": "**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\n\nTo start conversation this month let's have a conversation starter of:\n\n*\"What uses of LLMs/GenAI tools are you using at work? Are they internal tools? Are they customer facing?\"*\n\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2024-07-18T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301848973",
-      "going": 3,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/522325902/676x380.webp",
-      "venue": {
-        "name": "Honeysuckle Hotel",
-        "lat": -32.92507,
-        "lng": 151.76918,
-        "address": "Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG July 2024 | Placeholder Event",
@@ -68,7 +35,7 @@ export const events: readonly EventItem[] = [
       "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI. We'd love to give you more details about what he's talking about, but I'm writing this in May so everything will have changed by then.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering",
       "dateTime": "2024-08-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 13,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
