@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-21T13:19:59.223Z
+// Auto Generated on 2024-07-22T13:23:06.204Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "IRAP is the InfoSec Registered Assessors Program. IRAP Assessors hold a variety of qualifications and pass a technical exam as well as maintain an active security clearance.\n\nWe will be joined by a current IRAP Assessor who will share their experience with seeking the qualification, what pitfalls they encountered on the journey, how it has helped them with their career, the types of activities they perform as part of an IRAP assessment, and more!\n\nPlease join us for an exciting evening!\n\n**Event details:**\n\nDate: **WEDNESDAY** July 31st\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
       "dateTime": "2024-07-31T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927280",
-      "going": 9,
+      "going": 11,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
@@ -37,13 +37,13 @@ export const events: readonly EventItem[] = [
   },
   {
     "event": {
-      "title": "August: Adam Cogan on AI",
-      "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI. We'd love to give you more details about what he's talking about, but I'm writing this in May so everything will have changed by then.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering",
+      "title": "Aug: ChatGPT and OpenAI API solutions: 👑 Adam Cogan's Favourite Implementations",
+      "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering\n\nWe'll have plenty of drinks and dinner for everyone who RSVPs for this event.\n**Agenda:**\n6:00 Doors open, Dinner and networking\n6:45 Tech News\n7:00 Adams Talk\n8:00 (ish) Networking and drinks\n\n**About the talk:**\nIn the past year, ChatGPT and the OpenAI API have gone from 0 to 100 faster than a Tesla. No one wants to be left behind. Businesses are automating tasks and having content written instantly.\nSome companies are suddenly ✅ 10x more productive, and some companies ❌ struggle.\nSSW consultants have been leveraging AI to improve client’s products…. And solving problems inside SSW too. Let’s take a look at the best ones!\n\nThe advent of Custom GPTs has meant problems that would have taken weeks to solve before, can have production ready solutions in hours.\n\nSemantic Kernel then allows you to build enterprise solutions that take advantage of LLMs in a structured and scalable way, enabling the integration of AI into various business processes and systems.\n\nCome see SSW Chief Architect Adam Cogan show the important tips to implement AI in practical scenarios. Walk away with the answers to 2 big questions:\n•     How to use AI to build superior software?\n•     How to use AI to improve internal processes in your company?\n\nYou cannot afford to miss this one! This is a watershed moment for tech and has the potential to be as big an impact as the introduction of computers ⭐️",
       "dateTime": "2024-08-07T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 14,
+      "going": 15,
       "maxTickets": 0,
-      "duration": "PT2H",
+      "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
       "venue": {
         "name": "SSW Newcastle - Enterprise Software Development",
