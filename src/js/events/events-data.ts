@@ -1,4 +1,4 @@
-// Auto Generated on 2024-07-23T13:22:27.330Z
+// Auto Generated on 2024-07-24T13:24:12.782Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -74,7 +74,7 @@ export const events: readonly EventItem[] = [
       "description": "In August we'll be hearing from Jacqui Andronicos**.** More details to come!\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-08-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/302243213",
-      "going": 2,
+      "going": 3,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
