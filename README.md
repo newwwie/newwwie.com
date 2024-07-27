@@ -1,8 +1,8 @@
-<img 
+<img
   align="right"
   width="1600px"
   alt="Newwwie Logo"
-  src="newwwie-logo.svg?sanitize=true" 
+  src="newwwie-logo.svg?sanitize=true"
 />
 
 # newwwie.com
@@ -19,6 +19,16 @@ cd newwwie.com
 npm install
 npm run dev
 ```
+
+### Typescript
+
+This repository uses typescript for source files. Currently some typescript errors remain, though at some point (after existing issues in [#119](https://github.com/newwwie/newwwie.com/issues/119) are resolved) webpack will be configured to not build in the presence of typescript errors.
+
+```sh
+npm run typecheck -- --watch
+```
+
+## Contributing
 
 For more information please see our [Contributing Guide](CONTRIBUTING.md)
 

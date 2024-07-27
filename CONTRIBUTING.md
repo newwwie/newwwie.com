@@ -1,8 +1,8 @@
-<img 
+<img
   align="right"
   width="1600px"
   alt="Newwwie Logo"
-  src="newwwie-logo.svg?sanitize=true" 
+  src="newwwie-logo.svg?sanitize=true"
 />
 
 # Contributing to Newwwie Website
@@ -161,9 +161,9 @@ We are still working on having hack days where we can meetup in person and hack 
 
 Pulls from the Meetup API based on a list of approved Meetup Group IDs.
 
-[`fetch-events/meetups.js`](fetch-events/meetups.js)
+[`fetch-events/meetups.json`](fetch-events/meetups.json)
 
-You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/fetch-events/meetups.js)
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/fetch-events/meetups.json)
 
 ## Communities page
 
@@ -173,9 +173,9 @@ https://newwwie.com/#community
 
 If you would like to get added, the content is in:
 
-[`src/js/communities/community-data.js`](src/js/communities/community-data.js)
+[`src/js/communities/community-data.ts`](src/js/communities/community-data.ts)
 
-You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.js)
+You can [edit it directly on the Github Website](https://github.com/newwwie/newwwie.com/edit/main/src/js/communities/community-data.ts)
 
 Here is an example of a high quality entry:
 

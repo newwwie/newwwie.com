@@ -1,7 +1,6 @@
-import { h, Component, render } from "preact";
-import events from "./events-data";
-
-("use strict");
+import { ComponentChildren, render } from "preact";
+import { events } from "./events-data";
+import { EventItem, Group, Image, Venue } from "./types";
 
 export class Meetup {
   /**
@@ -18,10 +17,8 @@ export class Meetup {
   /**
    * @name render
    * @description Handle the response from the Meetup API
-   *
-   * @param {events} events array
    */
-  render(events) {
+  render(events: readonly EventItem[]) {
     // Check to make sure we have at least 1 result
     if (events.length > 0) {
       render(this.renderList(events), document.getElementById("meetupEvents"));
@@ -41,10 +38,8 @@ export class Meetup {
    * @description Render the response from meetup onto the page utilising Preact
    *
    * @see https://www.meetup.com/meetup_api/docs/2/events/ for full documentation of the results object
-   *
-   * @param {object} results
    */
-  renderList(results) {
+  renderList(results: readonly EventItem[]) {
     return results.map((item, i) => {
       const { event, group } = item;
       const startTime = new Date(event.dateTime);
@@ -148,8 +143,8 @@ export class Meetup {
    *
    * @returns {object} JSX Object for image / placeholder
    */
-  renderImage(group, photo_url) {
-    let contents = "";
+  renderImage(group: Group, photo_url?: string) {
+    let contents: ComponentChildren = "";
     let containerClass = "eventItem-image";
 
     if (group.groupPhoto) {
@@ -167,11 +162,9 @@ export class Meetup {
    * @name renderLocationLink
    * @description Not all events have location data, we need to conditionally show information based on what's supplied.
    *
-   * @param {object} venue
-   *
    * @returns {object} JSX Object for location based on available data
    */
-  renderLocationLink(venue) {
+  renderLocationLink(venue: Venue) {
     if (venue) {
       if (venue.hasOwnProperty("lat") && venue.hasOwnProperty("lng")) {
         return (
@@ -197,7 +190,7 @@ export class Meetup {
     return <em>Not specified</em>;
   }
 
-  renderImageLink(photo, size = "676x380") {
+  renderImageLink(photo: Image, size: string = "676x380") {
     return `${photo.baseUrl}${photo.id}/${size}.webp`;
   }
 
@@ -209,7 +202,7 @@ export class Meetup {
    *
    * @returns {string} The time in a human-readable format
    */
-  niceTime(date) {
+  niceTime(date: Date) {
     try {
       return date.toLocaleString("en-US", { hour: "numeric", hour12: true, minute: "2-digit" });
     } catch (e) {
@@ -226,7 +219,7 @@ export class Meetup {
    *
    * @returns {number} The hour in human-readable format
    */
-  niceHours(hour) {
+  niceHours(hour: number) {
     return (hour + 24) % 12 || 12;
   }
 
@@ -234,12 +227,9 @@ export class Meetup {
    * @name niceDay
    * @description Returns a string of the current day corresponding to the number supplied
    *
-   * @param {number} day
-   * @param {boolean} slice
-   *
    * @returns {string} The day of the week in human-readable form
    */
-  niceDay(day, slice = true) {
+  niceDay(day: number, slice: boolean = true) {
     let days = {
       0: "Sunday",
       1: "Monday",
@@ -261,12 +251,12 @@ export class Meetup {
    * @name niceMonth
    * @description Return our month in a human-readable format
    *
-   * @param {number} month The month to translate
-   * @param {boolean} [slice=true] If we want to show the abbreviation or full word, defaults to abbreviation
+   * @param month The month to translate
+   * @param slice If we want to show the abbreviation or full word, defaults to abbreviation
    *
    * @returns {string} The month in human-readable form
    */
-  niceMonth(month, slice = true) {
+  niceMonth(month: number, slice: boolean = true) {
     let months = {
       0: "January",
       1: "February",
@@ -289,7 +279,7 @@ export class Meetup {
     return months[month];
   }
 
-  parseIsoDuration(isoDuration) {
+  parseIsoDuration(isoDuration: string) {
     const DURATION_REGEX =
       /P((?<years>\d+)Y)?((?<months>\d+)M)?((?<days>\d+)D)?T((?<hours>\d+)H)?((?<minutes>\d+)M)?((?<seconds>\d+)S)?/;
     const { groups } = isoDuration.match(DURATION_REGEX);

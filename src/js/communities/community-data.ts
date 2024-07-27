@@ -1,4 +1,6 @@
-export const CommunityData = [{
+import { type CommunityGroup } from './types';
+
+export const CommunityData: readonly CommunityGroup[] = [{
     name: 'Newcastle Coders Group',
     location: "ICT Building, University of Newcastle",
     period: {
@@ -73,50 +75,4 @@ export const CommunityData = [{
     },
     demographic: "Data analysts, data scientists, data engineers, statisticians, computer scientists, machine learning engineers etc",
     format: "Networking/chats, followed by organised presentations, followed by pub."
-},
-{
-    name: "NewcastleJS",
-    location: "INNX Hub Cooperative Working Space",
-    period: {
-        interval: "Monthly",
-        day: "2nd",
-        weekDay: "Tues"
-    },
-    links: {
-        meetUp: "https://www.meetup.com/NewcastleJS-JavaScript-Meetup/",
-        twitter: "https://twitter.com/newcastlejs"
-    },
-    demographic: "Javascript enthusiasts. Amateur to Professional, AngularJS to NodeJS and everything else JS.",
-    format: "Some beverages and short form presentations as well as industry news and jobs board. Post meetup drinks and food at The Edwards afterwards."
-},
-{
-    name: "Newcastle Salesforce Community Group",
-    location: "NewyTechPeople, 24 Lindus Street, Wickham",
-    period: {
-        interval: "Monthly",
-        day: "4th",
-        weekDay: "Thurs"
-    },
-    links: {
-        meetUp: "https://www.meetup.com/newcastle-salesforce-community-group/",
-        linkedIn: "https://www.linkedin.com/groups/14186054/"
-    },
-    demographic: "Salesforce users, technologists, strategists, designers, business process owners, analysts, novices, experts and everything inbetween.",
-    format: "Drinks, beers, wine, pizza and a speaker/presentation slot. The group will grow and evolve to meet the needs and interests of our members."
-
-},
-{
-  name: "Blockchain Newcastle",
-  location: "Check meetup event details",
-  period: {
-      interval: "Monthly",
-      day: "",
-      weekDay: ""
-  },
-  links: {
-      meetUp: "https://www.meetup.com/blockchain-newcastle/",
-  },
-  demographic: "People interested in future technology cycles, whether they be technologists, entrepreneurs, consultants, advisors or simply curious.",
-  format: "Discussion over drinks, beers, wine, and food at local venues."
-
 }]

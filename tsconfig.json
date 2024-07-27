@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
+
+    "strict": true,
+    "skipLibCheck": true,
+
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "module": "nodenext",
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+
+    "noEmit": true // Never emit code - let webpack build
+  }
+}

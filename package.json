@@ -9,8 +9,9 @@
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",
-    "fetchEvents": "node ./fetch-events/index.js",
-    "format": "prettier --write ."
+    "fetchEvents": "ts-node ./fetch-events/fetch-events.ts",
+    "format": "prettier --write .",
+    "typecheck": "tsc"
   },
   "repository": {
     "type": "git",
@@ -26,21 +27,25 @@
   },
   "homepage": "https://github.com/newwwie/newwwie.com#readme",
   "devDependencies": {
-    "@babel/core": "^7.17.10",
-    "@babel/preset-env": "^7.17.10",
+    "@types/lodash": "^4.17.4",
+    "@types/nunjucks": "^3.2.6",
     "autoprefixer": "^10.4.7",
-    "babel-loader": "^8.2.5",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "axios": "^1.7.2",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^3.4.1",
+    "dayjs": "^1.11.11",
     "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^2.6.0",
     "node-fetch": "^2.6.7",
+    "nunjucks": "^3.2.4",
     "postcss-loader": "^6.2.1",
     "preact": "^10.7.1",
     "prettier": "3.2.5",
     "sass": "^1.54.0",
     "sass-loader": "^13.0.2",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
     "webpack": "^5.76.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
