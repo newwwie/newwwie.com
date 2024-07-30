@@ -1,7 +1,7 @@
 import { ComponentChildren, render } from "preact";
 import { events } from "./events-data";
 import { EventItem, Group, Image, Venue } from "./types";
-
+import showdown from "showdown"
 export class Meetup {
   /**
    * @name meetupResponse
@@ -46,6 +46,9 @@ export class Meetup {
       const prettyDay = this.niceDay(startTime.getDay());
       const prettyMonth = this.niceMonth(startTime.getMonth());
       const prettyTime = this.niceTime(startTime);
+      const converter = new showdown.Converter();
+      let formattedEventDescription = converter.makeHtml(event.description.substring(0, 240)).toString();
+      formattedEventDescription = formattedEventDescription.replace(/<\/?p>/g, '');
 
       return (
         <li class="eventItem">
@@ -66,7 +69,7 @@ export class Meetup {
               Hosted by: <a href={`https://meetup.com/${group.urlname}`}>{group.name}</a>
             </p>
 
-            <p class="eventItem-description">{event.description.substring(0, 240)}...</p>
+            <p class="eventItem-description" dangerouslySetInnerHTML={{ __html: `${formattedEventDescription}...` }} />
             <ul class="eventItem-stats">
               <li class="eventItem-stats_rsvp" title="Number of people who have RSVP'd vs. the total number of spots">
                 <svg
