@@ -1,47 +1,14 @@
-// Auto Generated on 2024-08-06T13:23:40.021Z
+// Auto Generated on 2024-08-07T13:24:13.321Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "Aug: ChatGPT and OpenAI API solutions: 👑 Adam Cogan's Favourite Implementations",
-      "description": "In August we'll be back with Adam Cogan Chief Architect at SSW giving us a talk about the current state of developing in AI.\n\nWe'd like to than our sponsors\n\n* SSW\n* Saphi Engineering\n\nWe'll have plenty of drinks and dinner for everyone who RSVPs for this event.\n**Agenda:**\n6:00 Doors open, Dinner and networking\n6:45 Tech News\n7:00 Adams Talk\n8:00 (ish) Networking and drinks\n\n**About the talk:**\nIn the past year, ChatGPT and the OpenAI API have gone from 0 to 100 faster than a Tesla. No one wants to be left behind. Businesses are automating tasks and having content written instantly.\nSome companies are suddenly ✅ 10x more productive, and some companies ❌ struggle.\nSSW consultants have been leveraging AI to improve client’s products…. And solving problems inside SSW too. Let’s take a look at the best ones!\n\nThe advent of Custom GPTs has meant problems that would have taken weeks to solve before, can have production ready solutions in hours.\n\nSemantic Kernel then allows you to build enterprise solutions that take advantage of LLMs in a structured and scalable way, enabling the integration of AI into various business processes and systems.\n\nCome see SSW Chief Architect Adam Cogan show the important tips to implement AI in practical scenarios. Walk away with the answers to 2 big questions:\n•     How to use AI to build superior software?\n•     How to use AI to improve internal processes in your company?\n\nYou cannot afford to miss this one! This is a watershed moment for tech and has the potential to be as big an impact as the introduction of computers ⭐️",
-      "dateTime": "2024-08-07T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/300837217",
-      "going": 47,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "SSW Newcastle - Enterprise Software Development",
-        "lat": -32.926857,
-        "lng": 151.77159,
-        "address": "432 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Meet-up: Living Authentically in a Stereotyped society",
       "description": "In August, we'll hear from Jacqui Andronicos on Living Authentically in a Stereotyped society.\n\n**The Talk:**\nLiving authentically in a society that imposes rigid roles and stereotypes is a constant challenge that women and gender-diverse individuals are well aware of, especially in fields traditionally dominated by cisgender white men, such as tech. From being told that women shouldn’t work or should be subservient to men, to the very existence of gender-diverse people being questioned, we face numerous societal \"shoulds\" and \"shouldn’ts.\" These pressures don’t just apply to us as groups but also shape our individual lives and identities. On top of that, there are the stories we tell about ourselves.\n\nDrawing from the past two years of my life, I will share my journey to self-acceptance as a trans woman, diversifying my social circle, breaking my internal stories and embracing new hobbies I never would have seen myself doing like ultimate frisbee. I will discuss the importance of flexible minds and the benefits of being open to new experiences, the challenges of breaking free from societal and internal messaging, and the empowerment that comes from living authentically and being open. I will also touch on how these personal transformations have influenced my professional life in tech, highlighting the interconnectedness of personal and professional growth.\n\n**The Speaker:**\nJacqui started as a Software Engineer and now works as a Data Warehouse Engineer at Hunter Valley Coal Chain Coordinator (HVCCC) and is passionate about diversity and inclusion in tech as well as the wider world. Over the past two years, Jacqui has undergone a profound personal transformation, embracing her identity as a trans woman and exploring new hobbies and interests. She is actively involved in various communities, including ultimate frisbee, swordcraft, and book clubs. Jacqui's journey of self-acceptance and her commitment to living authentically inspired her to share her experiences and insights with others. As a committee member and treasurer for Pie Wagon and the Sugar Magnolias ultimate clubs, she is dedicated to promoting inclusivity and fostering a supportive culture.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-08-08T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/302243213",
-      "going": 23,
+      "going": 25,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -167,7 +134,7 @@ export const events: readonly EventItem[] = [
       "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle, Level 2\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
       "dateTime": "2024-10-17T17:30+11:00",
       "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301848989",
-      "going": 3,
+      "going": 4,
       "maxTickets": 0,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521972291/676x380.webp",
