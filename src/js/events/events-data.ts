@@ -1,40 +1,7 @@
-// Auto Generated on 2024-08-14T13:23:21.481Z
+// Auto Generated on 2024-08-15T13:22:39.742Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "data.AUG <- Painting with numbers: Newcastle’s Tech Community",
-      "description": "Painting with numbers: Newcastle’s Tech Community\n\n🗣️**Talk Description**:\nIn this presentation, we’ll be taking a look at the data behind the Newcastle tech community. Many of these insights will be taken from Sarah’s latest project, NTP’s Salary Guide for 2024-25, complemented by insights from LinkedIn’s Data Dashboard, data collected from SEEK and more. We’ll take a walk through what some of these numbers mean for the future of tech in Newcastle, how we can collectively keep nudging the dial in the right direction and listen to Sarah furiously defend her choice to use pie charts.\n\n🎙️**Speaker Bio**:\nSarah Frazer is passionate about gathering way too much specific knowledge on everything from Neopet’s store prices to DNS structures to Australian spider species. She’s the Head of Operations at NewyTechPeople, Newcastle’s specialist tech recruitment agency, co-founder of Coded Diversity, a not-for-profit focused on making the technology industry more sustainable for women and gender-diverse people, and Chair of /NEW, Newcastle’s largest technology conference. She has been described as a huge nerd by many social circles, and they’re right.\n\n🏢 **Venue**: University's Q building in Honeysuckle, Level 2\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.",
-      "dateTime": "2024-08-15T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301848981",
-      "going": 26,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/522373841/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "NCSG August 2024 | Placeholder Event",
