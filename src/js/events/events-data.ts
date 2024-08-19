@@ -1,4 +1,4 @@
-// Auto Generated on 2024-08-18T13:20:36.070Z
+// Auto Generated on 2024-08-19T13:23:58.540Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -31,8 +31,8 @@ export const events: readonly EventItem[] = [
   },
   {
     "event": {
-      "title": "Sept: Peter Messenger - There's a lint rule for that",
-      "description": "In September we'll have Peter Messenger talking to us about his experience working on a code base with a lot of linting rules set up.\n\nWe'll have Pizza and drinks available thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\nMore details to come",
+      "title": "Sept: Peter Messenger - There is a lint rule for that",
+      "description": "In September we'll have Peter Messenger talking to us about his experience working on a code base with a lot of linting rules set up.\n\nWe'll have Pizza and drinks available thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\n**There is a lint rule for that.**\nHow we maintain code quality in a large scale angular mono-repo and ensure developers follow consistent guidelines and have to spend less time in code review.\nDiscussing how lint rules and lint libraries can make everyone's lives easier. It applies to any large-scale typescript/javascript project.\nHe will be talking about what packages they use and what lint rules are good for ensuring consistency and quality.\n\n**Biography**\nPeter Messenger is the senior developer at Kip McGrath Education. An Australian company that tutors kids in Maths and English in Australia, New Zealand, South Africa, United Kingdom and the United States.\nHe has been working on the tutoring platform teaching 50,000 kids a week for the last 5 years. It is written in angular/net core.",
       "dateTime": "2024-09-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302892744",
       "going": 1,
