@@ -1,4 +1,4 @@
-// Auto Generated on 2024-08-24T13:20:35.811Z
+// Auto Generated on 2024-08-25T13:20:59.977Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -161,7 +161,7 @@ export const events: readonly EventItem[] = [
       "description": "In November we'll be at the SSW office with an SSW speaker. We're a bit light on details at the moment but we're making sure you know to set aside the date.",
       "dateTime": "2024-11-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897230",
-      "going": 1,
+      "going": 2,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
