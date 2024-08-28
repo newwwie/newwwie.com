@@ -1,41 +1,14 @@
-// Auto Generated on 2024-08-27T13:23:48.649Z
+// Auto Generated on 2024-08-28T13:24:26.158Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "NCSG August 2024 | Mystery Lightning Talks!",
-      "description": "G'day all!\n\nThis month we'll be hosting two lightning talks from the co-organisers!\n\nThe first talk aims to provide an introduction to the standard processes and techniques used when conducting an audit of a typical branch office's technical environment. The content is intended to be practical, discussing different approaches and considerations of scope before covering specific methods.\n\nThe intended audience is early professional level (beginner to intermediate) and does not require an extensive technical background.\n\nThe second talk will cover a hobbyists lens on the use of DNS and security implications of various implementations, it will straddle the intersection of privacy and security and should be suitable for anyone with a basic technical background.\n\nAttendees are encouraged to interrupt either session and ask questions.\n\nWe'd love to see you along if you're interested in anything Cybersecurity and are aware that the [CyberXCHANGE event is on during the day in Newcastle](https://cybercx.com.au/cyberxchange-registration-newcastle/); a great opportunity to engage and network further with industry practitioners!\n\n**Event details:**\n\nDate: **WEDNESDAY** August 28th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2024-08-28T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/298927283",
-      "going": 26,
-      "maxTickets": 30,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
-      "venue": null
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Sept: Peter Messenger - There is a lint rule for that",
       "description": "In September we'll have Peter Messenger talking to us about his experience working on a code base with a lot of linting rules set up.\n\nWe'll have Pizza and drinks available thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\n**There is a lint rule for that.**\nHow we maintain code quality in a large scale angular mono-repo and ensure developers follow consistent guidelines and have to spend less time in code review.\nDiscussing how lint rules and lint libraries can make everyone's lives easier. It applies to any large-scale typescript/javascript project.\nHe will be talking about what packages they use and what lint rules are good for ensuring consistency and quality.\n\n**Biography**\nPeter Messenger is the senior developer at Kip McGrath Education. An Australian company that tutors kids in Maths and English in Australia, New Zealand, South Africa, United Kingdom and the United States.\nHe has been working on the tutoring platform teaching 50,000 kids a week for the last 5 years. It is written in angular/net core.",
       "dateTime": "2024-09-04T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302892744",
-      "going": 10,
+      "going": 13,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
@@ -68,7 +41,7 @@ export const events: readonly EventItem[] = [
       "description": "The return of the classic pub meet-up; we're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 12th September from 5:30PM to 7:30PM\n* **Where:** Honeysuckle Hotel\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-09-12T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303044103",
-      "going": 4,
+      "going": 5,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
