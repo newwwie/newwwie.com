@@ -1,47 +1,14 @@
-// Auto Generated on 2024-09-03T13:25:57.692Z
+// Auto Generated on 2024-09-04T13:26:34.995Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "Sept: Peter Messenger - There is a lint rule for that",
-      "description": "In September we'll have Peter Messenger talking to us about his experience working on a code base with a lot of linting rules set up.\n\nWe'll have Pizza and drinks available thanks to our sponsors:\n\n* Newy Tech People\n* Saphi Engineering\n\n**There is a lint rule for that.**\nHow we maintain code quality in a large scale angular mono-repo and ensure developers follow consistent guidelines and have to spend less time in code review.\nDiscussing how lint rules and lint libraries can make everyone's lives easier. It applies to any large-scale typescript/javascript project.\nHe will be talking about what packages they use and what lint rules are good for ensuring consistency and quality.\n\n**Biography**\nPeter Messenger is the senior developer at Kip McGrath Education. An Australian company that tutors kids in Maths and English in Australia, New Zealand, South Africa, United Kingdom and the United States.\nHe has been working on the tutoring platform teaching 50,000 kids a week for the last 5 years. It is written in angular/net core.",
-      "dateTime": "2024-09-04T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302892744",
-      "going": 16,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Mudbath Digital ",
-        "lat": -32.92607,
-        "lng": 151.7626,
-        "address": "8/710 Hunter st",
-        "city": "Newcastle "
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "WGDPTech Monthly Meet-up - Casual Pub Meet up",
       "description": "The return of the classic pub meet-up; we're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 12th September from 5:30PM to 7:30PM\n* **Where:** Honeysuckle Hotel\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-09-12T19:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303044103",
-      "going": 9,
+      "going": 10,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
