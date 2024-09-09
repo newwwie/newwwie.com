@@ -1,4 +1,4 @@
-// Auto Generated on 2024-09-08T13:22:18.701Z
+// Auto Generated on 2024-09-09T13:27:47.837Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "The return of the classic pub meet-up; we're hosting another event for Women and Gender-Diverse People in Tech, and we'd love for you to join us!\n\nThis event is a casual networking, meetup at the pub. This pub meetup will take us back to our roots; whether you are a regular of WGDT or coming along for the first time, we're super friendly, and we're looking forward to seeing you!\n\nIf you're in tech, interested in tech, or just want to come along to see what we're about, you're more than welcome, we'd love to have you!\n\n**The details:**\n\n* **When**: Thursday, 12th September from 5:30PM to 7:30PM\n* **Where:** Honeysuckle Hotel\n\nWe usually provide food, so let us know of any allergies :)",
       "dateTime": "2024-09-12T17:30+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303044103",
-      "going": 12,
+      "going": 14,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
