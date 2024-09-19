@@ -1,47 +1,14 @@
-// Auto Generated on 2024-09-18T13:27:31.927Z
+// Auto Generated on 2024-09-19T13:27:46.524Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "data.SEP <- 'Scale to Zero' Architecture: Hobby Projects like a Consultant",
-      "description": "'Scale to Zero' Architecture: Hobby Projects like a Consultant\n\n🗣️**Talk Description**: When building hobby projects, you are the customer, founder, project manager and investor. Board meetings are synapses! So what can we learn from consulting that can help deliver hobby projects more effectively? And also how did the accumulation of hobby projects actually help a client POC an ML project for 200x less OpEx than they forecast? Well learning how to design architectures that scale to zero is a start.\n\n🎙️**Speaker Bio**: Josh Peak is a Senior Consultant with V2 Digital specialising in Data and Machine Learning Systems. Josh has three years experience in Data & AI Consulting previously at Intellify and Deloitte as well as a 16 year career which began as an iOS Developer when the iPad was launched through to deploying containerised software that ran in an actual Navy shipping container data centre. He has previously given talks on \"*Extreme Spreadsheets\"* and also builds bluetooth controller software for Lego for fun.\n\n🏢 **Venue**: University's Q building in Honeysuckle, Level 2\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.",
-      "dateTime": "2024-09-19T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301848984",
-      "going": 19,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/523424923/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "Oct: Sarah Frazer - My journey with DNS",
       "description": "In October, we'll be hosting Sara Frazer as she takes us on her journey with DNS.\n\nWe'll have pizza and drinks thanks to our sponsors\n\n* Newy Tech People\n* Saphi Engineering\n* Endava",
       "dateTime": "2024-10-02T18:00+10:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302894061",
-      "going": 9,
+      "going": 10,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
