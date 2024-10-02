@@ -1,40 +1,7 @@
-// Auto Generated on 2024-10-01T13:29:52.954Z
+// Auto Generated on 2024-10-02T13:28:35.840Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "Oct: Sarah Frazer: My DNS journey & Shweta Chenigaram: OpenAI image recognition",
-      "description": "In October, we'll be hosting two speakers:\n\n* Sara Frazer will take us through her journey with DNS.\n* Shweta Chenigaram will talk about using OpenAI image recognition to detect objects and aid human operators in reducing errors and rework\n\nWe'll be hosted out of the Endava offices (previously known as Mudbath).\n\nWe'll have pizza and drinks thanks to our sponsors\n\n* Newy Tech People\n* Saphi Engineering\n* Endava\n\n**About Sarah's talk:**\nScared of DNS? Worried you’ll break something important? Learn from another person’s mistakes instead! In this talk, Sarah takes you through her journey to become a DNS expert by breaking (a lot) of stuff. From domain registration to flushing public IP caches to DMARC authentication, we’ll explore some fo the gold DNS has to offer through the lens of how not to break things the way she did. We’ll cover the importance of patience, a crash course in working with support teams and why hilarious URLs aren’t always the best choice.Speaker Bio:\n\n**About Sarah**\nSarah Frazer is passionate about gathering way too much specific knowledge on everything from Neopet’s store prices to DNS structures to Australian spider species. She’s the co-founder of Coded Diversity, a not-for-profit focused on making the technology industry more sustainable for women and gender-diverse people and Chair of /NEW, Newcastle’s largest technology conference. She has been described as a huge nerd by many social circles, and they’re right.",
-      "dateTime": "2024-10-02T18:00+10:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302894061",
-      "going": 26,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": {
-        "name": "Endava Newcastle",
-        "lat": -32.926075,
-        "lng": 151.7626,
-        "address": "8/710 Hunter Street",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "data.OCT <- TBD Save the date",
