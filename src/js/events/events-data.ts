@@ -1,4 +1,4 @@
-// Auto Generated on 2024-10-08T13:28:10.256Z
+// Auto Generated on 2024-10-09T13:29:33.957Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -138,7 +138,7 @@ export const events: readonly EventItem[] = [
     "event": {
       "title": "December: Newwwie tech trivia",
       "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\nThe format will be 3 rounds, with prizes per round.\nPlenty of pizza and drinks, thanks to our sponsors.\n\nMore details to come.",
-      "dateTime": "2024-12-03T18:00+11:00",
+      "dateTime": "2024-12-11T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897285",
       "going": 2,
       "maxTickets": 0,
