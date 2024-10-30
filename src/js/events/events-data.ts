@@ -1,34 +1,7 @@
-// Auto Generated on 2024-10-29T13:30:01.788Z
+// Auto Generated on 2024-10-30T13:29:30.009Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
-  {
-    "event": {
-      "title": "NCSG October 2024 | When your system forgetting things, is a feature!",
-      "description": "G'day all!\n\nThis month we'll have Jay Rovacsek presenting on amnesiac systems. The talk will dive into the principles, design, and management of systems that run mostly, or exclusively in volatile memory.\n\nThe session will share experiences and insights on:\n\n* The motivations for using amnesiac systems\n* Technical challenges and solutions in maintaining a stateless infrastructure\n* The potential applications and security implications of temporary data residency\n\nThe intended audience is early professional level (beginner to intermediate) and does not require an extensive technical background.\n\nAttendees are encouraged to interrupt the session and ask questions.\n\n**Event details:**\n\nDate: **WEDNESDAY** October 30th\n\nTime: 18:00-20:00\n\nVenue: 16 Honeysuckle Drive, Newcastle (The University of Newcastle 'Q Building') - second floor\n\nFood: PIZZAS Provided, please inform us of dietary requirements when RSVPing\n\nDrink: Non-alcoholic provided, come and grab a few with us at the pub after if you'd like!\n\n**Getting there/parking/public transport:**\n\n* Event location is [here](https://goo.gl/maps/rCqoDx8MbjqyeHTMA) \\- please use the western door\\. UoN requires us to keep this door closed for safety\\, so there will be someone there to let you in\\.\n* Please try and get in the door before 6:10pm. We check occasionally but you might get stuck outside in the cold for a while.\n* The [car park behind the building](https://goo.gl/maps/FzNNQfbAxxW38GNr7) is free after 5PM, and generally has plenty of room.\n* The closest public transport point is [Honeysuckle Light Rail Station](https://goo.gl/maps/3P2BpkiMaCeZ8isk9), which will take you to Newcastle Interchange and beyond every \\~7min or so. Walk along Honeysuckle Drive for a better-lit pathway.\n\n**The rest:**\n\nIf you’re experiencing any symptoms representative of COVID-19, please don’t attend. We’ll miss you, but the health/safety of attendees is paramount.\n\nNCSG is a community group determined to improve and uplift the Newcastle cybersecurity community. We meet monthly (on the last Wednesday of each month) and have a bunch of interesting speakers, from local legends to heavy hitters in the enterprise world.\n\n**Want to learn more?** Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/newcastlecybersecuritygroup/) or visit newwwie.com, join the community and come and chat in the #security channel.\n\n**Keen on speaking? Reach out at the event, or message us here.**",
-      "dateTime": "2024-10-30T19:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/304247259",
-      "going": 8,
-      "maxTickets": 30,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/524373476/676x380.webp",
-      "venue": null
-    },
-    "group": {
-      "name": "Newcastle Cyber Security Group",
-      "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
   {
     "event": {
       "title": "November: Matt Parker - Building Cross-platform Blazor Desktop Apps with Photino",
@@ -68,7 +41,7 @@ export const events: readonly EventItem[] = [
       "description": "In November, we'll be hearing from Heather on how she's mastered soft skills in hard environments. She'll pull on learnings from her dynamic career to share some of her key skills to surviving and thriving in complex workplaces.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
       "dateTime": "2024-11-14T19:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303895589",
-      "going": 8,
+      "going": 9,
       "maxTickets": 40,
       "duration": "PT2H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
@@ -123,6 +96,33 @@ export const events: readonly EventItem[] = [
       },
       "logo": {
         "id": "483576656",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      }
+    }
+  },
+  {
+    "event": {
+      "title": "NCSG: November Save The Date",
+      "description": "Placeholder for November instance of NCSG",
+      "dateTime": "2024-11-27T18:00+11:00",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/304284725",
+      "going": 1,
+      "maxTickets": 0,
+      "duration": "PT2H",
+      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
+      "venue": null
+    },
+    "group": {
+      "name": "Newcastle Cyber Security Group",
+      "urlname": "Newcastle-Cyber-Security-Group",
+      "groupPhoto": {
+        "id": "483205216",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "preview": null
+      },
+      "logo": {
+        "id": "483205216",
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
         "preview": null
       }
