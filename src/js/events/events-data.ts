@@ -1,4 +1,4 @@
-// Auto Generated on 2024-10-31T13:28:49.555Z
+// Auto Generated on 2024-11-01T13:28:08.760Z
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
@@ -8,7 +8,7 @@ export const events: readonly EventItem[] = [
       "description": "In November we'll be at the SSW office with [Matt Parker](https://www.linkedin.com/in/mattparkerdev/) introducing us to Photino a tool for building native cross platform apps using web technologies and showing us how to use it to build real world apps using Blazor.\n\nWe'll have pizza and drinks thanks to our sponsors:\n\n* [SSW](https://www.ssw.com.au/)\n* [Saphi Engineering. ](https://saphi.engineering)\n\nWe'll be hosted out of the SSW Newcastle offices.,\nParking: There is parking next to the Newcastle Museum.\nPublic Transport: The Civic tram stop is outside the SSW office.\n\n**About the talk:**\nAre you a Blazor developer wishing you could build cross-platform desktop apps (yes, even for Linux!) with familiar syntax? Join us to explore Photino, a lightweight framework that brings Blazor to the desktop with direct access to desktop APIs like file system access and multithreading. We’ll compare options like Electron, MAUI and Avalonia, then dive into a live example to show how quickly you can build a Blazor desktop app using Photino—no complex setups or new frameworks required!",
       "dateTime": "2024-11-06T18:00+11:00",
       "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897230",
-      "going": 12,
+      "going": 14,
       "maxTickets": 0,
       "duration": "PT3H",
       "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
