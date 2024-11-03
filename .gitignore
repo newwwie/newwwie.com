@@ -8,6 +8,7 @@
 *.sass-cache/
 dist
 node_modules
+result
 sftp-config.json
 uploads
 yarn.lock
