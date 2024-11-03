@@ -1,6 +1,6 @@
 import { type CommunityGroup } from './types';
 
-export const CommunityData: readonly CommunityGroup[] = [{
+export const communityData: readonly CommunityGroup[] = [{
     name: 'Newcastle Coders Group',
     location: "ICT Building, University of Newcastle",
     period: {
