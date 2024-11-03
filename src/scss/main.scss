@@ -1,13 +1,16 @@
 @charset "UTF-8";
+@use "sass:color";
+@use "sass:meta";
+@use "variables" as *;
+
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500");
 
-@import "config";
-@import "animations";
-@import "navigation";
-@import "cards";
-@import "forms";
-@import "globals";
-@import "events";
+@include meta.load-css("animations");
+@include meta.load-css("navigation");
+@include meta.load-css("cards");
+@include meta.load-css("forms");
+@include meta.load-css("globals");
+@include meta.load-css("events");
 
 .content {
   background-color: $swatch-lightgray;
@@ -20,7 +23,7 @@
   }
 
   h1 {
-    color: mix($swatch-gray, $swatch-blue, 10%);
+    color: color.mix($swatch-gray, $swatch-blue, 10%);
     padding: 0;
     margin: 86px 0 47px; //47px 0;
     font-weight: 400;
@@ -39,6 +42,7 @@
       top: -0.5em;
       width: 0.6em;
     }
+
     &:after {
       top: auto;
       bottom: -0.5em;
@@ -98,7 +102,7 @@
   visibility: visible;
 
   h1 {
-    background-color: mix($swatch-gray, $swatch-blue, 10%);
+    background-color: color.mix($swatch-gray, $swatch-blue, 10%);
     box-decoration-break: clone;
     color: #fff;
     padding: 0.1em;
