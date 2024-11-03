@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: DeterminateSystems/nix-installer-action@main
-      - run: nix flake check
+      - run: nix flake check -Lv
