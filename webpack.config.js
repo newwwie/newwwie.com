@@ -1,10 +1,10 @@
 "use strict";
 
 const path = require("path");
-const autoprefixer = require("autoprefixer");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 const TerserPlugin = require("terser-webpack-plugin");
+const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   mode: "production",
@@ -15,34 +15,40 @@ module.exports = {
   output: {
     filename: "js/[name].js",
     path: path.resolve(__dirname, "dist/"),
-    publicPath: "/dist",
   },
   module: {
     rules: [
       {
         test: /\.scss$/,
-        use: [MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"],
-      },
-      {
-        test: /\.tsx?$/,
-        exclude: /node_modules/,
         use: [
+          MiniCssExtractPlugin.loader,
+          "css-loader",
           {
-            loader: "ts-loader",
+            loader: "sass-loader",
             options: {
-              transpileOnly: true,
+              implementation: require("sass"),
             },
           },
         ],
       },
+      {
+        test: /\.tsx?$/,
+        use: "ts-loader",
+        exclude: /node_modules/,
+      },
     ],
   },
   resolve: {
-    extensions: [".ts", ".tsx"],
+    extensions: [".wasm", ".ts", ".tsx", ".mjs", ".cjs", ".js", ".json", ".scss", ".css"],
   },
   plugins: [
     new MiniCssExtractPlugin({
       filename: "css/[name].css",
+    }),
+    new HtmlWebpackPlugin({
+      template: "./src/index.html",
+      filename: "index.html",
+      inject: "body",
     }),
     (compiler) => {
       new TerserPlugin({
@@ -55,7 +61,7 @@ module.exports = {
   // @see https://webpack.js.org/configuration/dev-server/
   devServer: {
     static: {
-      directory: __dirname,
+      directory: path.resolve(__dirname, "dist/"),
     },
     compress: true,
     host: "0.0.0.0",

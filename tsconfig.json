@@ -1,19 +1,22 @@
 {
   "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
     "jsx": "react-jsx",
     "jsxImportSource": "preact",
-
-    "strict": true,
-    "skipLibCheck": true,
-
-    "outDir": "./dist/",
+    "module": "ESNext",
+    "moduleResolution": "Node",
     "noImplicitAny": true,
-    "module": "nodenext",
-    "target": "es5",
-    "allowJs": true,
-    "moduleResolution": "nodenext",
+    "outDir": "./dist",
     "resolveJsonModule": true,
-
-    "noEmit": true // Never emit code - let webpack build
+    "sourceMap": false,
+    "strict": true,
+    "target": "ESNext",
+    "skipLibCheck": true
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
   }
 }
