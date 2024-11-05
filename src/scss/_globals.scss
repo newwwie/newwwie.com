@@ -1,4 +1,7 @@
 // the barebones of resets
+
+@use "variables" as *;
+
 html {
   height: 100%;
   box-sizing: border-box;
