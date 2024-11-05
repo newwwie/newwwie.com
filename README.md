@@ -17,12 +17,14 @@ It takes a community to build the community.
 git clone https://github.com/newwwie/newwwie.com
 cd newwwie.com
 npm install
+npm run fetchEvents
 npm run dev
+npm test
 ```
 
 ### Typescript
 
-This repository uses typescript for source files. Currently some typescript errors remain, though at some point (after existing issues in [#119](https://github.com/newwwie/newwwie.com/issues/119) are resolved) webpack will be configured to not build in the presence of typescript errors.
+This repository uses typescript for source files.
 
 ```sh
 npm run typecheck -- --watch

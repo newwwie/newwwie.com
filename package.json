@@ -11,7 +11,8 @@
     "dev": "webpack-dev-server",
     "fetchEvents": "ts-node ./fetch-events/fetch-events.ts",
     "format": "prettier --write .",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "test":"npx playwright test"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "printWidth": 120
   },
   "devDependencies": {
+    "@playwright/test": "^1.48.2",
     "@types/dompurify": "^3.0.5",
     "@types/lodash": "^4.17.4",
     "@types/luxon": "^3.4.2",
