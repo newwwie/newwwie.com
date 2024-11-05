@@ -26,6 +26,9 @@
     "url": "https://github.com/newwwie/newwwie.com/issues"
   },
   "homepage": "https://github.com/newwwie/newwwie.com#readme",
+  "prettier": {
+    "printWidth": 120
+  },
   "devDependencies": {
     "@types/dompurify": "^3.0.5",
     "@types/lodash": "^4.17.4",
