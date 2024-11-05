@@ -7,9 +7,10 @@
     <meta name="description" content="web development community, graphic designers community" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="./dist/css/main.css" />
+    <link rel="stylesheet" href="./css/main.css" />
     <link rel="canonical" href="http://www.newwwie.com/" />
   </head>
+
   <body>
     <nav class="nav">
       <a href="#" title="Newwwie">
@@ -43,7 +44,7 @@
               <stop offset="1" stop-color="#fff" />
             </linearGradient>
           </defs>
-          <title>New&sup3;ie</title>
+          <title>New&#179;ie</title>
           <g id="newie" style="isolation: isolate">
             <path
               id="n"
@@ -101,9 +102,6 @@
         <span id="year"></span>
         <a href="https://github.com/newwwie/Code-Of-Conduct/blob/master/README.md" rel="external">Code of conduct</a>
         <a href="https://github.com/newwwie/newwwie.com" rel="external">Edit on Github</a>
-        <script>
-          document.querySelector("#year").innerHTML = `© ${new Date().getFullYear()}`;
-        </script>
       </div>
     </nav>
     <main class="content">
@@ -171,23 +169,20 @@
       </section>
       <section id="events">
         <h1>Events</h1>
-        <ul id="meetupEvents" class="eventItems"></ul>
+        <div id="meetupEvents" class="eventItems"></div>
       </section>
       <section id="home">
         <h1>An <strong>open community</strong> of digital creators in&nbsp;newcastle&nbsp;nsw.</h1>
         <div>
-          <p>A bunch of novocastrians friends, co-workers that started talking tech and other random things.</p>
+          <p>A bunch of Novocastrians friends, co-workers that started talking tech and other random things.</p>
           <p>
-            To be a part of the conversation with 800+ locals. We use a
+            To be a part of the conversation with 1400+ locals. We use a
             <a href="http://www.slack.com">slack</a> channel.
           </p>
         </div>
       </section>
     </main>
 
-    <script src="./dist/js/main.js" async defer></script>
-
-    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
     <script>
       window.ga = function () {
         ga.q.push(arguments);
