@@ -2,7 +2,7 @@ name: Build
 
 on:
   push:
-    branches: [actions-pages-cleanup]
+    branches: [main]
   schedule:
     - cron: "00 13 * * *"
   # Allows you to run this workflow manually from the Actions tab
