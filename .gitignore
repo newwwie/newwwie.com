@@ -11,3 +11,7 @@ node_modules
 sftp-config.json
 uploads
 yarn.lock
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
