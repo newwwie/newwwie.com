@@ -9,8 +9,8 @@ import { events } from "./events-data";
  */
 // @ts-ignore
 const eventIdNode: HTMLElement = document.getElementById("meetupEvents");
-import showdown from "showdown"
-import DOMPurify from 'dompurify';
+import showdown from "showdown";
+import DOMPurify from "dompurify";
 
 export class Meetup extends Component {
   /**
@@ -39,7 +39,7 @@ export class Meetup extends Component {
         const prettyTime = this.niceTime(startTime);
         const converter = new showdown.Converter();
         let formattedEventDescription = converter.makeHtml(event.description.substring(0, 240)).toString();
-        formattedEventDescription = formattedEventDescription.replace(/<\/?p>/g, '');
+        formattedEventDescription = formattedEventDescription.replace(/<\/?p>/g, "");
 
         return (
           <li class="eventItem">
@@ -60,8 +60,9 @@ export class Meetup extends Component {
                 Hosted by: <a href={`https://meetup.com/${group.urlname}`}>{group.name}</a>
               </p>
 
-              <p class="eventItem-description"
-              dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(formattedEventDescription) }} 
+              <p
+                class="eventItem-description"
+                dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(formattedEventDescription) }}
               />
               <ul class="eventItem-stats">
                 <li class="eventItem-stats_rsvp" title="Number of people who have RSVP'd vs. the total number of spots">
