@@ -1,7 +1,7 @@
-import _ from "lodash";
+import * as _ from "lodash";
 import axios from "axios";
-import dayjs from "dayjs";
-import path from "path";
+import { DateTime } from "luxon";
+import * as path from "path";
 import { readFileSync, writeFileSync } from "fs";
 import { renderString } from "nunjucks";
 
@@ -10,7 +10,7 @@ import { GroupEdge, GroupResponse, MEETUP_GQL_QUERY } from "./types";
 import { Meetups } from "./meetups.json";
 
 const MEETUP_GQL_URL = "https://www.meetup.com/gql";
-const END_DATE_RANGE = dayjs().add(3, "month").toISOString(); // Retrieve up to three months from the current date
+const END_DATE_RANGE = DateTime.now().plus({ months: 3 }).toISO(); // Retrieve up to three months from the current date
 const EVENT_OUTPUT_FILE = path.join(__dirname, "../src/js/events/events-data.ts");
 const EVENT_TEMPLATE_FILE = path.join(__dirname, "./event-data-template.njk");
 
@@ -49,7 +49,7 @@ const getGroupEvents = async (groupName: string): Promise<EventItem[]> => {
     console.log("Rendering the events file");
     const template = readFileSync(EVENT_TEMPLATE_FILE, "utf-8");
     const rendered = renderString(template, {
-      generationTime: dayjs().toISOString(),
+      generationTime: DateTime.now().toISO(),
       sortedEvents,
     });
 
