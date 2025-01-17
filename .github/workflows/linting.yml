@@ -19,7 +19,7 @@ jobs:
           node-version: 20.x
 
       - name: Install Node.js dependencies
-        run: npm i node @latest
+        run: npm ci
 
       - name: run lint
         uses: wearerequired/lint-action@v2
