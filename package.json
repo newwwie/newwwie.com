@@ -11,7 +11,7 @@
     "dev": "webpack-dev-server",
     "fetchEvents": "ts-node ./fetch-events/fetch-events.ts",
     "format": "prettier --write .",
-    "format-check": "prettier --check",
+    "format-check": "prettier --check .",
     "lint": "npx eslint",
     "typecheck": "tsc",
     "test": "npx playwright test"
