@@ -21,7 +21,8 @@ jobs:
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: run lint
-        uses: wearerequired/lint-action@v2
-        with:
-          eslint: true
+      - name: run linitng
+        run: npm run lint
+
+      - name: run typechecking
+        run: npm run typecheck
