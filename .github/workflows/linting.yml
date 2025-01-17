@@ -21,8 +21,11 @@ jobs:
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: run linitng
+      - name: Formatting Checks
+        run: npm run format-check
+
+      - name: Linting Check
         run: npm run lint
 
-      - name: run typechecking
+      - name: Typechecking
         run: npm run typecheck
