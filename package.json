@@ -70,7 +70,7 @@
     "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
-    "dompurify": "^3.2.4",
+    "dompurify": "^3.3.2",
     "showdown": "^2.1.0"
   }
 }
