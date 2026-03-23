@@ -44,7 +44,7 @@ export class Meetup extends Component {
         return (
           <li class="eventItem">
             <div class="eventItem-left">
-              {this.renderImage(group, event.imageUrl)}
+              {this.renderImage(group, event.displayPhoto)}
               <div class="eventItem-start">
                 <span class="eventItem-start_day">{prettyDay}</span>
                 <span class="eventItem-start_time">{prettyTime}</span>
@@ -82,7 +82,7 @@ export class Meetup extends Component {
                       </g>
                     </g>
                   </svg>
-                  {event.going} / {event.maxTickets ? event.maxTickets : "\u221E"}
+                  {event.rsvps.totalCount} / {event.maxTickets ? event.maxTickets : "\u221E"}
                 </li>
                 <li class="eventItem-stats_duration" title="Duration of the event">
                   <svg
@@ -119,7 +119,7 @@ export class Meetup extends Component {
                       <path d="M40.94,5.617C37.318,1.995,32.502,0,27.38,0c-5.123,0-9.938,1.995-13.56,5.617c-6.703,6.702-7.536,19.312-1.804,26.952L27.38,54.757L42.721,32.6C48.476,24.929,47.643,12.319,40.94,5.617z M41.099,31.431L27.38,51.243L13.639,31.4C8.44,24.468,9.185,13.08,15.235,7.031C18.479,3.787,22.792,2,27.38,2s8.901,1.787,12.146,5.031C45.576,13.08,46.321,24.468,41.099,31.431z" />
                     </g>
                   </svg>
-                  {event.venue !== null ? this.renderLocationLink(event.venue) : null}
+                  {event.venue !== null ? this.renderLocationLink(event.venue) : "No location"}
                 </li>
               </ul>
             </div>
@@ -151,20 +151,22 @@ export class Meetup extends Component {
    *
    * @returns {object} JSX Object for image / placeholder
    */
-  renderImage(group: Group, photo_url?: string) {
+  renderImage(group: Group, image: Image) {
     let contents: ComponentChildren = "";
     let containerClass = "eventItem-image";
 
-    if (group.groupPhoto) {
+    if (group.keyGroupPhoto) {
       contents = (
         <img
-          src={this.renderImageLink(group.groupPhoto)}
+          src={this.renderImageLink(group.keyGroupPhoto)}
           alt={group.name ?? "undefined"}
           class="eventItem-groupPhoto"
         />
       );
-    } else if (photo_url) {
-      contents = <img src={photo_url} alt={group.name ?? "undefined"} class="eventItem-image_photo" />;
+    } else if (image.baseUrl && image.id) {
+      contents = (
+        <img src={this.renderImageLink(image)} alt={group.name ?? "undefined"} class="eventItem-image_photo" />
+      );
     } else {
       containerClass += " eventItem-image_notSupplied";
     }
@@ -180,10 +182,10 @@ export class Meetup extends Component {
    */
   renderLocationLink(venue: Venue) {
     if (venue) {
-      if (venue.hasOwnProperty("lat") && venue.hasOwnProperty("lng")) {
+      if (venue.hasOwnProperty("lat") && venue.hasOwnProperty("lon")) {
         return (
           <a
-            href={`https://www.google.com/maps/search/${encodeURIComponent(venue.name ?? "")}/@${venue.lat},${venue.lng},16z`}
+            href={`https://www.google.com/maps/search/${encodeURIComponent(venue.name ?? "")}/@${venue.lat},${venue.lon},16z`}
             target="_blank"
           >
             <span>

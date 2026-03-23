@@ -1,487 +1,178 @@
-// Auto Generated on 2024-11-05T02:28:56.561Z
+// Auto Generated on 2026-03-23T19:00:56.759+11:00
 import { type EventItem } from "./types";
 
 export const events: readonly EventItem[] = [
   {
     "event": {
-      "title": "November: Matt Parker - Building Cross-platform Blazor Desktop Apps with Photino",
-      "description": "In November we'll be at the SSW office with [Matt Parker](https://www.linkedin.com/in/mattparkerdev/) introducing us to Photino a tool for building native cross platform apps using web technologies and showing us how to use it to build real world apps using Blazor.\n\nWe'll have pizza and drinks thanks to our sponsors:\n\n* [SSW](https://www.ssw.com.au/)\n* [Saphi Engineering. ](https://saphi.engineering)\n\nWe'll be hosted out of the SSW Newcastle offices.,\nParking: There is parking next to the Newcastle Museum.\nPublic Transport: The Civic tram stop is outside the SSW office.\n\n**About the talk:**\nAre you a Blazor developer wishing you could build cross-platform desktop apps (yes, even for Linux!) with familiar syntax? Join us to explore Photino, a lightweight framework that brings Blazor to the desktop with direct access to desktop APIs like file system access and multithreading. We’ll compare options like Electron, MAUI and Avalonia, then dive into a live example to show how quickly you can build a Blazor desktop app using Photino—no complex setups or new frameworks required!",
-      "dateTime": "2024-11-06T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897230",
-      "going": 22,
-      "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
+      "description": "Kick off the year with the Newcastle cyber community at our **new home**! We’re moving to the sleek **NTP Talent offices in Wickham**. Come for the fresh space, stay for the classic pizza, drinks, and high-calibre insights.\n\n### 🛡️ The Main Event: SANS 5 ICS Critical Controls\n\nOperational Technology (OT) requires a specialized touch. Join **Bruce**, Founder of BLARGE, as he deconstructs the **SANS Five ICS Cybersecurity Critical Controls (5CC)**.\nWhether you're a seasoned pro or new to the field, you’ll walk away with:\n\n* A solid grasp of OT fundamentals.\n* A deep dive into the **5CC framework**.\n* Actionable tips for engaging OT teams and boosting site capability.\n* Access to SANS resources to kickstart your implementation.\n\n***\n\n### 🎙️ Meet Your Speaker: Bruce\n\nBruce is a heavyweight in the industry with 20 years of experience across Critical Infrastructure, including Power, Rail, and Aviation. As the Principal Architect at **BLARGE**, he holds an elite roster of certifications ($GICSP, GRID, GSOM, GCTI$) and is a Chartered Professional Engineer. When it comes to securing the systems that keep the lights on, Bruce is the expert you want to hear from.\n\n***\n\n### 📍 The Details\n\n* **Venue:** NTP Talent, 9 Downie St, Maryville NSW 2293 (A huge thanks to NTP for sponsoring the space!)\n* **Perks:** Pizza and drinks provided.\n* **Vibe:** Professional insights, casual networking, and community growth.\n\n**Don't miss our first session of 2026—RSVP now to save your spot!**",
+      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/313672524/",
+      "dateTime": "2026-03-26T18:30:00+11:00",
       "venue": {
-        "name": "SSW Newcastle - Enterprise Software Development",
-        "lat": -32.926857,
-        "lng": 151.77159,
-        "address": "432 Hunter St",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Newcastle Coders Group",
-      "urlname": "newcastle-coders-group",
-      "groupPhoto": {
-        "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+        "name": "NTP Talent Newcastle",
+        "lat": -32.912285,
+        "lon": 151.75766,
+        "address": "9 Downie St, Maryville NSW",
+        "city": "Marysville"
       },
-      "logo": {
-        "id": "505406540",
+      "title": "Optimizing OT Security with SANS 5 ICS Critical Controls",
+      "displayPhoto": {
         "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "WGDPTech Meet-up: November edition",
-      "description": "In November, we'll be hearing from Heather on how she's mastered soft skills in hard environments. She'll pull on learnings from her dynamic career to share some of her key skills to surviving and thriving in complex workplaces.\n\n**5:30PM:** The event starts with a catch-up\n**6:00PM:** The presentation will begin\n\nDon't forget our 2024 location! We'll gather at the NewyTechPeople office at 9 Downie St, Maryville NSW for this event.\n\nEveryone is welcome to this event, regardless of gender- so share it with your friends. Through these speaker events, we aim to share experiences and knowledge, that's how we learn, and that's how we can improve the community for everyone. We provide food, so let us know of any allergies :)",
-      "dateTime": "2024-11-14T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/303895589",
-      "going": 14,
-      "maxTickets": 40,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/518951708/676x380.webp",
-      "venue": {
-        "name": "9 Downie St",
-        "lat": -32.912266,
-        "lng": 151.75763,
-        "address": "9 Downie St",
-        "city": "Maryville"
-      }
-    },
-    "group": {
-      "name": "Women & Gender Diverse People in Tech",
-      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
-      "groupPhoto": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+        "id": "533063953"
       },
-      "logo": {
-        "id": "516565764",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.NOV <- On the pathway to artificial consciousness...",
-      "description": "**🗣️Talk Description:** On this journey, we will discuss much about the human brain as this mystical, seemingly unattainable model. We'll also touch on the flaws and architectural design limitations of current artifical neural networks. Next will be a homage to spiking neural networks highlighting their more fantastic abilities juxtaposed to their curses. Finally we can cover some ground on where creativity stems from, and why we shouldn't let engineers model the brain. As a disclaimer the talk itself is going to be quite dense and probably a little too broad. However that's a consequence of adhd and I apologize for nothing.\n\n**🎙️Speaker Bio:** \"Hi. My name is Jacob Saunders, and I have been aggressively failing (and learning) for the last 10 years. I have failed at many things, ranging from McDonald's crew person, to professional battery builder all the way over to pure mathematician. These are my stories...\"\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\nONLINE: At the request of the speaker we will setup a zoom link for those that want to join remotely. We will only have the zoom link shortly before the event starts so please keep an eye on the comments and meetup messages.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk",
-      "dateTime": "2024-11-21T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/301849003",
-      "going": 8,
+      "rsvps": {
+        "totalCount": 18
+      },
       "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/523891421/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "NCSG: November Save The Date",
-      "description": "Placeholder for November instance of NCSG",
-      "dateTime": "2024-11-27T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-cyber-security-group/events/304284725",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/483205216/676x380.webp",
-      "venue": null
+      "duration": "PT1H30M"
     },
     "group": {
       "name": "Newcastle Cyber Security Group",
       "urlname": "Newcastle-Cyber-Security-Group",
-      "groupPhoto": {
+      "keyGroupPhoto": {
         "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483205216",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
       }
     }
   },
   {
     "event": {
-      "title": "December: Newwwie tech trivia",
-      "description": "We're bringing back tech trivia in December.\nIt's the same deal as the last few years, a fun, social way to end out the year.\nThe format will be 3 rounds, with prizes per round.\nPlenty of pizza and drinks, thanks to our sponsors.\n\nMore details to come.",
-      "dateTime": "2024-12-11T18:00+11:00",
-      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/302897285",
-      "going": 2,
+      "description": "Howdy team, we're back on April 1 with Prudence Mutabari giving us a talk about AI document generation.\n\nWe'd like to thank our sponsors\n\\* NTP Talent,\n\\* Endava\n\\* Saphi Engineering\n\n**Speaker Profile:**\nPrudence is a recent Data Science graduate from the University of Newcastle with a strong interest in artificial intelligence and its practical applications. Her interest in AI began at a young age, inspired by the possibilities of intelligent systems and growing up immersed in the online tech space. This passion led her to participate in programs such as the New York Academy of Sciences Junior Academy and innovation challenges like Technovation, as well as contributing writing to small online publications. During her studies, Prudence undertook an internship project exploring the use of AI for automated document generation, which sparked her interest in how modern AI systems can augment professional workflows.\n\n**Talk Overview: AI Document Generation:**\nThis talk will explore how modern AI systems can be used to assist in generating structured documents and reports. Drawing from a final year project involving AI-assisted document generation, Prudence will walk through the core concepts behind building such a system, including the components involved, how AI models interact with structured knowledge sources, and how these tools can support real-world workflows. The session will also explore practical applications, limitations, and ethical considerations when deploying AI in professional environments, including the importance of maintaining human oversight. The goal of the talk is to provide a practical overview of how these systems work while opening discussion around how they might be used responsibly in industry.",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/313607168/",
+      "dateTime": "2026-04-01T18:00:00+11:00",
+      "venue": null,
+      "title": "April: Prudence Mutabari - AI Document Generation",
+      "displayPhoto": {
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "id": "505406540"
+      },
+      "rsvps": {
+        "totalCount": 17
+      },
       "maxTickets": 0,
-      "duration": "PT3H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505406540/676x380.webp",
-      "venue": null
+      "duration": "PT2H"
     },
     "group": {
       "name": "Newcastle Coders Group",
       "urlname": "newcastle-coders-group",
-      "groupPhoto": {
+      "keyGroupPhoto": {
         "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+      }
+    }
+  },
+  {
+    "event": {
+      "description": "We'll be back on April 1 (no foolin')\n\nWe'll have Prudence taking us through some work she'd done on AI document generation. We'll have more details on Prudence and her talk soon.\n\nThis event will be hosted at the Endava Newcastle office. We will have Pizza and drinks for everyone, as long as you RSVP.\n\nWe'd like to thank our Sponsors:\n\\* NTP Talent\n\\* Endava\n\\* Saphi Engineering",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/313688366/",
+      "dateTime": "2026-04-01T18:00:00+11:00",
+      "venue": {
+        "name": "Endava Newcastle",
+        "lat": -32.926075,
+        "lon": 151.7626,
+        "address": "8/710 Hunter Street",
+        "city": "Newcastle"
       },
-      "logo": {
+      "title": "April: Prudence - AI Document Generation",
+      "displayPhoto": {
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "id": "533084538"
+      },
+      "rsvps": {
+        "totalCount": 5
+      },
+      "maxTickets": 0,
+      "duration": "PT2H"
+    },
+    "group": {
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "keyGroupPhoto": {
         "id": "505406540",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
       }
     }
   },
   {
     "event": {
-      "title": "data.FEB <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-02-20T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852171",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
+      "description": "This is a holding event for our Women and Gender-Diverse People in Tech. Details TBA!\n\n**5:30PM:** Join us for some pre-games pizza and a refreshment!\n**6:00PM:** Presentation\n7:00PM: Networking\n7:30PM: Event Wrap-up\n\nEveryone is welcome to this event, regardless of gender - so share it with your friends.",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/kdfwttyjcgbmb/",
+      "dateTime": "2026-04-09T17:30:00+10:00",
+      "venue": null,
+      "title": "WGDPTech Meet-up: Topic TBC",
+      "displayPhoto": {
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "id": "518951708"
+      },
+      "rsvps": {
+        "totalCount": 2
+      },
+      "maxTickets": 40,
+      "duration": "PT2H"
     },
     "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+      "name": "Women & Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "keyGroupPhoto": {
+        "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
       }
     }
   },
   {
     "event": {
-      "title": "data.MAR <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-03-20T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852182",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
+      "description": "In May we're back with one of our favourite speakers Adam Cogan. Adam has spoken every year since the Newcastle Coders Group started and always brings a great presentation.\n\nThis event will be hosted at the SSW Newcastle Office.\nWe'd like to thank our sponsors:\n\\* SSW\n\\* Saphi Engineering.\n\n**About Adam's Talk - From Copilot to the Garden of Eden**\nMove beyond the underwhelming 2023 \"Copilot hype\" to the tools actually delivering value for developers. Adam Cogan cuts through the noise, exploring how AI is fundamentally reshaping the enterprise stack, from Copilot and Cowork to agentic workflows and CLI-based coding.\nLearn how roles are shifting, which AI assistants are winning, and what an AI-integrated \"Garden of Eden\" looks like. Leave with a practical roadmap to build, analyze, and automate with confidence.",
+      "eventUrl": "https://www.meetup.com/newcastle-coders-group/events/313689032/",
+      "dateTime": "2026-05-06T18:00:00+10:00",
       "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
+        "name": "SSW Newcastle - Enterprise Software Development",
+        "lat": -32.926857,
+        "lon": 151.77159,
+        "address": "432 Hunter St",
         "city": "Newcastle"
-      }
+      },
+      "title": "May: Adam Cogan - From Copilot to the Garden of Eden",
+      "displayPhoto": {
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "id": "505406540"
+      },
+      "rsvps": {
+        "totalCount": 1
+      },
+      "maxTickets": 0,
+      "duration": "PT2H"
     },
     "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+      "name": "Newcastle Coders Group",
+      "urlname": "newcastle-coders-group",
+      "keyGroupPhoto": {
+        "id": "505406540",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
       }
     }
   },
   {
     "event": {
-      "title": "data.APR <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-04-17T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852188",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
+      "description": "This is a holding event for our Women and Gender-Diverse People in Tech. Details TBA!\n\n**5:30PM:** Join us for some pre-games pizza and a refreshment!\n**6:00PM:** Presentation\n7:00PM: Networking\n7:30PM: Event Wrap-up\n\nEveryone is welcome to this event, regardless of gender - so share it with your friends.",
+      "eventUrl": "https://www.meetup.com/newcastle-women-and-gender-diverse-people-in-tech/events/kdfwttyjchbsb/",
+      "dateTime": "2026-05-14T17:30:00+10:00",
+      "venue": null,
+      "title": "WGDPTech Meet-up: Topic TBC",
+      "displayPhoto": {
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+        "id": "518951708"
+      },
+      "rsvps": {
+        "totalCount": 2
+      },
+      "maxTickets": 40,
+      "duration": "PT2H"
     },
     "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.MAY <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-05-15T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852195",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.JUN <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-06-19T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852200",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.JUL <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-07-17T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852204",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.AUG <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-08-21T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852213",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.SEP <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-09-18T17:30+10:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852218",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.OCT <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-10-16T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852227",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      }
-    }
-  },
-  {
-    "event": {
-      "title": "data.NOV <- TBD Save the date",
-      "description": "**EOI Call for Speakers** 🗣️🎙️\n[https://forms.gle/fnWkDmzmdPvs7z7WA](https://forms.gle/fnWkDmzmdPvs7z7WA)\nWe are yet to lock in a speaker for this month. You can always submit an expression of interest through the above Google Form or join [Newwwie Slack](https://newwwie.com/#invite) and call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U)\n\n🗣️**Talk Description**: TBD\n\n🎙️**Speaker Bio**: TBD\n\n🏢 **Venue**: University's Q building in Honeysuckle\n\n[https://goo.gl/maps/35LwcLhKV1nvoFAh7](https://goo.gl/maps/35LwcLhKV1nvoFAh7)\n\n* We will meet in the Level 2 Seminar Space.\n* You'll need to enter through the main doors on Worth Place, and will be directed to the elevators to join the meetup.\n* If you can't get in, please signal to the security guard that should be at the front desk that your here for the meetup.\n\nPARKING: The closest parking is Wright Lane Carpark.\n\n[https://goo.gl/maps/rj6Yg8EkpjYzUmbi7](https://goo.gl/maps/rj6Yg8EkpjYzUmbi7)\n\nAfter 5pm it is free and is a 400m - 5 minute walk.\n\n##-------------------------------------------------------------------##\n\n🕠 TIME: 5.30pm - 7.30pm\n\nFOOD: 🍕 + 🥤\n\n* Wood fired pizza, sponsored by NewyTechPeople\n* Soft drinks\n\nSCHEDULE:\n\n* 5:30pm: Networking + Food + Drinks\n\n(Don't stress if you are held up in traffic)\n\n* 6:15pm: Presentation\n* 7:15pm: Packing up + Bonus questions\n* 7:30pm: Close\n* 7:30pm+: [Unofficially] anyone wanting to continue chatting, we usually head to [Honeysuckle Hotel](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6) which is a short walk from the venue.\n\n##-------------------------------------------------------------------##\n**CHARTS 📊 & CHATS 🍻 - Social Drinks**\n*Backup plan in case of no speaker lined up.*\n##-------------------------------------------------------------------##\n\nNo speaker this month, but look forward to more talks in coming months.\nThe Honeysuckle Hotel is where we usually go after our events at the university's Q Building. There is no booking but we will try and gather some tables, likely out the back.\nIf you can't find us, call out in the [Newwwie Slack #data-science channel](https://newwwie.slack.com/archives/CBD021X0U) and we'll direct you.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n🕒 **When**: Third Thursday of the Month 5.30pm-7.30pm\n🏢 **Venue**: The Honeysuckle Hotel, Honeysuckle Drive, Newcastle\n[https://maps.app.goo.gl/z3e4JvSvYWb6quwn6](https://maps.app.goo.gl/z3e4JvSvYWb6quwn6)",
-      "dateTime": "2025-11-20T17:30+11:00",
-      "eventUrl": "https://www.meetup.com/hunter-data-analytics/events/303852228",
-      "going": 1,
-      "maxTickets": 0,
-      "duration": "PT2H",
-      "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/521973471/676x380.webp",
-      "venue": {
-        "name": "Q Building, The University of Newcastle",
-        "lat": -32.926277,
-        "lng": 151.7683,
-        "address": "16B Honeysuckle Dr",
-        "city": "Newcastle"
-      }
-    },
-    "group": {
-      "name": "Hunter Data Analytics",
-      "urlname": "hunter-data-analytics",
-      "groupPhoto": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
-      },
-      "logo": {
-        "id": "483576656",
-        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
-        "preview": null
+      "name": "Women & Gender Diverse People in Tech",
+      "urlname": "newcastle-women-and-gender-diverse-people-in-tech",
+      "keyGroupPhoto": {
+        "id": "516565764",
+        "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
       }
     }
   }

@@ -7,55 +7,53 @@ export type GroupEdge = {
 export type GroupResponse = {
   data: {
     groupByUrlname: Group & {
-      unifiedEvents: {
+      events: {
         edges: GroupEdge[];
       };
     };
   };
 };
 
-// Sandbox available at https://www.meetup.com/api/playground/#graphQl-playground
+// Sandbox available at https://www.meetup.com/graphql/playground/
+
 export const MEETUP_GQL_QUERY = `
-query ($groupName: String!, $endDate: ZonedDateTime) {
-  groupByUrlname(
-    urlname: $groupName
-  ) {
-    name
-    urlname
-    groupPhoto {
-      id
-      baseUrl
-      preview
-    }
-    logo {
-      id
-      baseUrl
-      preview
-    }
-    unifiedEvents(
-      filter: {
-        endDateRange: $endDate
-      }
-    ) {
-      edges {
-        node {
-          title
-          description
-          dateTime
-          eventUrl
-          going
-          maxTickets
-          duration
-          imageUrl
-          venue {
-            name
-            lat
-            lng
-            address
-            city
-          }
+query ($groupName: String!, $beforeDate: DateTime) {
+    groupByUrlname(urlname: $groupName) {
+        name
+        urlname
+        keyGroupPhoto {
+            id
+            baseUrl
         }
-      }
+        events(
+            filter: { beforeDateTime: $beforeDate }
+            sort: ASC
+        ) {
+            edges {
+                node {
+                    description
+                    eventUrl
+                    dateTime
+                    
+                    venue {
+                        name
+                        lat
+                        lon
+                        address
+                        city
+                    }
+                    title
+                    displayPhoto {
+                        baseUrl
+                        id
+                    }
+                    rsvps {
+                        totalCount
+                    }
+                    maxTickets
+                    duration
+                }
+            }
+        }
     }
-  }
 }`;
