@@ -67,7 +67,7 @@
     "webpack": "^5.76.0",
     "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^4.9.2",
-    "webpack-dev-server": "^4.9.0"
+    "webpack-dev-server": "^5.2.1"
   },
   "dependencies": {
     "dompurify": "^3.2.4",
