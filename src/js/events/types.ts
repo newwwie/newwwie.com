@@ -11,30 +11,30 @@ export type Event = {
   description: string;
   duration: string;
   eventUrl: string;
-  going: number;
-  imageUrl: string;
   maxTickets: number;
   title: string;
   venue: Venue | null;
+  displayPhoto: Image;
+  rsvps: {
+    totalCount: number;
+  };
 };
 
 export type Venue = {
   address: null | string;
   city: null | string;
   lat: number;
-  lng: number;
+  lon: number;
   name: null | string;
 };
 
 export type Group = {
-  groupPhoto: null | Image;
-  logo: null | Image;
   name: string;
   urlname: string;
+  keyGroupPhoto: Image;
 };
 
 export type Image = {
   baseUrl: string;
   id: string;
-  preview: null;
 };
